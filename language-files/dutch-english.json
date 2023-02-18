@@ -1,0 +1,3007 @@
+{
+    "dutch": [
+        {
+            "ik": "I"
+        },
+        {
+            "je": "you"
+        },
+        {
+            "het": "It"
+        },
+        {
+            "de": "the"
+        },
+        {
+            "dat": "that"
+        },
+        {
+            "is": "is"
+        },
+        {
+            "een": "An"
+        },
+        {
+            "niet": "not"
+        },
+        {
+            "en": "and"
+        },
+        {
+            "wat": "what"
+        },
+        {
+            "van": "by"
+        },
+        {
+            "we": "we"
+        },
+        {
+            "in": "in"
+        },
+        {
+            "ze": "she"
+        },
+        {
+            "hij": "he"
+        },
+        {
+            "op": "on"
+        },
+        {
+            "te": "at"
+        },
+        {
+            "zijn": "are"
+        },
+        {
+            "er": "there"
+        },
+        {
+            "maar": "but"
+        },
+        {
+            "die": "That"
+        },
+        {
+            "heb": "have"
+        },
+        {
+            "me": "me"
+        },
+        {
+            "met": "of"
+        },
+        {
+            "voor": "for"
+        },
+        {
+            "als": "when"
+        },
+        {
+            "ben": "am"
+        },
+        {
+            "was": "used to be"
+        },
+        {
+            "dit": "this"
+        },
+        {
+            "mijn": "mine"
+        },
+        {
+            "om": "to"
+        },
+        {
+            "aan": "On"
+        },
+        {
+            "jij": "you"
+        },
+        {
+            "naar": "Unpleasant"
+        },
+        {
+            "dan": "than"
+        },
+        {
+            "hier": "here"
+        },
+        {
+            "weet": "know"
+        },
+        {
+            "kan": "can"
+        },
+        {
+            "geen": "no"
+        },
+        {
+            "nog": "yet"
+        },
+        {
+            "moet": "must"
+        },
+        {
+            "wil": "want to"
+        },
+        {
+            "wel": "well"
+        },
+        {
+            "ja": "Yes"
+        },
+        {
+            "zo": "Like this"
+        },
+        {
+            "heeft": "has"
+        },
+        {
+            "hebben": "to have"
+        },
+        {
+            "hem": "it"
+        },
+        {
+            "goed": "Good"
+        },
+        {
+            "nee": "no"
+        },
+        {
+            "waar": "Where"
+        },
+        {
+            "nu": "now"
+        },
+        {
+            "hoe": "how"
+        },
+        {
+            "ga": "go"
+        },
+        {
+            "haar": "her"
+        },
+        {
+            "uit": "out"
+        },
+        {
+            "doen": "doing"
+        },
+        {
+            "ook": "also"
+        },
+        {
+            "over": "about"
+        },
+        {
+            "bent": "are"
+        },
+        {
+            "mij": "me"
+        },
+        {
+            "gaan": "to go"
+        },
+        {
+            "of": "or"
+        },
+        {
+            "kom": "bowl"
+        },
+        {
+            "zou": "would"
+        },
+        {
+            "al": "already"
+        },
+        {
+            "bij": "bee"
+        },
+        {
+            "daar": "over there"
+        },
+        {
+            "ons": "us"
+        },
+        {
+            "jullie": "you"
+        },
+        {
+            "hebt": "have"
+        },
+        {
+            "gaat": "go"
+        },
+        {
+            "iets": "something"
+        },
+        {
+            "zal": "shall"
+        },
+        {
+            "meer": "more"
+        },
+        {
+            "waarom": "Why"
+        },
+        {
+            "had": "had"
+        },
+        {
+            "deze": "this"
+        },
+        {
+            "laat": "leave"
+        },
+        {
+            "moeten": "must"
+        },
+        {
+            "m'n": "my"
+        },
+        {
+            "jou": "you"
+        },
+        {
+            "doe": "off"
+        },
+        {
+            "wie": "Who"
+        },
+        {
+            "kunnen": "be able to"
+        },
+        {
+            "alles": "everything"
+        },
+        {
+            "denk": "think"
+        },
+        {
+            "door": "Through"
+        },
+        {
+            "echt": "Real"
+        },
+        {
+            "alleen": "only"
+        },
+        {
+            "oké": "Okay"
+        },
+        {
+            "eens": "at sometime"
+        },
+        {
+            "dus": "So"
+        },
+        {
+            "weg": "away"
+        },
+        {
+            "zien": "to see"
+        },
+        {
+            "toch": "However"
+        },
+        {
+            "man": "man"
+        },
+        {
+            "nooit": "never"
+        },
+        {
+            "terug": "back"
+        },
+        {
+            "laten": "to leave"
+        },
+        {
+            "nou": "Well"
+        },
+        {
+            "mee": "along"
+        },
+        {
+            "misschien": "maybe"
+        },
+        {
+            "even": "for a bit"
+        },
+        {
+            "iemand": "someone"
+        },
+        {
+            "komt": "comes"
+        },
+        {
+            "niets": "nothing"
+        },
+        {
+            "zei": "said"
+        },
+        {
+            "hou": "keep"
+        },
+        {
+            "komen": "come"
+        },
+        {
+            "mensen": "people"
+        },
+        {
+            "onze": "our"
+        },
+        {
+            "nodig": "necessary"
+        },
+        {
+            "tot": "until"
+        },
+        {
+            "worden": "become"
+        },
+        {
+            "veel": "a lot of"
+        },
+        {
+            "weten": "know"
+        },
+        {
+            "leven": "to live"
+        },
+        {
+            "wij": "We"
+        },
+        {
+            "weer": "weather"
+        },
+        {
+            "gewoon": "Ordinary"
+        },
+        {
+            "kijk": "look"
+        },
+        {
+            "zeggen": "say"
+        },
+        {
+            "tijd": "time"
+        },
+        {
+            "zeg": "say"
+        },
+        {
+            "twee": "two"
+        },
+        {
+            "toen": "when"
+        },
+        {
+            "tegen": "in return for"
+        },
+        {
+            "zit": "sit"
+        },
+        {
+            "net": "just"
+        },
+        {
+            "dood": "dead"
+        },
+        {
+            "uw": "your"
+        },
+        {
+            "wordt": "is becoming"
+        },
+        {
+            "hé": "Hey"
+        },
+        {
+            "maken": "to make"
+        },
+        {
+            "mag": "allowed"
+        },
+        {
+            "één": "An"
+        },
+        {
+            "z'n": "his"
+        },
+        {
+            "omdat": "because"
+        },
+        {
+            "gedaan": "done"
+        },
+        {
+            "heel": "all"
+        },
+        {
+            "af": "off"
+        },
+        {
+            "altijd": "always"
+        },
+        {
+            "jouw": "your"
+        },
+        {
+            "zeker": "Certainly"
+        },
+        {
+            "geef": "give"
+        },
+        {
+            "zie": "see"
+        },
+        {
+            "wacht": "guard"
+        },
+        {
+            "allemaal": "all"
+        },
+        {
+            "jaar": "year"
+        },
+        {
+            "doet": "do"
+        },
+        {
+            "dag": "day"
+        },
+        {
+            "zij": "she"
+        },
+        {
+            "hun": "their"
+        },
+        {
+            "huis": "house"
+        },
+        {
+            "vader": "father"
+        },
+        {
+            "dank": "thanks"
+        },
+        {
+            "dacht": "thought"
+        },
+        {
+            "kunt": "can"
+        },
+        {
+            "zoals": "as"
+        },
+        {
+            "vrouw": "woman"
+        },
+        {
+            "keer": "time"
+        },
+        {
+            "anders": "otherwise"
+        },
+        {
+            "andere": "Others"
+        },
+        {
+            "willen": "want"
+        },
+        {
+            "erg": "terribly"
+        },
+        {
+            "spijt": "regret"
+        },
+        {
+            "bedankt": "Thank you"
+        },
+        {
+            "niemand": "no one"
+        },
+        {
+            "wilt": "want"
+        },
+        {
+            "geld": "money"
+        },
+        {
+            "zitten": "to sit"
+        },
+        {
+            "niks": "nothing"
+        },
+        {
+            "iedereen": "everyone"
+        },
+        {
+            "binnen": "inside"
+        },
+        {
+            "staat": "stands"
+        },
+        {
+            "wilde": "wild"
+        },
+        {
+            "zich": "himself"
+        },
+        {
+            "beter": "better"
+        },
+        {
+            "werk": "work"
+        },
+        {
+            "praten": "to talk"
+        },
+        {
+            "gezien": "seen"
+        },
+        {
+            "zullen": "shall"
+        },
+        {
+            "waren": "goods"
+        },
+        {
+            "god": "God"
+        },
+        {
+            "maak": "make"
+        },
+        {
+            "neem": "take"
+        },
+        {
+            "vinden": "find"
+        },
+        {
+            "vind": "find"
+        },
+        {
+            "moeder": "mother"
+        },
+        {
+            "kon": "could"
+        },
+        {
+            "uur": "o'clock"
+        },
+        {
+            "klaar": "finished"
+        },
+        {
+            "genoeg": "enough"
+        },
+        {
+            "helpen": "to help"
+        },
+        {
+            "oh": "Oh"
+        },
+        {
+            "hele": "whole"
+        },
+        {
+            "drie": "three"
+        },
+        {
+            "vast": "fixed"
+        },
+        {
+            "na": "after"
+        },
+        {
+            "hallo": "Hello"
+        },
+        {
+            "leuk": "nice"
+        },
+        {
+            "sorry": "Sorry"
+        },
+        {
+            "alle": "all"
+        },
+        {
+            "elkaar": "each other"
+        },
+        {
+            "toe": "ate"
+        },
+        {
+            "wist": "knew"
+        },
+        {
+            "zegt": "say"
+        },
+        {
+            "bedoel": "mean"
+        },
+        {
+            "blijf": "stay"
+        },
+        {
+            "alsjeblieft": "please"
+        },
+        {
+            "lang": "long"
+        },
+        {
+            "meneer": "sir"
+        },
+        {
+            "ziet": "sees"
+        },
+        {
+            "maakt": "makes"
+        },
+        {
+            "luister": "listen"
+        },
+        {
+            "dingen": "stuff"
+        },
+        {
+            "mooi": "Nice"
+        },
+        {
+            "werd": "became"
+        },
+        {
+            "eerste": "first"
+        },
+        {
+            "graag": "Please"
+        },
+        {
+            "natuurlijk": "Naturally"
+        },
+        {
+            "houden": "to hold"
+        },
+        {
+            "zonder": "without"
+        },
+        {
+            "steeds": "still"
+        },
+        {
+            "krijgen": "to get"
+        },
+        {
+            "grote": "great"
+        },
+        {
+            "achter": "behind"
+        },
+        {
+            "helemaal": "absolutely"
+        },
+        {
+            "naam": "name"
+        },
+        {
+            "gek": "crazy"
+        },
+        {
+            "blijven": "to stay"
+        },
+        {
+            "onder": "below"
+        },
+        {
+            "vriend": "friend"
+        },
+        {
+            "geweest": "been"
+        },
+        {
+            "kijken": "to look"
+        },
+        {
+            "geven": "to give"
+        },
+        {
+            "ging": "went"
+        },
+        {
+            "vertellen": "narrate"
+        },
+        {
+            "ooit": "ever"
+        },
+        {
+            "snel": "fast"
+        },
+        {
+            "hand": "hand"
+        },
+        {
+            "idee": "idea"
+        },
+        {
+            "goede": "good"
+        },
+        {
+            "auto": "car"
+        },
+        {
+            "kwam": "came"
+        },
+        {
+            "verdomme": "damn"
+        },
+        {
+            "beetje": "bit"
+        },
+        {
+            "moest": "had to"
+        },
+        {
+            "kinderen": "children"
+        },
+        {
+            "wanneer": "when"
+        },
+        {
+            "gebeurd": "happened"
+        },
+        {
+            "jongen": "boy"
+        },
+        {
+            "bang": "anxious"
+        },
+        {
+            "vraag": "ask"
+        },
+        {
+            "lijkt": "seems"
+        },
+        {
+            "geweldig": "awesome"
+        },
+        {
+            "paar": "couple"
+        },
+        {
+            "hoor": "hear"
+        },
+        {
+            "laatste": "last"
+        },
+        {
+            "deed": "held"
+        },
+        {
+            "nieuwe": "new ones"
+        },
+        {
+            "vragen": "to ask"
+        },
+        {
+            "kun": "abundance"
+        },
+        {
+            "zag": "saw"
+        },
+        {
+            "zorgen": "to assure"
+        },
+        {
+            "staan": "to stand"
+        },
+        {
+            "wereld": "world"
+        },
+        {
+            "eten": "to eat"
+        },
+        {
+            "jongens": "boys"
+        },
+        {
+            "enige": "any"
+        },
+        {
+            "zelf": "yourself"
+        },
+        {
+            "want": "because"
+        },
+        {
+            "nemen": "to take"
+        },
+        {
+            "heen": "to"
+        },
+        {
+            "zo'n": "Sun"
+        },
+        {
+            "beste": "Best"
+        },
+        {
+            "ken": "know"
+        },
+        {
+            "vandaag": "Today"
+        },
+        {
+            "zelfs": "even"
+        },
+        {
+            "ie": "ie"
+        },
+        {
+            "gezegd": "said"
+        },
+        {
+            "hadden": "had"
+        },
+        {
+            "vertel": "tell"
+        },
+        {
+            "eerst": "first"
+        },
+        {
+            "gevonden": "found it"
+        },
+        {
+            "zoon": "son"
+        },
+        {
+            "buiten": "outside"
+        },
+        {
+            "samen": "together"
+        },
+        {
+            "denken": "think"
+        },
+        {
+            "geloof": "believe"
+        },
+        {
+            "morgen": "tomorrow"
+        },
+        {
+            "geleden": "past"
+        },
+        {
+            "meisje": "girl"
+        },
+        {
+            "thuis": "At home"
+        },
+        {
+            "denkt": "thinks"
+        },
+        {
+            "rustig": "Calm"
+        },
+        {
+            "mannen": "men"
+        },
+        {
+            "halen": "to fetch"
+        },
+        {
+            "probleem": "problem"
+        },
+        {
+            "hen": "them"
+        },
+        {
+            "stop": "Stop"
+        },
+        {
+            "eigen": "own"
+        },
+        {
+            "kleine": "little"
+        },
+        {
+            "hoop": "heap"
+        },
+        {
+            "wou": "wish"
+        },
+        {
+            "vermoord": "murdered"
+        },
+        {
+            "elke": "each"
+        },
+        {
+            "krijg": "get"
+        },
+        {
+            "horen": "to belong"
+        },
+        {
+            "gelijk": "directly"
+        },
+        {
+            "bijna": "almost"
+        },
+        {
+            "zouden": "would"
+        },
+        {
+            "open": "Open"
+        },
+        {
+            "orde": "order"
+        },
+        {
+            "begrijp": "understand"
+        },
+        {
+            "hoofd": "head"
+        },
+        {
+            "gebeurt": "happens"
+        },
+        {
+            "kant": "side"
+        },
+        {
+            "vrienden": "friends"
+        },
+        {
+            "houdt": "holds"
+        },
+        {
+            "eigenlijk": "actually"
+        },
+        {
+            "alsof": "as if"
+        },
+        {
+            "pak": "business suit"
+        },
+        {
+            "geeft": "gives"
+        },
+        {
+            "politie": "Police"
+        },
+        {
+            "precies": "precisely"
+        },
+        {
+            "wachten": "to wait"
+        },
+        {
+            "familie": "family"
+        },
+        {
+            "verder": "further"
+        },
+        {
+            "zat": "fed up"
+        },
+        {
+            "soms": "sometimes"
+        },
+        {
+            "werken": "to work"
+        },
+        {
+            "bel": "call"
+        },
+        {
+            "voel": "feel"
+        },
+        {
+            "kind": "child"
+        },
+        {
+            "probeer": "try"
+        },
+        {
+            "ding": "thing"
+        },
+        {
+            "minuten": "minute"
+        },
+        {
+            "krijgt": "gets"
+        },
+        {
+            "zet": "sets"
+        },
+        {
+            "vijf": "five"
+        },
+        {
+            "gehad": "having"
+        },
+        {
+            "haal": "get"
+        },
+        {
+            "gemaakt": "made"
+        },
+        {
+            "hè": "Hey"
+        },
+        {
+            "manier": "way"
+        },
+        {
+            "dagen": "to dawn"
+        },
+        {
+            "zoek": "search"
+        },
+        {
+            "heet": "is called"
+        },
+        {
+            "volgende": "next one"
+        },
+        {
+            "daarom": "therefore"
+        },
+        {
+            "gehoord": "heard"
+        },
+        {
+            "pas": "pass"
+        },
+        {
+            "werkt": "works"
+        },
+        {
+            "vanavond": "this evening"
+        },
+        {
+            "volgens": "according to"
+        },
+        {
+            "best": "best"
+        },
+        {
+            "pijn": "pain"
+        },
+        {
+            "kans": "opportunity"
+        },
+        {
+            "eruit": "out"
+        },
+        {
+            "help": "Help"
+        },
+        {
+            "plaats": "place"
+        },
+        {
+            "hoeveel": "how many"
+        },
+        {
+            "vroeg": "early"
+        },
+        {
+            "oude": "old"
+        },
+        {
+            "stad": "city"
+        },
+        {
+            "zoeken": "to search"
+        },
+        {
+            "ogen": "eyes"
+        },
+        {
+            "jezelf": "yourself"
+        },
+        {
+            "geloven": "to believe"
+        },
+        {
+            "moment": "moment"
+        },
+        {
+            "kamer": "room"
+        },
+        {
+            "schiet": "shooting"
+        },
+        {
+            "vier": "four"
+        },
+        {
+            "vindt": "finds"
+        },
+        {
+            "word": "become"
+        },
+        {
+            "agent": "agent"
+        },
+        {
+            "slecht": "bad"
+        },
+        {
+            "verteld": "told"
+        },
+        {
+            "brengen": "to take"
+        },
+        {
+            "blij": "pleased"
+        },
+        {
+            "hulp": "staff"
+        },
+        {
+            "welke": "which"
+        },
+        {
+            "blijft": "stays"
+        },
+        {
+            "ligt": "is"
+        },
+        {
+            "broer": "brother"
+        },
+        {
+            "school": "school"
+        },
+        {
+            "tussen": "between"
+        },
+        {
+            "deur": "door"
+        },
+        {
+            "spreken": "speak"
+        },
+        {
+            "plan": "plan"
+        },
+        {
+            "dollar": "dollar"
+        },
+        {
+            "handen": "hands"
+        },
+        {
+            "ergens": "somewhere"
+        },
+        {
+            "dr.": "Dr."
+        },
+        {
+            "klopt": "Correct"
+        },
+        {
+            "breng": "bring"
+        },
+        {
+            "dokter": "doctor"
+        },
+        {
+            "juist": "correct"
+        },
+        {
+            "vond": "found"
+        },
+        {
+            "praat": "talking"
+        },
+        {
+            "prima": "fine"
+        },
+        {
+            "betekent": "means"
+        },
+        {
+            "soort": "kind"
+        },
+        {
+            "zaak": "case"
+        },
+        {
+            "proberen": "to attempt"
+        },
+        {
+            "jack": "jacket"
+        },
+        {
+            "spelen": "to play"
+        },
+        {
+            "lekker": "Tasty"
+        },
+        {
+            "doden": "kill"
+        },
+        {
+            "gebruiken": "to use"
+        },
+        {
+            "groot": "big"
+        },
+        {
+            "kent": "knows"
+        },
+        {
+            "boven": "upper"
+        },
+        {
+            "water": "water"
+        },
+        {
+            "problemen": "issues"
+        },
+        {
+            "land": "land"
+        },
+        {
+            "sta": "stand"
+        },
+        {
+            "later": "later"
+        },
+        {
+            "papa": "Daddy"
+        },
+        {
+            "This": "This"
+        },
+        {
+            "pakken": "to take"
+        },
+        {
+            "week": "week"
+        },
+        {
+            "schat": "Darling"
+        },
+        {
+            "voordat": "before"
+        },
+        {
+            "zoveel": "so much"
+        },
+        {
+            "vrij": "free"
+        },
+        {
+            "echte": "real"
+        },
+        {
+            "stoppen": "fuses"
+        },
+        {
+            "klootzak": "asshole"
+        },
+        {
+            "beginnen": "to start"
+        },
+        {
+            "alstublieft": "Please"
+        },
+        {
+            "zodat": "so that"
+        },
+        {
+            "zorg": "concern"
+        },
+        {
+            "mooie": "nice"
+        },
+        {
+            "wees": "orphan"
+        },
+        {
+            "vermoorden": "murder"
+        },
+        {
+            "mis": "mass"
+        },
+        {
+            "vooruit": "ahead"
+        },
+        {
+            "bellen": "to call"
+        },
+        {
+            "dochter": "daughter"
+        },
+        {
+            "vrouwen": "women"
+        },
+        {
+            "tien": "ten"
+        },
+        {
+            "hoeft": "needs"
+        },
+        {
+            "lopen": "to walk"
+        },
+        {
+            "hart": "heart"
+        },
+        {
+            "snap": "snap"
+        },
+        {
+            "voorbij": "past"
+        },
+        {
+            "los": "loose"
+        },
+        {
+            "vergeten": "forget"
+        },
+        {
+            "gebeuren": "to happen"
+        },
+        {
+            "bloed": "blood"
+        },
+        {
+            "druk": "Busy"
+        },
+        {
+            "verhaal": "story"
+        },
+        {
+            "moeilijk": "difficult"
+        },
+        {
+            "hoi": "Hi"
+        },
+        {
+            "zes": "six"
+        },
+        {
+            "eerder": "earlier"
+        },
+        {
+            "neer": "down"
+        },
+        {
+            "ervan": "of it"
+        },
+        {
+            "bed": "bed"
+        },
+        {
+            "nacht": "night"
+        },
+        {
+            "bezig": "busy"
+        },
+        {
+            "wakker": "wake -up"
+        },
+        {
+            "redden": "to rescue"
+        },
+        {
+            "klein": "small"
+        },
+        {
+            "gekomen": "arrived"
+        },
+        {
+            "sinds": "since"
+        },
+        {
+            "kop": "head"
+        },
+        {
+            "zult": "will"
+        },
+        {
+            "begrepen": "understood"
+        },
+        {
+            "plek": "place"
+        },
+        {
+            "veilig": "safe"
+        },
+        {
+            "stel": "couple"
+        },
+        {
+            "vol": "full"
+        },
+        {
+            "nummer": "number"
+        },
+        {
+            "waarheid": "truth"
+        },
+        {
+            "zoiets": "something like this"
+        },
+        {
+            "mevrouw": "Madam"
+        },
+        {
+            "leren": "to learn"
+        },
+        {
+            "hetzelfde": "the same"
+        },
+        {
+            "gaf": "gave"
+        },
+        {
+            "baby": "baby"
+        },
+        {
+            "baas": "boss"
+        },
+        {
+            "gelukkig": "happy"
+        },
+        {
+            "meteen": "immediately"
+        },
+        {
+            "beneden": "downstairs"
+        },
+        {
+            "waarschijnlijk": "probably"
+        },
+        {
+            "sterven": "die"
+        },
+        {
+            "gezicht": "sight"
+        },
+        {
+            "begin": "get started"
+        },
+        {
+            "mogelijk": "possibly"
+        },
+        {
+            "mama": "mom"
+        },
+        {
+            "dicht": "closed"
+        },
+        {
+            "zaken": "Affairs"
+        },
+        {
+            "liggen": "lie"
+        },
+        {
+            "nieuws": "news"
+        },
+        {
+            "ander": "other"
+        },
+        {
+            "eraan": "there"
+        },
+        {
+            "liefde": "love"
+        },
+        {
+            "slapen": "to sleep"
+        },
+        {
+            "ver": "far"
+        },
+        {
+            "reden": "rode"
+        },
+        {
+            "fout": "wrong"
+        },
+        {
+            "vallen": "traps"
+        },
+        {
+            "maanden": "months"
+        },
+        {
+            "mogen": "to be allowed to"
+        },
+        {
+            "oud": "old"
+        },
+        {
+            "vergeet": "forgets"
+        },
+        {
+            "voelt": "feel"
+        },
+        {
+            "vent": "father"
+        },
+        {
+            "sir": "sir"
+        },
+        {
+            "hoorde": "heard"
+        },
+        {
+            "hoort": "belongs"
+        },
+        {
+            "klinkt": "sounds"
+        },
+        {
+            "terwijl": "while"
+        },
+        {
+            "vriendin": "female friend"
+        },
+        {
+            "welkom": "welcome"
+        },
+        {
+            "team": "team"
+        },
+        {
+            "rond": "round"
+        },
+        {
+            "president": "president"
+        },
+        {
+            "oorlog": "war"
+        },
+        {
+            "duidelijk": "clearly"
+        },
+        {
+            "jaren": "years"
+        },
+        {
+            "rest": "rest"
+        },
+        {
+            "schuld": "debt"
+        },
+        {
+            "avond": "evening"
+        },
+        {
+            "eerlijk": "honestly"
+        },
+        {
+            "fijn": "fine"
+        },
+        {
+            "mond": "mouth"
+        },
+        {
+            "buurt": "neighbourhood"
+        },
+        {
+            "drinken": "drinks"
+        },
+        {
+            "telefoon": "telephone"
+        },
+        {
+            "per": "per"
+        },
+        {
+            "wapen": "weapon"
+        },
+        {
+            "liet": "let"
+        },
+        {
+            "belangrijk": "important"
+        },
+        {
+            "kreeg": "got"
+        },
+        {
+            "ouders": "parents"
+        },
+        {
+            "stuk": "piece"
+        },
+        {
+            "rust": "peace"
+        },
+        {
+            "vandaan": "from"
+        },
+        {
+            "kennen": "know"
+        },
+        {
+            "Jezus": "Jesus"
+        },
+        {
+            "deel": "part"
+        },
+        {
+            "baan": "track"
+        },
+        {
+            "kapitein": "captain"
+        },
+        {
+            "erop": "on top"
+        },
+        {
+            "geluk": "luck"
+        },
+        {
+            "dezelfde": "the same"
+        },
+        {
+            "overal": "everywhere"
+        },
+        {
+            "schip": "ship"
+        },
+        {
+            "heren": "Gentlemen"
+        },
+        {
+            "gegeven": "datum"
+        },
+        {
+            "anderen": "others"
+        },
+        {
+            "zeer": "very"
+        },
+        {
+            "langs": "by"
+        },
+        {
+            "mam": "mam"
+        },
+        {
+            "recht": "straight"
+        },
+        {
+            "lichaam": "body"
+        },
+        {
+            "aardig": "nice"
+        },
+        {
+            "vertrouwen": "to trust"
+        },
+        {
+            "ermee": "with it"
+        },
+        {
+            "neemt": "takes"
+        },
+        {
+            "vanaf": "from"
+        },
+        {
+            "vaak": "often"
+        },
+        {
+            "boek": "book"
+        },
+        {
+            "mezelf": "myself"
+        },
+        {
+            "zetten": "to make"
+        },
+        {
+            "stil": "quiet"
+        },
+        {
+            "ok": "OK"
+        },
+        {
+            "kerel": "guy"
+        },
+        {
+            "betalen": "pay"
+        },
+        {
+            "geval": "case"
+        },
+        {
+            "miljoen": "million"
+        },
+        {
+            "tweede": "second"
+        },
+        {
+            "haat": "hate"
+        },
+        {
+            "hard": "hard"
+        },
+        {
+            "inderdaad": "indeed"
+        },
+        {
+            "woord": "word"
+        },
+        {
+            "stond": "was standing"
+        },
+        {
+            "hond": "dog"
+        },
+        {
+            "straks": "soon"
+        },
+        {
+            "weken": "to soften"
+        },
+        {
+            "film": "movie"
+        },
+        {
+            "antwoord": "answer"
+        },
+        {
+            "veranderen": "change"
+        },
+        {
+            "licht": "light"
+        },
+        {
+            "houd": "loves"
+        },
+        {
+            "pa": "pa"
+        },
+        {
+            "tijdens": "during the day"
+        },
+        {
+            "lieverd": "Darling"
+        },
+        {
+            "liever": "rather"
+        },
+        {
+            "kwaad": "pissed off"
+        },
+        {
+            "ontmoet": "meet"
+        },
+        {
+            "nergens": "nowhere"
+        },
+        {
+            "gebruikt": "used"
+        },
+        {
+            "schatje": "darling"
+        },
+        {
+            "verloren": "lost"
+        },
+        {
+            "koning": "king"
+        },
+        {
+            "nieuw": "new"
+        },
+        {
+            "elk": "each"
+        },
+        {
+            "erin": "there"
+        },
+        {
+            "ontmoeten": "Meet"
+        },
+        {
+            "vechten": "to fight"
+        },
+        {
+            "voorzichtig": "carefully"
+        },
+        {
+            "geworden": "have become"
+        },
+        {
+            "enkel": "single"
+        },
+        {
+            "kwijt": "lost"
+        },
+        {
+            "noemen": "to call"
+        },
+        {
+            "valt": "fall"
+        },
+        {
+            "prachtig": "beautiful"
+        },
+        {
+            "rijden": "to ride"
+        },
+        {
+            "zin": "sentence"
+        },
+        {
+            "hield": "kept"
+        },
+        {
+            "daarna": "then"
+        },
+        {
+            "mens": "man"
+        },
+        {
+            "schieten": "to shoot"
+        },
+        {
+            "grappig": "funny"
+        },
+        {
+            "stap": "step"
+        },
+        {
+            "zichzelf": "itself"
+        },
+        {
+            "kantoor": "office"
+        },
+        {
+            "wapens": "weapons"
+        },
+        {
+            "normaal": "normal"
+        },
+        {
+            "slechte": "poor"
+        },
+        {
+            "maakte": "feature"
+        },
+        {
+            "moord": "murder"
+        },
+        {
+            "gebeld": "called"
+        },
+        {
+            "ervoor": "before"
+        },
+        {
+            "ten": "at"
+        },
+        {
+            "heer": "gentleman"
+        },
+        {
+            "loopt": "runs"
+        },
+        {
+            "einde": "end"
+        },
+        {
+            "gegaan": "gone"
+        },
+        {
+            "gang": "course"
+        },
+        {
+            "vertelde": "told"
+        },
+        {
+            "spel": "game"
+        },
+        {
+            "informatie": "information"
+        },
+        {
+            "frank": "Frank"
+        },
+        {
+            "dames": "ladies"
+        },
+        {
+            "naartoe": "to"
+        },
+        {
+            "allebei": "both"
+        },
+        {
+            "leg": "put"
+        },
+        {
+            "acht": "eight"
+        },
+        {
+            "pap": "dad"
+        },
+        {
+            "seks": "sex"
+        },
+        {
+            "minder": "fewer"
+        },
+        {
+            "gevoel": "feeling"
+        },
+        {
+            "trouwen": "to marry"
+        },
+        {
+            "nogal": "rather"
+        },
+        {
+            "eh": "eh"
+        },
+        {
+            "voelen": "to feel"
+        },
+        {
+            "begint": "begins"
+        },
+        {
+            "plezier": "pleasure"
+        },
+        {
+            "meisjes": "girls"
+        },
+        {
+            "stuur": "send"
+        },
+        {
+            "foto": "photo"
+        },
+        {
+            "vreemd": "foreign"
+        },
+        {
+            "zomaar": "just like that"
+        },
+        {
+            "verkeerd": "wrong"
+        },
+        {
+            "zeven": "seven"
+        },
+        {
+            "lucht": "sky"
+        },
+        {
+            "grond": "ground"
+        },
+        {
+            "leeft": "lives"
+        },
+        {
+            "nam": "nam"
+        },
+        {
+            "pardon": "excuse me"
+        },
+        {
+            "verwacht": "expected"
+        },
+        {
+            "kopen": "to buy"
+        },
+        {
+            "koffie": "coffee"
+        },
+        {
+            "onderzoek": "research"
+        },
+        {
+            "gesproken": "spoken"
+        },
+        {
+            "herinner": "remember"
+        },
+        {
+            "idioot": "idiot"
+        },
+        {
+            "ziekenhuis": "Hopital"
+        },
+        {
+            "daarmee": "with that"
+        },
+        {
+            "shit": "shit"
+        },
+        {
+            "eindelijk": "finally"
+        },
+        {
+            "perfect": "perfect"
+        },
+        {
+            "goeie": "good"
+        },
+        {
+            "gisteren": "yesterday"
+        },
+        {
+            "aarde": "soil"
+        },
+        {
+            "contact": "Contact"
+        },
+        {
+            "zus": "sister"
+        },
+        {
+            "erbij": "there"
+        },
+        {
+            "beschermen": "to protect"
+        },
+        {
+            "gevangenis": "jail"
+        },
+        {
+            "persoon": "person"
+        },
+        {
+            "winnen": "to win"
+        },
+        {
+            "kracht": "power"
+        },
+        {
+            "ziek": "ill"
+        },
+        {
+            "omhoog": "upwards"
+        },
+        {
+            "beloof": "promise"
+        },
+        {
+            "gebruik": "usage"
+        },
+        {
+            "hoezo": "how so"
+        },
+        {
+            "degene": "the one"
+        },
+        {
+            "trek": "migration"
+        },
+        {
+            "meen": "mean"
+        },
+        {
+            "enkele": "a few"
+        },
+        {
+            "getrouwd": "married"
+        },
+        {
+            "gevraagd": "sought -after"
+        },
+        {
+            "New": "New"
+        },
+        {
+            "verdomde": "damn"
+        },
+        {
+            "hierheen": "here"
+        },
+        {
+            "punt": "point"
+        },
+        {
+            "toekomst": "future"
+        },
+        {
+            "probeerde": "attempted"
+        },
+        {
+            "half": "half"
+        },
+        {
+            "leger": "army"
+        },
+        {
+            "waard": "worth"
+        },
+        {
+            "opnieuw": "again"
+        },
+        {
+            "val": "fall"
+        },
+        {
+            "vuur": "firework"
+        },
+        {
+            "bewijs": "evidence"
+        },
+        {
+            "controle": "check"
+        },
+        {
+            "stellen": "set"
+        },
+        {
+            "tv": "TV"
+        },
+        {
+            "loop": "run"
+        },
+        {
+            "woorden": "words"
+        },
+        {
+            "droom": "dream"
+        },
+        {
+            "begrijpen": "to understand"
+        },
+        {
+            "eet": "eat"
+        },
+        {
+            "bedoelt": "intended"
+        },
+        {
+            "onzin": "nonsense"
+        },
+        {
+            "serieus": "serious"
+        },
+        {
+            "konden": "alloy"
+        },
+        {
+            "nietwaar": "not true"
+        },
+        {
+            "verlaten": "to leave"
+        },
+        {
+            "pistool": "pistol"
+        },
+        {
+            "gekregen": "got"
+        },
+        {
+            "men": "men"
+        },
+        {
+            "brengt": "brings"
+        },
+        {
+            "fantastisch": "fantastic"
+        },
+        {
+            "trots": "pride"
+        },
+        {
+            "ziens": "see"
+        },
+        {
+            "ongeluk": "accident"
+        },
+        {
+            "geheim": "secret"
+        },
+        {
+            "vroeger": "earlier"
+        },
+        {
+            "veranderd": "changed"
+        },
+        {
+            "eentje": "one"
+        },
+        {
+            "werden": "be"
+        },
+        {
+            "begon": "began"
+        },
+        {
+            "verliezen": "to lose"
+        },
+        {
+            "probeert": "tries"
+        },
+        {
+            "vliegtuig": "aeroplane"
+        },
+        {
+            "let": "watchmanship"
+        },
+        {
+            "slim": "smart"
+        },
+        {
+            "juiste": "right one"
+        },
+        {
+            "langer": "longer"
+        },
+        {
+            "slaap": "sleep"
+        },
+        {
+            "lezen": "read"
+        },
+        {
+            "ongeveer": "about"
+        },
+        {
+            "behalve": "except"
+        },
+        {
+            "meid": "girl"
+        },
+        {
+            "oom": "uncle"
+        },
+        {
+            "gered": "saved"
+        },
+        {
+            "bank": "Bank"
+        },
+        {
+            "generaal": "general"
+        },
+        {
+            "dienst": "employ"
+        },
+        {
+            "tenminste": "at least"
+        },
+        {
+            "lief": "sweet"
+        },
+        {
+            "noem": "call"
+        },
+        {
+            "gedood": "killed"
+        },
+        {
+            "vraagt": "requires"
+        },
+        {
+            "boos": "angry"
+        },
+        {
+            "spullen": "stuff"
+        },
+        {
+            "volgen": "to follow"
+        },
+        {
+            "sturen": "to steer"
+        },
+        {
+            "hemel": "heaven"
+        },
+        {
+            "makkelijk": "comfortable"
+        },
+        {
+            "ter": "ter"
+        },
+        {
+            "genomen": "taken"
+        },
+        {
+            "grootste": "great"
+        },
+        {
+            "gebeurde": "happened"
+        },
+        {
+            "kwamen": "arrive"
+        },
+        {
+            "excuseer": "excuse"
+        },
+        {
+            "meter": "meter"
+        },
+        {
+            "weinig": "few"
+        },
+        {
+            "iedere": "each"
+        },
+        {
+            "moordenaar": "killer"
+        },
+        {
+            "luisteren": "listen"
+        },
+        {
+            "begrijpt": "understand"
+        },
+        {
+            "gevaar": "danger"
+        },
+        {
+            "ieder": "everyone"
+        },
+        {
+            "sommige": "some"
+        },
+        {
+            "via": "through"
+        },
+        {
+            "succes": "good luck"
+        },
+        {
+            "vertrekken": "to leave"
+        },
+        {
+            "muziek": "music"
+        },
+        {
+            "gestolen": "stolen"
+        },
+        {
+            "meest": "most"
+        },
+        {
+            "hoef": "hoof"
+        },
+        {
+            "advocaat": "lawyer"
+        },
+        {
+            "kijkt": "looks"
+        },
+        {
+            "helpt": "helps"
+        },
+        {
+            "afspraak": "appointment"
+        },
+        {
+            "maand": "month"
+        },
+        {
+            "zwarte": "black"
+        },
+        {
+            "seconden": "second"
+        },
+        {
+            "sterk": "strong"
+        },
+        {
+            "foto's": "photos"
+        },
+        {
+            "lijken": "corpses"
+        },
+        {
+            "geest": "spirit"
+        },
+        {
+            "gingen": "used to go"
+        },
+        {
+            "straat": "street"
+        },
+        {
+            "slechts": "only"
+        },
+        {
+            "verkeerde": "wrong"
+        },
+        {
+            "slaan": "to beat"
+        },
+        {
+            "FBI": "FBI"
+        },
+        {
+            "afgelopen": "last"
+        },
+        {
+            "hotel": "hotel"
+        },
+        {
+            "bekend": "known"
+        },
+        {
+            "ene": "one"
+        },
+        {
+            "ruimte": "room"
+        },
+        {
+            "lange": "long"
+        },
+        {
+            "trouwens": "Incidentally"
+        },
+        {
+            "feest": "party"
+        },
+        {
+            "vliegen": "to fly"
+        },
+        {
+            "boot": "boat"
+        },
+        {
+            "meester": "master"
+        },
+        {
+            "doel": "goal"
+        },
+        {
+            "zolang": "so long"
+        },
+        {
+            "regels": "lines"
+        },
+        {
+            "stomme": "stupid"
+        },
+        {
+            "begonnen": "started"
+        },
+        {
+            "zak": "bag"
+        },
+        {
+            "absoluut": "absolute"
+        },
+        {
+            "spreek": "speak"
+        },
+        {
+            "stom": "stupid"
+        },
+        {
+            "bestaat": "consists"
+        },
+        {
+            "welk": "which"
+        },
+        {
+            "gevaarlijk": "dangerous"
+        },
+        {
+            "jawel": "Yes"
+        },
+        {
+            "mocht": "for"
+        },
+        {
+            "goedemorgen": "Good morning"
+        },
+        {
+            "wilden": "wild ones"
+        },
+        {
+            "erger": "worse"
+        },
+        {
+            "vreselijk": "horrible"
+        },
+        {
+            "zodra": "as soon"
+        },
+        {
+            "geraakt": "touched"
+        },
+        {
+            "nadat": "once"
+        },
+        {
+            "vertrouw": "trust"
+        },
+        {
+            "kolonel": "colonel"
+        },
+        {
+            "voelde": "felt"
+        },
+        {
+            "kleren": "clothes"
+        },
+        {
+            "rug": "back"
+        },
+        {
+            "naast": "next"
+        },
+        {
+            "totdat": "until"
+        },
+        {
+            "verliefd": "in love"
+        },
+        {
+            "lukt": "succeeds"
+        },
+        {
+            "wonen": "live"
+        },
+        {
+            "lieve": "dear"
+        },
+        {
+            "gaten": "holes"
+        },
+        {
+            "raar": "weird"
+        },
+        {
+            "geprobeerd": "tried"
+        },
+        {
+            "geleerd": "learned"
+        },
+        {
+            "erover": "over"
+        },
+        {
+            "raad": "council"
+        },
+        {
+            "volg": "follow"
+        },
+        {
+            "verkopen": "to sell"
+        },
+        {
+            "geweldige": "great"
+        },
+        {
+            "zover": "as far"
+        },
+        {
+            "red": "red"
+        },
+        {
+            "woont": "lives"
+        },
+        {
+            "Amerika": "America"
+        },
+        {
+            "lul": "dick"
+        },
+        {
+            "gedacht": "thought"
+        },
+        {
+            "bewijzen": "prove"
+        },
+        {
+            "prijs": "price"
+        },
+        {
+            "www": "www"
+        },
+        {
+            "raken": "touch"
+        },
+        {
+            "voorstellen": "to suggest"
+        },
+        {
+            "vorige": "previous"
+        },
+        {
+            "regel": "rule"
+        },
+        {
+            "schrijven": "to write"
+        },
+        {
+            "rot": "rotten"
+        },
+        {
+            "gebouw": "building"
+        },
+        {
+            "trekken": "Pull"
+        },
+        {
+            "herinneren": "to remind"
+        },
+        {
+            "dansen": "dancing"
+        },
+        {
+            "gebracht": "brought"
+        },
+        {
+            "meeste": "most of them"
+        },
+        {
+            "koud": "cold"
+        },
+        {
+            "jammer": "Shame"
+        },
+        {
+            "wegwezen": "get out"
+        },
+        {
+            "macht": "power"
+        },
+        {
+            "drugs": "drug"
+        },
+        {
+            "geboren": "born"
+        },
+        {
+            "dragen": "wear"
+        },
+        {
+            "keuze": "choice"
+        },
+        {
+            "gefeliciteerd": "congratulations"
+        },
+        {
+            "situatie": "situation"
+        },
+        {
+            "missen": "to miss"
+        },
+        {
+            "honger": "hungry"
+        },
+        {
+            "betaald": "paid"
+        },
+        {
+            "liefje": "Darling"
+        },
+        {
+            "duurt": "takes"
+        },
+        {
+            "schelen": "care"
+        },
+        {
+            "kaart": "card"
+        },
+        {
+            "rij": "queue"
+        },
+        {
+            "bal": "ball"
+        },
+        {
+            "werkte": "worked"
+        },
+        {
+            "gedachten": "thoughts"
+        },
+        {
+            "derde": "third"
+        },
+        {
+            "rennen": "run"
+        },
+        {
+            "namen": "take"
+        },
+        {
+            "teken": "sign"
+        },
+        {
+            "speelt": "plays"
+        },
+        {
+            "stem": "voice"
+        },
+        {
+            "bedrijf": "company"
+        },
+        {
+            "moe": "tired"
+        },
+        {
+            "tenzij": "unless"
+        },
+        {
+            "dom": "stupid"
+        },
+        {
+            "vlucht": "flight"
+        },
+        {
+            "raak": "striking"
+        },
+        {
+            "relatie": "relation"
+        },
+        {
+            "lachen": "laugh"
+        },
+        {
+            "leuke": "nice"
+        },
+        {
+            "schuldig": "guilty"
+        },
+        {
+            "negen": "nine"
+        },
+        {
+            "tafel": "table"
+        },
+        {
+            "sneller": "faster"
+        },
+        {
+            "James": "James"
+        },
+        {
+            "jong": "young"
+        },
+        {
+            "vanwege": "because of"
+        },
+        {
+            "beide": "both"
+        },
+        {
+            "viel": "fell"
+        },
+        {
+            "oog": "eye"
+        },
+        {
+            "leek": "seemed"
+        },
+        {
+            "gestuurd": "steered"
+        },
+        {
+            "lijn": "line"
+        },
+        {
+            "grapje": "just kidding"
+        },
+        {
+            "komaan": "come on"
+        },
+        {
+            "moesten": "had to"
+        },
+        {
+            "daarvoor": "before that"
+        },
+        {
+            "onderweg": "en route"
+        },
+        {
+            "lijst": "list"
+        },
+        {
+            "vanuit": "from"
+        },
+        {
+            "band": "band"
+        },
+        {
+            "gelooft": "believes"
+        },
+        {
+            "gemist": "missed"
+        },
+        {
+            "sleutel": "key"
+        },
+        {
+            "lag": "lag"
+        },
+        {
+            "kont": "ass"
+        },
+        {
+            "reis": "trip"
+        },
+        {
+            "arm": "arm"
+        },
+        {
+            "show": "show"
+        },
+        {
+            "vertelt": "tells"
+        },
+        {
+            "groep": "group"
+        },
+        {
+            "belde": "call"
+        },
+        {
+            "zweer": "swear"
+        },
+        {
+            "agenten": "agents"
+        },
+        {
+            "eer": "honor"
+        },
+        {
+            "onmogelijk": "impossible"
+        },
+        {
+            "steek": "lurch"
+        },
+        {
+            "hel": "hell"
+        },
+        {
+            "zwaar": "heavy"
+        },
+        {
+            "tuurlijk": "sure"
+        },
+        {
+            "bevel": "order"
+        },
+        {
+            "jonge": "young"
+        },
+        {
+            "kerk": "church"
+        },
+        {
+            "huwelijk": "wedding"
+        },
+        {
+            "delen": "to share"
+        },
+        {
+            "sla": "salad"
+        },
+        {
+            "Amerikaanse": "American"
+        },
+        {
+            "wedstrijd": "contest"
+        },
+        {
+            "maat": "mate"
+        },
+        {
+            "allen": "all"
+        },
+        {
+            "gebroken": "broken"
+        },
+        {
+            "dromen": "to dream"
+        },
+        {
+            "direct": "straight away"
+        },
+        {
+            "luitenant": "lieutenant"
+        },
+        {
+            "planeet": "planet"
+        },
+        {
+            "vooral": "mainly"
+        },
+        {
+            "missie": "mission"
+        },
+        {
+            "midden": "middle"
+        },
+        {
+            "gezin": "family"
+        },
+        {
+            "gisteravond": "yesterday evening"
+        },
+        {
+            "leiden": "to lead"
+        },
+        {
+            "dame": "Lady"
+        },
+        {
+            "bericht": "message"
+        },
+        {
+            "angst": "fear"
+        },
+        {
+            "stierf": "died"
+        },
+        {
+            "wagen": "car"
+        },
+        {
+            "blijkbaar": "evidently"
+        },
+        {
+            "kapot": "Broken"
+        },
+        {
+            "zoekt": "searches"
+        },
+        {
+            "ziel": "soul"
+        },
+        {
+            "positie": "position"
+        },
+        {
+            "waarvoor": "for which"
+        },
+        {
+            "respect": "respect"
+        },
+        {
+            "wet": "law"
+        },
+        {
+            "gesprek": "conversation"
+        },
+        {
+            "verleden": "past"
+        },
+        {
+            "kost": "cost"
+        },
+        {
+            "links": "left"
+        },
+        {
+            "witte": "white"
+        },
+        {
+            "ring": "ring"
+        },
+        {
+            "da's": "that's"
+        },
+        {
+            "regelen": "to arrange"
+        },
+        {
+            "computer": "computer"
+        }
+    ]
+}
