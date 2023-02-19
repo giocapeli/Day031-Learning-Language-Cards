@@ -1,5 +1,6 @@
 import tkinter
 import game_setup
+from tkinter import messagebox
 
 BACKGROUND_COLOR = "#B1DDC6"
 WORDS_DICT = {}
@@ -42,8 +43,9 @@ def timer():
     global TIMER
     
 def save_progress():
-    print("SAVE")
-    window.destroy()
+    Card.save_progress(LANGUAGE)
+    if messagebox.askokcancel("Exit", "Do you want to close the programm?"):
+        window.destroy()
     
 window = tkinter.Tk()
 window.title("Language Card Game")
