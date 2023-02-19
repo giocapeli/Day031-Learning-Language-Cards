@@ -10,12 +10,12 @@ class Card():
         self.curr_word = {}
         
         self.get_dict(language)
+        self.get_new_word()
 
     def get_dict(self, language):
         with open(f"./language-files/{language}-english.json", encoding='utf-8') as data_file:
             data = json.load(data_file)
             self.word_dict = data[language]
-            print(self.word_dict)
             
     def get_new_word(self):
         if len(self.word_dict) >= 20:
@@ -26,8 +26,8 @@ class Card():
         self.word_dict.pop(i)
         print(self.curr_word)
         
-    def save_word(self, right):
-        if right:
+    def save_word(self, is_right):
+        if is_right:
             self.words_right.append(self.curr_word)
             print(self.words_right)
         else:
