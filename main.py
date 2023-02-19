@@ -1,34 +1,23 @@
 import tkinter
-import json
-import random
 import game_setup
 
 BACKGROUND_COLOR = "#B1DDC6"
 WORDS_DICT = {}
 LANGUAGE = 'italian'
 TRANSLATE = 'english'
+TIMER = 5000
 
 Card = game_setup.Card(LANGUAGE)
 
-window = tkinter.Tk()
-window.title("Language Card Game")
-window.config(padx=50, pady=50, height=1000, width=1000, background=BACKGROUND_COLOR)
-    
-
 def show_back():
-    card.itemconfig(card_word, text=Card.curr_word["translation"])
-    card.itemconfig(card_title, text=TRANSLATE)
+    card.itemconfig(card_word, text=Card.curr_word["translation"], fill="white")
+    card.itemconfig(card_title, text=TRANSLATE, fill="white")
+    card.itemconfig(card_background, image=card_back_image)
 
 def show_front():
-    card.itemconfig(card_word, text=Card.curr_word["word"])
-    card.itemconfig(card_title, text=LANGUAGE)
-    
-# def get_random_word():
-#     with open(f"./language-files/{LANGUAGE}-english.json") as data_file:
-#         data = json.load(data_file)
-#         word = data[LANGUAGE][random.randint(0, len(data[LANGUAGE]) -1)]
-#     card.itemconfig(card_word, text=word["word"])
-#     card.itemconfig(card_title, text=LANGUAGE)
+    card.itemconfig(card_word, text=Card.curr_word["word"], fill="black")
+    card.itemconfig(card_title, text=LANGUAGE, fill="black")
+    card.itemconfig(card_background, image=card_front_image)
    
 def save_word_true():
     Card.save_word(True)
@@ -38,16 +27,24 @@ def save_word_false():
     Card.save_word(False)
     show_front()
     
+def timer():
+    global TIMER
+    
+window = tkinter.Tk()
+window.title("Language Card Game")
+window.config(padx=50, pady=50, height=1000, width=1000, background=BACKGROUND_COLOR)
+
+window.after(TIMER, show_back)
 
 # --- Board
 card = tkinter.Canvas(width=800, height=526, bg=BACKGROUND_COLOR, highlightthickness=0)
 card_front_image = tkinter.PhotoImage(file='./images/card_front.png')
 card_back_image = tkinter.PhotoImage(file='./images/card_back.png')
-card.create_image(400, 263, image=card_front_image)
+card_background = card.create_image(400, 263, image=card_front_image)
 
 # --- Text
-card_title = card.create_text(400, 150, text="Language", font=("Ariel", 30, "italic"))
-card_word = card.create_text(400, 263, text="Word", font=("Ariel", 50, "bold"))
+card_title = card.create_text(400, 150, text=LANGUAGE, font=("Ariel", 30, "italic"))
+card_word = card.create_text(400, 263, text=Card.curr_word["word"], font=("Ariel", 50, "bold"))
 
 card.grid(column=0, row=0, columnspan=2)
 # --- Buttons
