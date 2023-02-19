@@ -4,13 +4,13 @@ import random
 class Card():
     
     def __init__(self, language):
+        self.language = language
         self.word_dict = []
         self.words_right = []
         self.words_wrong = []
         self.curr_word = {}
         self.loaded_data = {}
         
-        self.get_dict(language)
         self.load_data(language)
         self.get_new_word()
 
@@ -28,9 +28,13 @@ class Card():
                 data = json.load(data_file)
                 self.words_wrong = data["incorrect"]
                 self.words_right = data["correct"]
+                if len(data["remaining"]) < 20: #if running out words, recreate dictionary
+                    self.get_dict(self.language)
+                else:
+                    self.word_dict = data["remaining"]
                 data_file.close()
         except FileNotFoundError:
-            pass
+            self.get_dict(self.language)
             
     def get_new_word(self):
         if len(self.word_dict) >= 20:
@@ -54,7 +58,8 @@ class Card():
         self.loaded_data.update(
             {
                 "correct": self.words_right,
-                "incorrect": self.words_wrong
+                "incorrect": self.words_wrong,
+                "remaining": self.word_dict
             }
         )
         with open(f"./language-files/{language}-english-saved.json", "w", encoding='utf-8') as data_file:
