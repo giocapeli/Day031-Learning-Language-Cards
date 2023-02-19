@@ -13,6 +13,8 @@ def show_back():
     card.itemconfig(card_word, text=Card.curr_word["translation"], fill="white")
     card.itemconfig(card_title, text=TRANSLATE, fill="white")
     card.itemconfig(card_background, image=card_back_image)
+    button_incorrect.grid(column=1, row=1)
+    button_correct.grid(column=0, row=1)
 
 def show_front():
     global flip_timer
@@ -22,6 +24,9 @@ def show_front():
     card.itemconfig(card_title, text=LANGUAGE, fill="black")
     card.itemconfig(card_background, image=card_front_image)
     window.after(TIMER, show_back)
+    
+    button_correct.grid_forget()
+    button_incorrect.grid_forget()
     
     flip_timer = window.after(TIMER, show_back)
    
@@ -56,11 +61,9 @@ card.grid(column=0, row=0, columnspan=2)
 # --- Buttons
 image_right = tkinter.PhotoImage(file='./images/right.png')
 button_correct = tkinter.Button(image=image_right, highlightthickness=0, command=save_word_true)
-button_correct.grid(column=0, row=1)
 
 image_wrong = tkinter.PhotoImage(file='./images/wrong.png')
-button_correct = tkinter.Button(image=image_wrong, highlightthickness=0, command=save_word_false)
-button_correct.grid(column=1, row=1)
+button_incorrect = tkinter.Button(image=image_wrong, highlightthickness=0, command=save_word_false)
 
 # ---
 window.mainloop()
