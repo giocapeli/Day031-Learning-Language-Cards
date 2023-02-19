@@ -5,7 +5,7 @@ BACKGROUND_COLOR = "#B1DDC6"
 WORDS_DICT = {}
 LANGUAGE = 'italian'
 TRANSLATE = 'english'
-TIMER = 5000
+TIMER = 3000
 
 Card = game_setup.Card(LANGUAGE)
 
@@ -15,9 +15,15 @@ def show_back():
     card.itemconfig(card_background, image=card_back_image)
 
 def show_front():
+    global flip_timer
+    window.after_cancel(flip_timer)
+    
     card.itemconfig(card_word, text=Card.curr_word["word"], fill="black")
     card.itemconfig(card_title, text=LANGUAGE, fill="black")
     card.itemconfig(card_background, image=card_front_image)
+    window.after(TIMER, show_back)
+    
+    flip_timer = window.after(TIMER, show_back)
    
 def save_word_true():
     Card.save_word(True)
@@ -34,7 +40,7 @@ window = tkinter.Tk()
 window.title("Language Card Game")
 window.config(padx=50, pady=50, height=1000, width=1000, background=BACKGROUND_COLOR)
 
-window.after(TIMER, show_back)
+flip_timer = window.after(TIMER, show_back)
 
 # --- Board
 card = tkinter.Canvas(width=800, height=526, bg=BACKGROUND_COLOR, highlightthickness=0)
