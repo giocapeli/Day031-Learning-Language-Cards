@@ -1,3007 +1,4008 @@
 {
     "dutch": [
         {
-            "ik": "I"
+            "word": "ik",
+            "translation": "I"
         },
         {
-            "je": "you"
+            "word": "je",
+            "translation": "you"
         },
         {
-            "het": "It"
+            "word": "het",
+            "translation": "It"
         },
         {
-            "de": "the"
+            "word": "de",
+            "translation": "the"
         },
         {
-            "dat": "that"
+            "word": "dat",
+            "translation": "that"
         },
         {
-            "is": "is"
+            "word": "is",
+            "translation": "is"
         },
         {
-            "een": "An"
+            "word": "een",
+            "translation": "An"
         },
         {
-            "niet": "not"
+            "word": "niet",
+            "translation": "not"
         },
         {
-            "en": "and"
+            "word": "en",
+            "translation": "and"
         },
         {
-            "wat": "what"
+            "word": "wat",
+            "translation": "what"
         },
         {
-            "van": "by"
+            "word": "van",
+            "translation": "by"
         },
         {
-            "we": "we"
+            "word": "we",
+            "translation": "we"
         },
         {
-            "in": "in"
+            "word": "in",
+            "translation": "in"
         },
         {
-            "ze": "she"
+            "word": "ze",
+            "translation": "she"
         },
         {
-            "hij": "he"
+            "word": "hij",
+            "translation": "he"
         },
         {
-            "op": "on"
+            "word": "op",
+            "translation": "on"
         },
         {
-            "te": "at"
+            "word": "te",
+            "translation": "at"
         },
         {
-            "zijn": "are"
+            "word": "zijn",
+            "translation": "are"
         },
         {
-            "er": "there"
+            "word": "er",
+            "translation": "there"
         },
         {
-            "maar": "but"
+            "word": "maar",
+            "translation": "but"
         },
         {
-            "die": "That"
+            "word": "die",
+            "translation": "That"
         },
         {
-            "heb": "have"
+            "word": "heb",
+            "translation": "have"
         },
         {
-            "me": "me"
+            "word": "me",
+            "translation": "me"
         },
         {
-            "met": "of"
+            "word": "met",
+            "translation": "of"
         },
         {
-            "voor": "for"
+            "word": "voor",
+            "translation": "for"
         },
         {
-            "als": "when"
+            "word": "als",
+            "translation": "when"
         },
         {
-            "ben": "am"
+            "word": "ben",
+            "translation": "am"
         },
         {
-            "was": "used to be"
+            "word": "was",
+            "translation": "used to be"
         },
         {
-            "dit": "this"
+            "word": "dit",
+            "translation": "this"
         },
         {
-            "mijn": "mine"
+            "word": "mijn",
+            "translation": "mine"
         },
         {
-            "om": "to"
+            "word": "om",
+            "translation": "to"
         },
         {
-            "aan": "On"
+            "word": "aan",
+            "translation": "On"
         },
         {
-            "jij": "you"
+            "word": "jij",
+            "translation": "you"
         },
         {
-            "naar": "Unpleasant"
+            "word": "naar",
+            "translation": "Unpleasant"
         },
         {
-            "dan": "than"
+            "word": "dan",
+            "translation": "than"
         },
         {
-            "hier": "here"
+            "word": "hier",
+            "translation": "here"
         },
         {
-            "weet": "know"
+            "word": "weet",
+            "translation": "know"
         },
         {
-            "kan": "can"
+            "word": "kan",
+            "translation": "can"
         },
         {
-            "geen": "no"
+            "word": "geen",
+            "translation": "no"
         },
         {
-            "nog": "yet"
+            "word": "nog",
+            "translation": "yet"
         },
         {
-            "moet": "must"
+            "word": "moet",
+            "translation": "must"
         },
         {
-            "wil": "want to"
+            "word": "wil",
+            "translation": "want to"
         },
         {
-            "wel": "well"
+            "word": "wel",
+            "translation": "well"
         },
         {
-            "ja": "Yes"
+            "word": "ja",
+            "translation": "Yes"
         },
         {
-            "zo": "Like this"
+            "word": "zo",
+            "translation": "Like this"
         },
         {
-            "heeft": "has"
+            "word": "heeft",
+            "translation": "has"
         },
         {
-            "hebben": "to have"
+            "word": "hebben",
+            "translation": "to have"
         },
         {
-            "hem": "it"
+            "word": "hem",
+            "translation": "it"
         },
         {
-            "goed": "Good"
+            "word": "goed",
+            "translation": "Good"
         },
         {
-            "nee": "no"
+            "word": "nee",
+            "translation": "no"
         },
         {
-            "waar": "Where"
+            "word": "waar",
+            "translation": "Where"
         },
         {
-            "nu": "now"
+            "word": "nu",
+            "translation": "now"
         },
         {
-            "hoe": "how"
+            "word": "hoe",
+            "translation": "how"
         },
         {
-            "ga": "go"
+            "word": "ga",
+            "translation": "go"
         },
         {
-            "haar": "her"
+            "word": "haar",
+            "translation": "her"
         },
         {
-            "uit": "out"
+            "word": "uit",
+            "translation": "out"
         },
         {
-            "doen": "doing"
+            "word": "doen",
+            "translation": "doing"
         },
         {
-            "ook": "also"
+            "word": "ook",
+            "translation": "also"
         },
         {
-            "over": "about"
+            "word": "over",
+            "translation": "about"
         },
         {
-            "bent": "are"
+            "word": "bent",
+            "translation": "are"
         },
         {
-            "mij": "me"
+            "word": "mij",
+            "translation": "me"
         },
         {
-            "gaan": "to go"
+            "word": "gaan",
+            "translation": "to go"
         },
         {
-            "of": "or"
+            "word": "of",
+            "translation": "or"
         },
         {
-            "kom": "bowl"
+            "word": "kom",
+            "translation": "bowl"
         },
         {
-            "zou": "would"
+            "word": "zou",
+            "translation": "would"
         },
         {
-            "al": "already"
+            "word": "al",
+            "translation": "already"
         },
         {
-            "bij": "bee"
+            "word": "bij",
+            "translation": "bee"
         },
         {
-            "daar": "over there"
+            "word": "daar",
+            "translation": "over there"
         },
         {
-            "ons": "us"
+            "word": "ons",
+            "translation": "us"
         },
         {
-            "jullie": "you"
+            "word": "jullie",
+            "translation": "you"
         },
         {
-            "hebt": "have"
+            "word": "hebt",
+            "translation": "have"
         },
         {
-            "gaat": "go"
+            "word": "gaat",
+            "translation": "go"
         },
         {
-            "iets": "something"
+            "word": "iets",
+            "translation": "something"
         },
         {
-            "zal": "shall"
+            "word": "zal",
+            "translation": "shall"
         },
         {
-            "meer": "more"
+            "word": "meer",
+            "translation": "more"
         },
         {
-            "waarom": "Why"
+            "word": "waarom",
+            "translation": "Why"
         },
         {
-            "had": "had"
+            "word": "had",
+            "translation": "had"
         },
         {
-            "deze": "this"
+            "word": "deze",
+            "translation": "this"
         },
         {
-            "laat": "leave"
+            "word": "laat",
+            "translation": "leave"
         },
         {
-            "moeten": "must"
+            "word": "moeten",
+            "translation": "must"
         },
         {
-            "m'n": "my"
+            "word": "m'n",
+            "translation": "my"
         },
         {
-            "jou": "you"
+            "word": "jou",
+            "translation": "you"
         },
         {
-            "doe": "off"
+            "word": "doe",
+            "translation": "off"
         },
         {
-            "wie": "Who"
+            "word": "wie",
+            "translation": "Who"
         },
         {
-            "kunnen": "be able to"
+            "word": "kunnen",
+            "translation": "be able to"
         },
         {
-            "alles": "everything"
+            "word": "alles",
+            "translation": "everything"
         },
         {
-            "denk": "think"
+            "word": "denk",
+            "translation": "think"
         },
         {
-            "door": "Through"
+            "word": "door",
+            "translation": "Through"
         },
         {
-            "echt": "Real"
+            "word": "echt",
+            "translation": "Real"
         },
         {
-            "alleen": "only"
+            "word": "alleen",
+            "translation": "only"
         },
         {
-            "oké": "Okay"
+            "word": "oké",
+            "translation": "Okay"
         },
         {
-            "eens": "at sometime"
+            "word": "eens",
+            "translation": "at sometime"
         },
         {
-            "dus": "So"
+            "word": "dus",
+            "translation": "So"
         },
         {
-            "weg": "away"
+            "word": "weg",
+            "translation": "away"
         },
         {
-            "zien": "to see"
+            "word": "zien",
+            "translation": "to see"
         },
         {
-            "toch": "However"
+            "word": "toch",
+            "translation": "However"
         },
         {
-            "man": "man"
+            "word": "man",
+            "translation": "man"
         },
         {
-            "nooit": "never"
+            "word": "nooit",
+            "translation": "never"
         },
         {
-            "terug": "back"
+            "word": "terug",
+            "translation": "back"
         },
         {
-            "laten": "to leave"
+            "word": "laten",
+            "translation": "to leave"
         },
         {
-            "nou": "Well"
+            "word": "nou",
+            "translation": "Well"
         },
         {
-            "mee": "along"
+            "word": "mee",
+            "translation": "along"
         },
         {
-            "misschien": "maybe"
+            "word": "misschien",
+            "translation": "maybe"
         },
         {
-            "even": "for a bit"
+            "word": "even",
+            "translation": "for a bit"
         },
         {
-            "iemand": "someone"
+            "word": "iemand",
+            "translation": "someone"
         },
         {
-            "komt": "comes"
+            "word": "komt",
+            "translation": "comes"
         },
         {
-            "niets": "nothing"
+            "word": "niets",
+            "translation": "nothing"
         },
         {
-            "zei": "said"
+            "word": "zei",
+            "translation": "said"
         },
         {
-            "hou": "keep"
+            "word": "hou",
+            "translation": "keep"
         },
         {
-            "komen": "come"
+            "word": "komen",
+            "translation": "come"
         },
         {
-            "mensen": "people"
+            "word": "mensen",
+            "translation": "people"
         },
         {
-            "onze": "our"
+            "word": "onze",
+            "translation": "our"
         },
         {
-            "nodig": "necessary"
+            "word": "nodig",
+            "translation": "necessary"
         },
         {
-            "tot": "until"
+            "word": "tot",
+            "translation": "until"
         },
         {
-            "worden": "become"
+            "word": "worden",
+            "translation": "become"
         },
         {
-            "veel": "a lot of"
+            "word": "veel",
+            "translation": "a lot of"
         },
         {
-            "weten": "know"
+            "word": "weten",
+            "translation": "know"
         },
         {
-            "leven": "to live"
+            "word": "leven",
+            "translation": "to live"
         },
         {
-            "wij": "We"
+            "word": "wij",
+            "translation": "We"
         },
         {
-            "weer": "weather"
+            "word": "weer",
+            "translation": "weather"
         },
         {
-            "gewoon": "Ordinary"
+            "word": "gewoon",
+            "translation": "Ordinary"
         },
         {
-            "kijk": "look"
+            "word": "kijk",
+            "translation": "look"
         },
         {
-            "zeggen": "say"
+            "word": "zeggen",
+            "translation": "say"
         },
         {
-            "tijd": "time"
+            "word": "tijd",
+            "translation": "time"
         },
         {
-            "zeg": "say"
+            "word": "zeg",
+            "translation": "say"
         },
         {
-            "twee": "two"
+            "word": "twee",
+            "translation": "two"
         },
         {
-            "toen": "when"
+            "word": "toen",
+            "translation": "when"
         },
         {
-            "tegen": "in return for"
+            "word": "tegen",
+            "translation": "in return for"
         },
         {
-            "zit": "sit"
+            "word": "zit",
+            "translation": "sit"
         },
         {
-            "net": "just"
+            "word": "net",
+            "translation": "just"
         },
         {
-            "dood": "dead"
+            "word": "dood",
+            "translation": "dead"
         },
         {
-            "uw": "your"
+            "word": "uw",
+            "translation": "your"
         },
         {
-            "wordt": "is becoming"
+            "word": "wordt",
+            "translation": "is becoming"
         },
         {
-            "hé": "Hey"
+            "word": "hé",
+            "translation": "Hey"
         },
         {
-            "maken": "to make"
+            "word": "maken",
+            "translation": "to make"
         },
         {
-            "mag": "allowed"
+            "word": "mag",
+            "translation": "allowed"
         },
         {
-            "één": "An"
+            "word": "één",
+            "translation": "An"
         },
         {
-            "z'n": "his"
+            "word": "z'n",
+            "translation": "his"
         },
         {
-            "omdat": "because"
+            "word": "omdat",
+            "translation": "because"
         },
         {
-            "gedaan": "done"
+            "word": "gedaan",
+            "translation": "done"
         },
         {
-            "heel": "all"
+            "word": "heel",
+            "translation": "all"
         },
         {
-            "af": "off"
+            "word": "af",
+            "translation": "off"
         },
         {
-            "altijd": "always"
+            "word": "altijd",
+            "translation": "always"
         },
         {
-            "jouw": "your"
+            "word": "jouw",
+            "translation": "your"
         },
         {
-            "zeker": "Certainly"
+            "word": "zeker",
+            "translation": "Certainly"
         },
         {
-            "geef": "give"
+            "word": "geef",
+            "translation": "give"
         },
         {
-            "zie": "see"
+            "word": "zie",
+            "translation": "see"
         },
         {
-            "wacht": "guard"
+            "word": "wacht",
+            "translation": "guard"
         },
         {
-            "allemaal": "all"
+            "word": "allemaal",
+            "translation": "all"
         },
         {
-            "jaar": "year"
+            "word": "jaar",
+            "translation": "year"
         },
         {
-            "doet": "do"
+            "word": "doet",
+            "translation": "do"
         },
         {
-            "dag": "day"
+            "word": "dag",
+            "translation": "day"
         },
         {
-            "zij": "she"
+            "word": "zij",
+            "translation": "she"
         },
         {
-            "hun": "their"
+            "word": "hun",
+            "translation": "their"
         },
         {
-            "huis": "house"
+            "word": "huis",
+            "translation": "house"
         },
         {
-            "vader": "father"
+            "word": "vader",
+            "translation": "father"
         },
         {
-            "dank": "thanks"
+            "word": "dank",
+            "translation": "thanks"
         },
         {
-            "dacht": "thought"
+            "word": "dacht",
+            "translation": "thought"
         },
         {
-            "kunt": "can"
+            "word": "kunt",
+            "translation": "can"
         },
         {
-            "zoals": "as"
+            "word": "zoals",
+            "translation": "as"
         },
         {
-            "vrouw": "woman"
+            "word": "vrouw",
+            "translation": "woman"
         },
         {
-            "keer": "time"
+            "word": "keer",
+            "translation": "time"
         },
         {
-            "anders": "otherwise"
+            "word": "anders",
+            "translation": "otherwise"
         },
         {
-            "andere": "Others"
+            "word": "andere",
+            "translation": "Others"
         },
         {
-            "willen": "want"
+            "word": "willen",
+            "translation": "want"
         },
         {
-            "erg": "terribly"
+            "word": "erg",
+            "translation": "terribly"
         },
         {
-            "spijt": "regret"
+            "word": "spijt",
+            "translation": "regret"
         },
         {
-            "bedankt": "Thank you"
+            "word": "bedankt",
+            "translation": "Thank you"
         },
         {
-            "niemand": "no one"
+            "word": "niemand",
+            "translation": "no one"
         },
         {
-            "wilt": "want"
+            "word": "wilt",
+            "translation": "want"
         },
         {
-            "geld": "money"
+            "word": "geld",
+            "translation": "money"
         },
         {
-            "zitten": "to sit"
+            "word": "zitten",
+            "translation": "to sit"
         },
         {
-            "niks": "nothing"
+            "word": "niks",
+            "translation": "nothing"
         },
         {
-            "iedereen": "everyone"
+            "word": "iedereen",
+            "translation": "everyone"
         },
         {
-            "binnen": "inside"
+            "word": "binnen",
+            "translation": "inside"
         },
         {
-            "staat": "stands"
+            "word": "staat",
+            "translation": "stands"
         },
         {
-            "wilde": "wild"
+            "word": "wilde",
+            "translation": "wild"
         },
         {
-            "zich": "himself"
+            "word": "zich",
+            "translation": "himself"
         },
         {
-            "beter": "better"
+            "word": "beter",
+            "translation": "better"
         },
         {
-            "werk": "work"
+            "word": "werk",
+            "translation": "work"
         },
         {
-            "praten": "to talk"
+            "word": "praten",
+            "translation": "to talk"
         },
         {
-            "gezien": "seen"
+            "word": "gezien",
+            "translation": "seen"
         },
         {
-            "zullen": "shall"
+            "word": "zullen",
+            "translation": "shall"
         },
         {
-            "waren": "goods"
+            "word": "waren",
+            "translation": "goods"
         },
         {
-            "god": "God"
+            "word": "god",
+            "translation": "God"
         },
         {
-            "maak": "make"
+            "word": "maak",
+            "translation": "make"
         },
         {
-            "neem": "take"
+            "word": "neem",
+            "translation": "take"
         },
         {
-            "vinden": "find"
+            "word": "vinden",
+            "translation": "find"
         },
         {
-            "vind": "find"
+            "word": "vind",
+            "translation": "find"
         },
         {
-            "moeder": "mother"
+            "word": "moeder",
+            "translation": "mother"
         },
         {
-            "kon": "could"
+            "word": "kon",
+            "translation": "could"
         },
         {
-            "uur": "o'clock"
+            "word": "uur",
+            "translation": "o'clock"
         },
         {
-            "klaar": "finished"
+            "word": "klaar",
+            "translation": "finished"
         },
         {
-            "genoeg": "enough"
+            "word": "genoeg",
+            "translation": "enough"
         },
         {
-            "helpen": "to help"
+            "word": "helpen",
+            "translation": "to help"
         },
         {
-            "oh": "Oh"
+            "word": "oh",
+            "translation": "Oh"
         },
         {
-            "hele": "whole"
+            "word": "hele",
+            "translation": "whole"
         },
         {
-            "drie": "three"
+            "word": "drie",
+            "translation": "three"
         },
         {
-            "vast": "fixed"
+            "word": "vast",
+            "translation": "fixed"
         },
         {
-            "na": "after"
+            "word": "na",
+            "translation": "after"
         },
         {
-            "hallo": "Hello"
+            "word": "hallo",
+            "translation": "Hello"
         },
         {
-            "leuk": "nice"
+            "word": "leuk",
+            "translation": "nice"
         },
         {
-            "sorry": "Sorry"
+            "word": "sorry",
+            "translation": "Sorry"
         },
         {
-            "alle": "all"
+            "word": "alle",
+            "translation": "all"
         },
         {
-            "elkaar": "each other"
+            "word": "elkaar",
+            "translation": "each other"
         },
         {
-            "toe": "ate"
+            "word": "toe",
+            "translation": "ate"
         },
         {
-            "wist": "knew"
+            "word": "wist",
+            "translation": "knew"
         },
         {
-            "zegt": "say"
+            "word": "zegt",
+            "translation": "say"
         },
         {
-            "bedoel": "mean"
+            "word": "bedoel",
+            "translation": "mean"
         },
         {
-            "blijf": "stay"
+            "word": "blijf",
+            "translation": "stay"
         },
         {
-            "alsjeblieft": "please"
+            "word": "alsjeblieft",
+            "translation": "please"
         },
         {
-            "lang": "long"
+            "word": "lang",
+            "translation": "long"
         },
         {
-            "meneer": "sir"
+            "word": "meneer",
+            "translation": "sir"
         },
         {
-            "ziet": "sees"
+            "word": "ziet",
+            "translation": "sees"
         },
         {
-            "maakt": "makes"
+            "word": "maakt",
+            "translation": "makes"
         },
         {
-            "luister": "listen"
+            "word": "luister",
+            "translation": "listen"
         },
         {
-            "dingen": "stuff"
+            "word": "dingen",
+            "translation": "stuff"
         },
         {
-            "mooi": "Nice"
+            "word": "mooi",
+            "translation": "Nice"
         },
         {
-            "werd": "became"
+            "word": "werd",
+            "translation": "became"
         },
         {
-            "eerste": "first"
+            "word": "eerste",
+            "translation": "first"
         },
         {
-            "graag": "Please"
+            "word": "graag",
+            "translation": "Please"
         },
         {
-            "natuurlijk": "Naturally"
+            "word": "natuurlijk",
+            "translation": "Naturally"
         },
         {
-            "houden": "to hold"
+            "word": "houden",
+            "translation": "to hold"
         },
         {
-            "zonder": "without"
+            "word": "zonder",
+            "translation": "without"
         },
         {
-            "steeds": "still"
+            "word": "steeds",
+            "translation": "still"
         },
         {
-            "krijgen": "to get"
+            "word": "krijgen",
+            "translation": "to get"
         },
         {
-            "grote": "great"
+            "word": "grote",
+            "translation": "great"
         },
         {
-            "achter": "behind"
+            "word": "achter",
+            "translation": "behind"
         },
         {
-            "helemaal": "absolutely"
+            "word": "helemaal",
+            "translation": "absolutely"
         },
         {
-            "naam": "name"
+            "word": "naam",
+            "translation": "name"
         },
         {
-            "gek": "crazy"
+            "word": "gek",
+            "translation": "crazy"
         },
         {
-            "blijven": "to stay"
+            "word": "blijven",
+            "translation": "to stay"
         },
         {
-            "onder": "below"
+            "word": "onder",
+            "translation": "below"
         },
         {
-            "vriend": "friend"
+            "word": "vriend",
+            "translation": "friend"
         },
         {
-            "geweest": "been"
+            "word": "geweest",
+            "translation": "been"
         },
         {
-            "kijken": "to look"
+            "word": "kijken",
+            "translation": "to look"
         },
         {
-            "geven": "to give"
+            "word": "geven",
+            "translation": "to give"
         },
         {
-            "ging": "went"
+            "word": "ging",
+            "translation": "went"
         },
         {
-            "vertellen": "narrate"
+            "word": "vertellen",
+            "translation": "narrate"
         },
         {
-            "ooit": "ever"
+            "word": "ooit",
+            "translation": "ever"
         },
         {
-            "snel": "fast"
+            "word": "snel",
+            "translation": "fast"
         },
         {
-            "hand": "hand"
+            "word": "hand",
+            "translation": "hand"
         },
         {
-            "idee": "idea"
+            "word": "idee",
+            "translation": "idea"
         },
         {
-            "goede": "good"
+            "word": "goede",
+            "translation": "good"
         },
         {
-            "auto": "car"
+            "word": "auto",
+            "translation": "car"
         },
         {
-            "kwam": "came"
+            "word": "kwam",
+            "translation": "came"
         },
         {
-            "verdomme": "damn"
+            "word": "verdomme",
+            "translation": "damn"
         },
         {
-            "beetje": "bit"
+            "word": "beetje",
+            "translation": "bit"
         },
         {
-            "moest": "had to"
+            "word": "moest",
+            "translation": "had to"
         },
         {
-            "kinderen": "children"
+            "word": "kinderen",
+            "translation": "children"
         },
         {
-            "wanneer": "when"
+            "word": "wanneer",
+            "translation": "when"
         },
         {
-            "gebeurd": "happened"
+            "word": "gebeurd",
+            "translation": "happened"
         },
         {
-            "jongen": "boy"
+            "word": "jongen",
+            "translation": "boy"
         },
         {
-            "bang": "anxious"
+            "word": "bang",
+            "translation": "anxious"
         },
         {
-            "vraag": "ask"
+            "word": "vraag",
+            "translation": "ask"
         },
         {
-            "lijkt": "seems"
+            "word": "lijkt",
+            "translation": "seems"
         },
         {
-            "geweldig": "awesome"
+            "word": "geweldig",
+            "translation": "awesome"
         },
         {
-            "paar": "couple"
+            "word": "paar",
+            "translation": "couple"
         },
         {
-            "hoor": "hear"
+            "word": "hoor",
+            "translation": "hear"
         },
         {
-            "laatste": "last"
+            "word": "laatste",
+            "translation": "last"
         },
         {
-            "deed": "held"
+            "word": "deed",
+            "translation": "held"
         },
         {
-            "nieuwe": "new ones"
+            "word": "nieuwe",
+            "translation": "new ones"
         },
         {
-            "vragen": "to ask"
+            "word": "vragen",
+            "translation": "to ask"
         },
         {
-            "kun": "abundance"
+            "word": "kun",
+            "translation": "abundance"
         },
         {
-            "zag": "saw"
+            "word": "zag",
+            "translation": "saw"
         },
         {
-            "zorgen": "to assure"
+            "word": "zorgen",
+            "translation": "to assure"
         },
         {
-            "staan": "to stand"
+            "word": "staan",
+            "translation": "to stand"
         },
         {
-            "wereld": "world"
+            "word": "wereld",
+            "translation": "world"
         },
         {
-            "eten": "to eat"
+            "word": "eten",
+            "translation": "to eat"
         },
         {
-            "jongens": "boys"
+            "word": "jongens",
+            "translation": "boys"
         },
         {
-            "enige": "any"
+            "word": "enige",
+            "translation": "any"
         },
         {
-            "zelf": "yourself"
+            "word": "zelf",
+            "translation": "yourself"
         },
         {
-            "want": "because"
+            "word": "want",
+            "translation": "because"
         },
         {
-            "nemen": "to take"
+            "word": "nemen",
+            "translation": "to take"
         },
         {
-            "heen": "to"
+            "word": "heen",
+            "translation": "to"
         },
         {
-            "zo'n": "Sun"
+            "word": "zo'n",
+            "translation": "Sun"
         },
         {
-            "beste": "Best"
+            "word": "beste",
+            "translation": "Best"
         },
         {
-            "ken": "know"
+            "word": "ken",
+            "translation": "know"
         },
         {
-            "vandaag": "Today"
+            "word": "vandaag",
+            "translation": "Today"
         },
         {
-            "zelfs": "even"
+            "word": "zelfs",
+            "translation": "even"
         },
         {
-            "ie": "ie"
+            "word": "ie",
+            "translation": "ie"
         },
         {
-            "gezegd": "said"
+            "word": "gezegd",
+            "translation": "said"
         },
         {
-            "hadden": "had"
+            "word": "hadden",
+            "translation": "had"
         },
         {
-            "vertel": "tell"
+            "word": "vertel",
+            "translation": "tell"
         },
         {
-            "eerst": "first"
+            "word": "eerst",
+            "translation": "first"
         },
         {
-            "gevonden": "found it"
+            "word": "gevonden",
+            "translation": "found it"
         },
         {
-            "zoon": "son"
+            "word": "zoon",
+            "translation": "son"
         },
         {
-            "buiten": "outside"
+            "word": "buiten",
+            "translation": "outside"
         },
         {
-            "samen": "together"
+            "word": "samen",
+            "translation": "together"
         },
         {
-            "denken": "think"
+            "word": "denken",
+            "translation": "think"
         },
         {
-            "geloof": "believe"
+            "word": "geloof",
+            "translation": "believe"
         },
         {
-            "morgen": "tomorrow"
+            "word": "morgen",
+            "translation": "tomorrow"
         },
         {
-            "geleden": "past"
+            "word": "geleden",
+            "translation": "past"
         },
         {
-            "meisje": "girl"
+            "word": "meisje",
+            "translation": "girl"
         },
         {
-            "thuis": "At home"
+            "word": "thuis",
+            "translation": "At home"
         },
         {
-            "denkt": "thinks"
+            "word": "denkt",
+            "translation": "thinks"
         },
         {
-            "rustig": "Calm"
+            "word": "rustig",
+            "translation": "Calm"
         },
         {
-            "mannen": "men"
+            "word": "mannen",
+            "translation": "men"
         },
         {
-            "halen": "to fetch"
+            "word": "halen",
+            "translation": "to fetch"
         },
         {
-            "probleem": "problem"
+            "word": "probleem",
+            "translation": "problem"
         },
         {
-            "hen": "them"
+            "word": "hen",
+            "translation": "them"
         },
         {
-            "stop": "Stop"
+            "word": "stop",
+            "translation": "Stop"
         },
         {
-            "eigen": "own"
+            "word": "eigen",
+            "translation": "own"
         },
         {
-            "kleine": "little"
+            "word": "kleine",
+            "translation": "little"
         },
         {
-            "hoop": "heap"
+            "word": "hoop",
+            "translation": "heap"
         },
         {
-            "wou": "wish"
+            "word": "wou",
+            "translation": "wish"
         },
         {
-            "vermoord": "murdered"
+            "word": "vermoord",
+            "translation": "murdered"
         },
         {
-            "elke": "each"
+            "word": "elke",
+            "translation": "each"
         },
         {
-            "krijg": "get"
+            "word": "krijg",
+            "translation": "get"
         },
         {
-            "horen": "to belong"
+            "word": "horen",
+            "translation": "to belong"
         },
         {
-            "gelijk": "directly"
+            "word": "gelijk",
+            "translation": "directly"
         },
         {
-            "bijna": "almost"
+            "word": "bijna",
+            "translation": "almost"
         },
         {
-            "zouden": "would"
+            "word": "zouden",
+            "translation": "would"
         },
         {
-            "open": "Open"
+            "word": "open",
+            "translation": "Open"
         },
         {
-            "orde": "order"
+            "word": "orde",
+            "translation": "order"
         },
         {
-            "begrijp": "understand"
+            "word": "begrijp",
+            "translation": "understand"
         },
         {
-            "hoofd": "head"
+            "word": "hoofd",
+            "translation": "head"
         },
         {
-            "gebeurt": "happens"
+            "word": "gebeurt",
+            "translation": "happens"
         },
         {
-            "kant": "side"
+            "word": "kant",
+            "translation": "side"
         },
         {
-            "vrienden": "friends"
+            "word": "vrienden",
+            "translation": "friends"
         },
         {
-            "houdt": "holds"
+            "word": "houdt",
+            "translation": "holds"
         },
         {
-            "eigenlijk": "actually"
+            "word": "eigenlijk",
+            "translation": "actually"
         },
         {
-            "alsof": "as if"
+            "word": "alsof",
+            "translation": "as if"
         },
         {
-            "pak": "business suit"
+            "word": "pak",
+            "translation": "business suit"
         },
         {
-            "geeft": "gives"
+            "word": "geeft",
+            "translation": "gives"
         },
         {
-            "politie": "Police"
+            "word": "politie",
+            "translation": "Police"
         },
         {
-            "precies": "precisely"
+            "word": "precies",
+            "translation": "precisely"
         },
         {
-            "wachten": "to wait"
+            "word": "wachten",
+            "translation": "to wait"
         },
         {
-            "familie": "family"
+            "word": "familie",
+            "translation": "family"
         },
         {
-            "verder": "further"
+            "word": "verder",
+            "translation": "further"
         },
         {
-            "zat": "fed up"
+            "word": "zat",
+            "translation": "fed up"
         },
         {
-            "soms": "sometimes"
+            "word": "soms",
+            "translation": "sometimes"
         },
         {
-            "werken": "to work"
+            "word": "werken",
+            "translation": "to work"
         },
         {
-            "bel": "call"
+            "word": "bel",
+            "translation": "call"
         },
         {
-            "voel": "feel"
+            "word": "voel",
+            "translation": "feel"
         },
         {
-            "kind": "child"
+            "word": "kind",
+            "translation": "child"
         },
         {
-            "probeer": "try"
+            "word": "probeer",
+            "translation": "try"
         },
         {
-            "ding": "thing"
+            "word": "ding",
+            "translation": "thing"
         },
         {
-            "minuten": "minute"
+            "word": "minuten",
+            "translation": "minute"
         },
         {
-            "krijgt": "gets"
+            "word": "krijgt",
+            "translation": "gets"
         },
         {
-            "zet": "sets"
+            "word": "zet",
+            "translation": "sets"
         },
         {
-            "vijf": "five"
+            "word": "vijf",
+            "translation": "five"
         },
         {
-            "gehad": "having"
+            "word": "gehad",
+            "translation": "having"
         },
         {
-            "haal": "get"
+            "word": "haal",
+            "translation": "get"
         },
         {
-            "gemaakt": "made"
+            "word": "gemaakt",
+            "translation": "made"
         },
         {
-            "hè": "Hey"
+            "word": "hè",
+            "translation": "Hey"
         },
         {
-            "manier": "way"
+            "word": "manier",
+            "translation": "way"
         },
         {
-            "dagen": "to dawn"
+            "word": "dagen",
+            "translation": "to dawn"
         },
         {
-            "zoek": "search"
+            "word": "zoek",
+            "translation": "search"
         },
         {
-            "heet": "is called"
+            "word": "heet",
+            "translation": "is called"
         },
         {
-            "volgende": "next one"
+            "word": "volgende",
+            "translation": "next one"
         },
         {
-            "daarom": "therefore"
+            "word": "daarom",
+            "translation": "therefore"
         },
         {
-            "gehoord": "heard"
+            "word": "gehoord",
+            "translation": "heard"
         },
         {
-            "pas": "pass"
+            "word": "pas",
+            "translation": "pass"
         },
         {
-            "werkt": "works"
+            "word": "werkt",
+            "translation": "works"
         },
         {
-            "vanavond": "this evening"
+            "word": "vanavond",
+            "translation": "this evening"
         },
         {
-            "volgens": "according to"
+            "word": "volgens",
+            "translation": "according to"
         },
         {
-            "best": "best"
+            "word": "best",
+            "translation": "best"
         },
         {
-            "pijn": "pain"
+            "word": "pijn",
+            "translation": "pain"
         },
         {
-            "kans": "opportunity"
+            "word": "kans",
+            "translation": "opportunity"
         },
         {
-            "eruit": "out"
+            "word": "eruit",
+            "translation": "out"
         },
         {
-            "help": "Help"
+            "word": "help",
+            "translation": "Help"
         },
         {
-            "plaats": "place"
+            "word": "plaats",
+            "translation": "place"
         },
         {
-            "hoeveel": "how many"
+            "word": "hoeveel",
+            "translation": "how many"
         },
         {
-            "vroeg": "early"
+            "word": "vroeg",
+            "translation": "early"
         },
         {
-            "oude": "old"
+            "word": "oude",
+            "translation": "old"
         },
         {
-            "stad": "city"
+            "word": "stad",
+            "translation": "city"
         },
         {
-            "zoeken": "to search"
+            "word": "zoeken",
+            "translation": "to search"
         },
         {
-            "ogen": "eyes"
+            "word": "ogen",
+            "translation": "eyes"
         },
         {
-            "jezelf": "yourself"
+            "word": "jezelf",
+            "translation": "yourself"
         },
         {
-            "geloven": "to believe"
+            "word": "geloven",
+            "translation": "to believe"
         },
         {
-            "moment": "moment"
+            "word": "moment",
+            "translation": "moment"
         },
         {
-            "kamer": "room"
+            "word": "kamer",
+            "translation": "room"
         },
         {
-            "schiet": "shooting"
+            "word": "schiet",
+            "translation": "shooting"
         },
         {
-            "vier": "four"
+            "word": "vier",
+            "translation": "four"
         },
         {
-            "vindt": "finds"
+            "word": "vindt",
+            "translation": "finds"
         },
         {
-            "word": "become"
+            "word": "word",
+            "translation": "become"
         },
         {
-            "agent": "agent"
+            "word": "agent",
+            "translation": "agent"
         },
         {
-            "slecht": "bad"
+            "word": "slecht",
+            "translation": "bad"
         },
         {
-            "verteld": "told"
+            "word": "verteld",
+            "translation": "told"
         },
         {
-            "brengen": "to take"
+            "word": "brengen",
+            "translation": "to take"
         },
         {
-            "blij": "pleased"
+            "word": "blij",
+            "translation": "pleased"
         },
         {
-            "hulp": "staff"
+            "word": "hulp",
+            "translation": "staff"
         },
         {
-            "welke": "which"
+            "word": "welke",
+            "translation": "which"
         },
         {
-            "blijft": "stays"
+            "word": "blijft",
+            "translation": "stays"
         },
         {
-            "ligt": "is"
+            "word": "ligt",
+            "translation": "is"
         },
         {
-            "broer": "brother"
+            "word": "broer",
+            "translation": "brother"
         },
         {
-            "school": "school"
+            "word": "school",
+            "translation": "school"
         },
         {
-            "tussen": "between"
+            "word": "tussen",
+            "translation": "between"
         },
         {
-            "deur": "door"
+            "word": "deur",
+            "translation": "door"
         },
         {
-            "spreken": "speak"
+            "word": "spreken",
+            "translation": "speak"
         },
         {
-            "plan": "plan"
+            "word": "plan",
+            "translation": "plan"
         },
         {
-            "dollar": "dollar"
+            "word": "dollar",
+            "translation": "dollar"
         },
         {
-            "handen": "hands"
+            "word": "handen",
+            "translation": "hands"
         },
         {
-            "ergens": "somewhere"
+            "word": "ergens",
+            "translation": "somewhere"
         },
         {
-            "dr.": "Dr."
+            "word": "dr.",
+            "translation": "Dr."
         },
         {
-            "klopt": "Correct"
+            "word": "klopt",
+            "translation": "Correct"
         },
         {
-            "breng": "bring"
+            "word": "breng",
+            "translation": "bring"
         },
         {
-            "dokter": "doctor"
+            "word": "dokter",
+            "translation": "doctor"
         },
         {
-            "juist": "correct"
+            "word": "juist",
+            "translation": "correct"
         },
         {
-            "vond": "found"
+            "word": "vond",
+            "translation": "found"
         },
         {
-            "praat": "talking"
+            "word": "praat",
+            "translation": "talking"
         },
         {
-            "prima": "fine"
+            "word": "prima",
+            "translation": "fine"
         },
         {
-            "betekent": "means"
+            "word": "betekent",
+            "translation": "means"
         },
         {
-            "soort": "kind"
+            "word": "soort",
+            "translation": "kind"
         },
         {
-            "zaak": "case"
+            "word": "zaak",
+            "translation": "case"
         },
         {
-            "proberen": "to attempt"
+            "word": "proberen",
+            "translation": "to attempt"
         },
         {
-            "jack": "jacket"
+            "word": "jack",
+            "translation": "jacket"
         },
         {
-            "spelen": "to play"
+            "word": "spelen",
+            "translation": "to play"
         },
         {
-            "lekker": "Tasty"
+            "word": "lekker",
+            "translation": "Tasty"
         },
         {
-            "doden": "kill"
+            "word": "doden",
+            "translation": "kill"
         },
         {
-            "gebruiken": "to use"
+            "word": "gebruiken",
+            "translation": "to use"
         },
         {
-            "groot": "big"
+            "word": "groot",
+            "translation": "big"
         },
         {
-            "kent": "knows"
+            "word": "kent",
+            "translation": "knows"
         },
         {
-            "boven": "upper"
+            "word": "boven",
+            "translation": "upper"
         },
         {
-            "water": "water"
+            "word": "water",
+            "translation": "water"
         },
         {
-            "problemen": "issues"
+            "word": "problemen",
+            "translation": "issues"
         },
         {
-            "land": "land"
+            "word": "land",
+            "translation": "land"
         },
         {
-            "sta": "stand"
+            "word": "sta",
+            "translation": "stand"
         },
         {
-            "later": "later"
+            "word": "later",
+            "translation": "later"
         },
         {
-            "papa": "Daddy"
+            "word": "papa",
+            "translation": "Daddy"
         },
         {
-            "This": "This"
+            "word": "This",
+            "translation": "This"
         },
         {
-            "pakken": "to take"
+            "word": "pakken",
+            "translation": "to take"
         },
         {
-            "week": "week"
+            "word": "week",
+            "translation": "week"
         },
         {
-            "schat": "Darling"
+            "word": "schat",
+            "translation": "Darling"
         },
         {
-            "voordat": "before"
+            "word": "voordat",
+            "translation": "before"
         },
         {
-            "zoveel": "so much"
+            "word": "zoveel",
+            "translation": "so much"
         },
         {
-            "vrij": "free"
+            "word": "vrij",
+            "translation": "free"
         },
         {
-            "echte": "real"
+            "word": "echte",
+            "translation": "real"
         },
         {
-            "stoppen": "fuses"
+            "word": "stoppen",
+            "translation": "fuses"
         },
         {
-            "klootzak": "asshole"
+            "word": "klootzak",
+            "translation": "asshole"
         },
         {
-            "beginnen": "to start"
+            "word": "beginnen",
+            "translation": "to start"
         },
         {
-            "alstublieft": "Please"
+            "word": "alstublieft",
+            "translation": "Please"
         },
         {
-            "zodat": "so that"
+            "word": "zodat",
+            "translation": "so that"
         },
         {
-            "zorg": "concern"
+            "word": "zorg",
+            "translation": "concern"
         },
         {
-            "mooie": "nice"
+            "word": "mooie",
+            "translation": "nice"
         },
         {
-            "wees": "orphan"
+            "word": "wees",
+            "translation": "orphan"
         },
         {
-            "vermoorden": "murder"
+            "word": "vermoorden",
+            "translation": "murder"
         },
         {
-            "mis": "mass"
+            "word": "mis",
+            "translation": "mass"
         },
         {
-            "vooruit": "ahead"
+            "word": "vooruit",
+            "translation": "ahead"
         },
         {
-            "bellen": "to call"
+            "word": "bellen",
+            "translation": "to call"
         },
         {
-            "dochter": "daughter"
+            "word": "dochter",
+            "translation": "daughter"
         },
         {
-            "vrouwen": "women"
+            "word": "vrouwen",
+            "translation": "women"
         },
         {
-            "tien": "ten"
+            "word": "tien",
+            "translation": "ten"
         },
         {
-            "hoeft": "needs"
+            "word": "hoeft",
+            "translation": "needs"
         },
         {
-            "lopen": "to walk"
+            "word": "lopen",
+            "translation": "to walk"
         },
         {
-            "hart": "heart"
+            "word": "hart",
+            "translation": "heart"
         },
         {
-            "snap": "snap"
+            "word": "snap",
+            "translation": "snap"
         },
         {
-            "voorbij": "past"
+            "word": "voorbij",
+            "translation": "past"
         },
         {
-            "los": "loose"
+            "word": "los",
+            "translation": "loose"
         },
         {
-            "vergeten": "forget"
+            "word": "vergeten",
+            "translation": "forget"
         },
         {
-            "gebeuren": "to happen"
+            "word": "gebeuren",
+            "translation": "to happen"
         },
         {
-            "bloed": "blood"
+            "word": "bloed",
+            "translation": "blood"
         },
         {
-            "druk": "Busy"
+            "word": "druk",
+            "translation": "Busy"
         },
         {
-            "verhaal": "story"
+            "word": "verhaal",
+            "translation": "story"
         },
         {
-            "moeilijk": "difficult"
+            "word": "moeilijk",
+            "translation": "difficult"
         },
         {
-            "hoi": "Hi"
+            "word": "hoi",
+            "translation": "Hi"
         },
         {
-            "zes": "six"
+            "word": "zes",
+            "translation": "six"
         },
         {
-            "eerder": "earlier"
+            "word": "eerder",
+            "translation": "earlier"
         },
         {
-            "neer": "down"
+            "word": "neer",
+            "translation": "down"
         },
         {
-            "ervan": "of it"
+            "word": "ervan",
+            "translation": "of it"
         },
         {
-            "bed": "bed"
+            "word": "bed",
+            "translation": "bed"
         },
         {
-            "nacht": "night"
+            "word": "nacht",
+            "translation": "night"
         },
         {
-            "bezig": "busy"
+            "word": "bezig",
+            "translation": "busy"
         },
         {
-            "wakker": "wake -up"
+            "word": "wakker",
+            "translation": "wake -up"
         },
         {
-            "redden": "to rescue"
+            "word": "redden",
+            "translation": "to rescue"
         },
         {
-            "klein": "small"
+            "word": "klein",
+            "translation": "small"
         },
         {
-            "gekomen": "arrived"
+            "word": "gekomen",
+            "translation": "arrived"
         },
         {
-            "sinds": "since"
+            "word": "sinds",
+            "translation": "since"
         },
         {
-            "kop": "head"
+            "word": "kop",
+            "translation": "head"
         },
         {
-            "zult": "will"
+            "word": "zult",
+            "translation": "will"
         },
         {
-            "begrepen": "understood"
+            "word": "begrepen",
+            "translation": "understood"
         },
         {
-            "plek": "place"
+            "word": "plek",
+            "translation": "place"
         },
         {
-            "veilig": "safe"
+            "word": "veilig",
+            "translation": "safe"
         },
         {
-            "stel": "couple"
+            "word": "stel",
+            "translation": "couple"
         },
         {
-            "vol": "full"
+            "word": "vol",
+            "translation": "full"
         },
         {
-            "nummer": "number"
+            "word": "nummer",
+            "translation": "number"
         },
         {
-            "waarheid": "truth"
+            "word": "waarheid",
+            "translation": "truth"
         },
         {
-            "zoiets": "something like this"
+            "word": "zoiets",
+            "translation": "something like this"
         },
         {
-            "mevrouw": "Madam"
+            "word": "mevrouw",
+            "translation": "Madam"
         },
         {
-            "leren": "to learn"
+            "word": "leren",
+            "translation": "to learn"
         },
         {
-            "hetzelfde": "the same"
+            "word": "hetzelfde",
+            "translation": "the same"
         },
         {
-            "gaf": "gave"
+            "word": "gaf",
+            "translation": "gave"
         },
         {
-            "baby": "baby"
+            "word": "baby",
+            "translation": "baby"
         },
         {
-            "baas": "boss"
+            "word": "baas",
+            "translation": "boss"
         },
         {
-            "gelukkig": "happy"
+            "word": "gelukkig",
+            "translation": "happy"
         },
         {
-            "meteen": "immediately"
+            "word": "meteen",
+            "translation": "immediately"
         },
         {
-            "beneden": "downstairs"
+            "word": "beneden",
+            "translation": "downstairs"
         },
         {
-            "waarschijnlijk": "probably"
+            "word": "waarschijnlijk",
+            "translation": "probably"
         },
         {
-            "sterven": "die"
+            "word": "sterven",
+            "translation": "die"
         },
         {
-            "gezicht": "sight"
+            "word": "gezicht",
+            "translation": "sight"
         },
         {
-            "begin": "get started"
+            "word": "begin",
+            "translation": "get started"
         },
         {
-            "mogelijk": "possibly"
+            "word": "mogelijk",
+            "translation": "possibly"
         },
         {
-            "mama": "mom"
+            "word": "mama",
+            "translation": "mom"
         },
         {
-            "dicht": "closed"
+            "word": "dicht",
+            "translation": "closed"
         },
         {
-            "zaken": "Affairs"
+            "word": "zaken",
+            "translation": "Affairs"
         },
         {
-            "liggen": "lie"
+            "word": "liggen",
+            "translation": "lie"
         },
         {
-            "nieuws": "news"
+            "word": "nieuws",
+            "translation": "news"
         },
         {
-            "ander": "other"
+            "word": "ander",
+            "translation": "other"
         },
         {
-            "eraan": "there"
+            "word": "eraan",
+            "translation": "there"
         },
         {
-            "liefde": "love"
+            "word": "liefde",
+            "translation": "love"
         },
         {
-            "slapen": "to sleep"
+            "word": "slapen",
+            "translation": "to sleep"
         },
         {
-            "ver": "far"
+            "word": "ver",
+            "translation": "far"
         },
         {
-            "reden": "rode"
+            "word": "reden",
+            "translation": "rode"
         },
         {
-            "fout": "wrong"
+            "word": "fout",
+            "translation": "wrong"
         },
         {
-            "vallen": "traps"
+            "word": "vallen",
+            "translation": "traps"
         },
         {
-            "maanden": "months"
+            "word": "maanden",
+            "translation": "months"
         },
         {
-            "mogen": "to be allowed to"
+            "word": "mogen",
+            "translation": "to be allowed to"
         },
         {
-            "oud": "old"
+            "word": "oud",
+            "translation": "old"
         },
         {
-            "vergeet": "forgets"
+            "word": "vergeet",
+            "translation": "forgets"
         },
         {
-            "voelt": "feel"
+            "word": "voelt",
+            "translation": "feel"
         },
         {
-            "vent": "father"
+            "word": "vent",
+            "translation": "father"
         },
         {
-            "sir": "sir"
+            "word": "sir",
+            "translation": "sir"
         },
         {
-            "hoorde": "heard"
+            "word": "hoorde",
+            "translation": "heard"
         },
         {
-            "hoort": "belongs"
+            "word": "hoort",
+            "translation": "belongs"
         },
         {
-            "klinkt": "sounds"
+            "word": "klinkt",
+            "translation": "sounds"
         },
         {
-            "terwijl": "while"
+            "word": "terwijl",
+            "translation": "while"
         },
         {
-            "vriendin": "female friend"
+            "word": "vriendin",
+            "translation": "female friend"
         },
         {
-            "welkom": "welcome"
+            "word": "welkom",
+            "translation": "welcome"
         },
         {
-            "team": "team"
+            "word": "team",
+            "translation": "team"
         },
         {
-            "rond": "round"
+            "word": "rond",
+            "translation": "round"
         },
         {
-            "president": "president"
+            "word": "president",
+            "translation": "president"
         },
         {
-            "oorlog": "war"
+            "word": "oorlog",
+            "translation": "war"
         },
         {
-            "duidelijk": "clearly"
+            "word": "duidelijk",
+            "translation": "clearly"
         },
         {
-            "jaren": "years"
+            "word": "jaren",
+            "translation": "years"
         },
         {
-            "rest": "rest"
+            "word": "rest",
+            "translation": "rest"
         },
         {
-            "schuld": "debt"
+            "word": "schuld",
+            "translation": "debt"
         },
         {
-            "avond": "evening"
+            "word": "avond",
+            "translation": "evening"
         },
         {
-            "eerlijk": "honestly"
+            "word": "eerlijk",
+            "translation": "honestly"
         },
         {
-            "fijn": "fine"
+            "word": "fijn",
+            "translation": "fine"
         },
         {
-            "mond": "mouth"
+            "word": "mond",
+            "translation": "mouth"
         },
         {
-            "buurt": "neighbourhood"
+            "word": "buurt",
+            "translation": "neighbourhood"
         },
         {
-            "drinken": "drinks"
+            "word": "drinken",
+            "translation": "drinks"
         },
         {
-            "telefoon": "telephone"
+            "word": "telefoon",
+            "translation": "telephone"
         },
         {
-            "per": "per"
+            "word": "per",
+            "translation": "per"
         },
         {
-            "wapen": "weapon"
+            "word": "wapen",
+            "translation": "weapon"
         },
         {
-            "liet": "let"
+            "word": "liet",
+            "translation": "let"
         },
         {
-            "belangrijk": "important"
+            "word": "belangrijk",
+            "translation": "important"
         },
         {
-            "kreeg": "got"
+            "word": "kreeg",
+            "translation": "got"
         },
         {
-            "ouders": "parents"
+            "word": "ouders",
+            "translation": "parents"
         },
         {
-            "stuk": "piece"
+            "word": "stuk",
+            "translation": "piece"
         },
         {
-            "rust": "peace"
+            "word": "rust",
+            "translation": "peace"
         },
         {
-            "vandaan": "from"
+            "word": "vandaan",
+            "translation": "from"
         },
         {
-            "kennen": "know"
+            "word": "kennen",
+            "translation": "know"
         },
         {
-            "Jezus": "Jesus"
+            "word": "Jezus",
+            "translation": "Jesus"
         },
         {
-            "deel": "part"
+            "word": "deel",
+            "translation": "part"
         },
         {
-            "baan": "track"
+            "word": "baan",
+            "translation": "track"
         },
         {
-            "kapitein": "captain"
+            "word": "kapitein",
+            "translation": "captain"
         },
         {
-            "erop": "on top"
+            "word": "erop",
+            "translation": "on top"
         },
         {
-            "geluk": "luck"
+            "word": "geluk",
+            "translation": "luck"
         },
         {
-            "dezelfde": "the same"
+            "word": "dezelfde",
+            "translation": "the same"
         },
         {
-            "overal": "everywhere"
+            "word": "overal",
+            "translation": "everywhere"
         },
         {
-            "schip": "ship"
+            "word": "schip",
+            "translation": "ship"
         },
         {
-            "heren": "Gentlemen"
+            "word": "heren",
+            "translation": "Gentlemen"
         },
         {
-            "gegeven": "datum"
+            "word": "gegeven",
+            "translation": "datum"
         },
         {
-            "anderen": "others"
+            "word": "anderen",
+            "translation": "others"
         },
         {
-            "zeer": "very"
+            "word": "zeer",
+            "translation": "very"
         },
         {
-            "langs": "by"
+            "word": "langs",
+            "translation": "by"
         },
         {
-            "mam": "mam"
+            "word": "mam",
+            "translation": "mam"
         },
         {
-            "recht": "straight"
+            "word": "recht",
+            "translation": "straight"
         },
         {
-            "lichaam": "body"
+            "word": "lichaam",
+            "translation": "body"
         },
         {
-            "aardig": "nice"
+            "word": "aardig",
+            "translation": "nice"
         },
         {
-            "vertrouwen": "to trust"
+            "word": "vertrouwen",
+            "translation": "to trust"
         },
         {
-            "ermee": "with it"
+            "word": "ermee",
+            "translation": "with it"
         },
         {
-            "neemt": "takes"
+            "word": "neemt",
+            "translation": "takes"
         },
         {
-            "vanaf": "from"
+            "word": "vanaf",
+            "translation": "from"
         },
         {
-            "vaak": "often"
+            "word": "vaak",
+            "translation": "often"
         },
         {
-            "boek": "book"
+            "word": "boek",
+            "translation": "book"
         },
         {
-            "mezelf": "myself"
+            "word": "mezelf",
+            "translation": "myself"
         },
         {
-            "zetten": "to make"
+            "word": "zetten",
+            "translation": "to make"
         },
         {
-            "stil": "quiet"
+            "word": "stil",
+            "translation": "quiet"
         },
         {
-            "ok": "OK"
+            "word": "ok",
+            "translation": "OK"
         },
         {
-            "kerel": "guy"
+            "word": "kerel",
+            "translation": "guy"
         },
         {
-            "betalen": "pay"
+            "word": "betalen",
+            "translation": "pay"
         },
         {
-            "geval": "case"
+            "word": "geval",
+            "translation": "case"
         },
         {
-            "miljoen": "million"
+            "word": "miljoen",
+            "translation": "million"
         },
         {
-            "tweede": "second"
+            "word": "tweede",
+            "translation": "second"
         },
         {
-            "haat": "hate"
+            "word": "haat",
+            "translation": "hate"
         },
         {
-            "hard": "hard"
+            "word": "hard",
+            "translation": "hard"
         },
         {
-            "inderdaad": "indeed"
+            "word": "inderdaad",
+            "translation": "indeed"
         },
         {
-            "woord": "word"
+            "word": "woord",
+            "translation": "word"
         },
         {
-            "stond": "was standing"
+            "word": "stond",
+            "translation": "was standing"
         },
         {
-            "hond": "dog"
+            "word": "hond",
+            "translation": "dog"
         },
         {
-            "straks": "soon"
+            "word": "straks",
+            "translation": "soon"
         },
         {
-            "weken": "to soften"
+            "word": "weken",
+            "translation": "to soften"
         },
         {
-            "film": "movie"
+            "word": "film",
+            "translation": "movie"
         },
         {
-            "antwoord": "answer"
+            "word": "antwoord",
+            "translation": "answer"
         },
         {
-            "veranderen": "change"
+            "word": "veranderen",
+            "translation": "change"
         },
         {
-            "licht": "light"
+            "word": "licht",
+            "translation": "light"
         },
         {
-            "houd": "loves"
+            "word": "houd",
+            "translation": "loves"
         },
         {
-            "pa": "pa"
+            "word": "pa",
+            "translation": "pa"
         },
         {
-            "tijdens": "during the day"
+            "word": "tijdens",
+            "translation": "during the day"
         },
         {
-            "lieverd": "Darling"
+            "word": "lieverd",
+            "translation": "Darling"
         },
         {
-            "liever": "rather"
+            "word": "liever",
+            "translation": "rather"
         },
         {
-            "kwaad": "pissed off"
+            "word": "kwaad",
+            "translation": "pissed off"
         },
         {
-            "ontmoet": "meet"
+            "word": "ontmoet",
+            "translation": "meet"
         },
         {
-            "nergens": "nowhere"
+            "word": "nergens",
+            "translation": "nowhere"
         },
         {
-            "gebruikt": "used"
+            "word": "gebruikt",
+            "translation": "used"
         },
         {
-            "schatje": "darling"
+            "word": "schatje",
+            "translation": "darling"
         },
         {
-            "verloren": "lost"
+            "word": "verloren",
+            "translation": "lost"
         },
         {
-            "koning": "king"
+            "word": "koning",
+            "translation": "king"
         },
         {
-            "nieuw": "new"
+            "word": "nieuw",
+            "translation": "new"
         },
         {
-            "elk": "each"
+            "word": "elk",
+            "translation": "each"
         },
         {
-            "erin": "there"
+            "word": "erin",
+            "translation": "there"
         },
         {
-            "ontmoeten": "Meet"
+            "word": "ontmoeten",
+            "translation": "Meet"
         },
         {
-            "vechten": "to fight"
+            "word": "vechten",
+            "translation": "to fight"
         },
         {
-            "voorzichtig": "carefully"
+            "word": "voorzichtig",
+            "translation": "carefully"
         },
         {
-            "geworden": "have become"
+            "word": "geworden",
+            "translation": "have become"
         },
         {
-            "enkel": "single"
+            "word": "enkel",
+            "translation": "single"
         },
         {
-            "kwijt": "lost"
+            "word": "kwijt",
+            "translation": "lost"
         },
         {
-            "noemen": "to call"
+            "word": "noemen",
+            "translation": "to call"
         },
         {
-            "valt": "fall"
+            "word": "valt",
+            "translation": "fall"
         },
         {
-            "prachtig": "beautiful"
+            "word": "prachtig",
+            "translation": "beautiful"
         },
         {
-            "rijden": "to ride"
+            "word": "rijden",
+            "translation": "to ride"
         },
         {
-            "zin": "sentence"
+            "word": "zin",
+            "translation": "sentence"
         },
         {
-            "hield": "kept"
+            "word": "hield",
+            "translation": "kept"
         },
         {
-            "daarna": "then"
+            "word": "daarna",
+            "translation": "then"
         },
         {
-            "mens": "man"
+            "word": "mens",
+            "translation": "man"
         },
         {
-            "schieten": "to shoot"
+            "word": "schieten",
+            "translation": "to shoot"
         },
         {
-            "grappig": "funny"
+            "word": "grappig",
+            "translation": "funny"
         },
         {
-            "stap": "step"
+            "word": "stap",
+            "translation": "step"
         },
         {
-            "zichzelf": "itself"
+            "word": "zichzelf",
+            "translation": "itself"
         },
         {
-            "kantoor": "office"
+            "word": "kantoor",
+            "translation": "office"
         },
         {
-            "wapens": "weapons"
+            "word": "wapens",
+            "translation": "weapons"
         },
         {
-            "normaal": "normal"
+            "word": "normaal",
+            "translation": "normal"
         },
         {
-            "slechte": "poor"
+            "word": "slechte",
+            "translation": "poor"
         },
         {
-            "maakte": "feature"
+            "word": "maakte",
+            "translation": "feature"
         },
         {
-            "moord": "murder"
+            "word": "moord",
+            "translation": "murder"
         },
         {
-            "gebeld": "called"
+            "word": "gebeld",
+            "translation": "called"
         },
         {
-            "ervoor": "before"
+            "word": "ervoor",
+            "translation": "before"
         },
         {
-            "ten": "at"
+            "word": "ten",
+            "translation": "at"
         },
         {
-            "heer": "gentleman"
+            "word": "heer",
+            "translation": "gentleman"
         },
         {
-            "loopt": "runs"
+            "word": "loopt",
+            "translation": "runs"
         },
         {
-            "einde": "end"
+            "word": "einde",
+            "translation": "end"
         },
         {
-            "gegaan": "gone"
+            "word": "gegaan",
+            "translation": "gone"
         },
         {
-            "gang": "course"
+            "word": "gang",
+            "translation": "course"
         },
         {
-            "vertelde": "told"
+            "word": "vertelde",
+            "translation": "told"
         },
         {
-            "spel": "game"
+            "word": "spel",
+            "translation": "game"
         },
         {
-            "informatie": "information"
+            "word": "informatie",
+            "translation": "information"
         },
         {
-            "frank": "Frank"
+            "word": "frank",
+            "translation": "Frank"
         },
         {
-            "dames": "ladies"
+            "word": "dames",
+            "translation": "ladies"
         },
         {
-            "naartoe": "to"
+            "word": "naartoe",
+            "translation": "to"
         },
         {
-            "allebei": "both"
+            "word": "allebei",
+            "translation": "both"
         },
         {
-            "leg": "put"
+            "word": "leg",
+            "translation": "put"
         },
         {
-            "acht": "eight"
+            "word": "acht",
+            "translation": "eight"
         },
         {
-            "pap": "dad"
+            "word": "pap",
+            "translation": "dad"
         },
         {
-            "seks": "sex"
+            "word": "seks",
+            "translation": "sex"
         },
         {
-            "minder": "fewer"
+            "word": "minder",
+            "translation": "fewer"
         },
         {
-            "gevoel": "feeling"
+            "word": "gevoel",
+            "translation": "feeling"
         },
         {
-            "trouwen": "to marry"
+            "word": "trouwen",
+            "translation": "to marry"
         },
         {
-            "nogal": "rather"
+            "word": "nogal",
+            "translation": "rather"
         },
         {
-            "eh": "eh"
+            "word": "eh",
+            "translation": "eh"
         },
         {
-            "voelen": "to feel"
+            "word": "voelen",
+            "translation": "to feel"
         },
         {
-            "begint": "begins"
+            "word": "begint",
+            "translation": "begins"
         },
         {
-            "plezier": "pleasure"
+            "word": "plezier",
+            "translation": "pleasure"
         },
         {
-            "meisjes": "girls"
+            "word": "meisjes",
+            "translation": "girls"
         },
         {
-            "stuur": "send"
+            "word": "stuur",
+            "translation": "send"
         },
         {
-            "foto": "photo"
+            "word": "foto",
+            "translation": "photo"
         },
         {
-            "vreemd": "foreign"
+            "word": "vreemd",
+            "translation": "foreign"
         },
         {
-            "zomaar": "just like that"
+            "word": "zomaar",
+            "translation": "just like that"
         },
         {
-            "verkeerd": "wrong"
+            "word": "verkeerd",
+            "translation": "wrong"
         },
         {
-            "zeven": "seven"
+            "word": "zeven",
+            "translation": "seven"
         },
         {
-            "lucht": "sky"
+            "word": "lucht",
+            "translation": "sky"
         },
         {
-            "grond": "ground"
+            "word": "grond",
+            "translation": "ground"
         },
         {
-            "leeft": "lives"
+            "word": "leeft",
+            "translation": "lives"
         },
         {
-            "nam": "nam"
+            "word": "nam",
+            "translation": "nam"
         },
         {
-            "pardon": "excuse me"
+            "word": "pardon",
+            "translation": "excuse me"
         },
         {
-            "verwacht": "expected"
+            "word": "verwacht",
+            "translation": "expected"
         },
         {
-            "kopen": "to buy"
+            "word": "kopen",
+            "translation": "to buy"
         },
         {
-            "koffie": "coffee"
+            "word": "koffie",
+            "translation": "coffee"
         },
         {
-            "onderzoek": "research"
+            "word": "onderzoek",
+            "translation": "research"
         },
         {
-            "gesproken": "spoken"
+            "word": "gesproken",
+            "translation": "spoken"
         },
         {
-            "herinner": "remember"
+            "word": "herinner",
+            "translation": "remember"
         },
         {
-            "idioot": "idiot"
+            "word": "idioot",
+            "translation": "idiot"
         },
         {
-            "ziekenhuis": "Hopital"
+            "word": "ziekenhuis",
+            "translation": "Hopital"
         },
         {
-            "daarmee": "with that"
+            "word": "daarmee",
+            "translation": "with that"
         },
         {
-            "shit": "shit"
+            "word": "shit",
+            "translation": "shit"
         },
         {
-            "eindelijk": "finally"
+            "word": "eindelijk",
+            "translation": "finally"
         },
         {
-            "perfect": "perfect"
+            "word": "perfect",
+            "translation": "perfect"
         },
         {
-            "goeie": "good"
+            "word": "goeie",
+            "translation": "good"
         },
         {
-            "gisteren": "yesterday"
+            "word": "gisteren",
+            "translation": "yesterday"
         },
         {
-            "aarde": "soil"
+            "word": "aarde",
+            "translation": "soil"
         },
         {
-            "contact": "Contact"
+            "word": "contact",
+            "translation": "Contact"
         },
         {
-            "zus": "sister"
+            "word": "zus",
+            "translation": "sister"
         },
         {
-            "erbij": "there"
+            "word": "erbij",
+            "translation": "there"
         },
         {
-            "beschermen": "to protect"
+            "word": "beschermen",
+            "translation": "to protect"
         },
         {
-            "gevangenis": "jail"
+            "word": "gevangenis",
+            "translation": "jail"
         },
         {
-            "persoon": "person"
+            "word": "persoon",
+            "translation": "person"
         },
         {
-            "winnen": "to win"
+            "word": "winnen",
+            "translation": "to win"
         },
         {
-            "kracht": "power"
+            "word": "kracht",
+            "translation": "power"
         },
         {
-            "ziek": "ill"
+            "word": "ziek",
+            "translation": "ill"
         },
         {
-            "omhoog": "upwards"
+            "word": "omhoog",
+            "translation": "upwards"
         },
         {
-            "beloof": "promise"
+            "word": "beloof",
+            "translation": "promise"
         },
         {
-            "gebruik": "usage"
+            "word": "gebruik",
+            "translation": "usage"
         },
         {
-            "hoezo": "how so"
+            "word": "hoezo",
+            "translation": "how so"
         },
         {
-            "degene": "the one"
+            "word": "degene",
+            "translation": "the one"
         },
         {
-            "trek": "migration"
+            "word": "trek",
+            "translation": "migration"
         },
         {
-            "meen": "mean"
+            "word": "meen",
+            "translation": "mean"
         },
         {
-            "enkele": "a few"
+            "word": "enkele",
+            "translation": "a few"
         },
         {
-            "getrouwd": "married"
+            "word": "getrouwd",
+            "translation": "married"
         },
         {
-            "gevraagd": "sought -after"
+            "word": "gevraagd",
+            "translation": "sought -after"
         },
         {
-            "New": "New"
+            "word": "New",
+            "translation": "New"
         },
         {
-            "verdomde": "damn"
+            "word": "verdomde",
+            "translation": "damn"
         },
         {
-            "hierheen": "here"
+            "word": "hierheen",
+            "translation": "here"
         },
         {
-            "punt": "point"
+            "word": "punt",
+            "translation": "point"
         },
         {
-            "toekomst": "future"
+            "word": "toekomst",
+            "translation": "future"
         },
         {
-            "probeerde": "attempted"
+            "word": "probeerde",
+            "translation": "attempted"
         },
         {
-            "half": "half"
+            "word": "half",
+            "translation": "half"
         },
         {
-            "leger": "army"
+            "word": "leger",
+            "translation": "army"
         },
         {
-            "waard": "worth"
+            "word": "waard",
+            "translation": "worth"
         },
         {
-            "opnieuw": "again"
+            "word": "opnieuw",
+            "translation": "again"
         },
         {
-            "val": "fall"
+            "word": "val",
+            "translation": "fall"
         },
         {
-            "vuur": "firework"
+            "word": "vuur",
+            "translation": "firework"
         },
         {
-            "bewijs": "evidence"
+            "word": "bewijs",
+            "translation": "evidence"
         },
         {
-            "controle": "check"
+            "word": "controle",
+            "translation": "check"
         },
         {
-            "stellen": "set"
+            "word": "stellen",
+            "translation": "set"
         },
         {
-            "tv": "TV"
+            "word": "tv",
+            "translation": "TV"
         },
         {
-            "loop": "run"
+            "word": "loop",
+            "translation": "run"
         },
         {
-            "woorden": "words"
+            "word": "woorden",
+            "translation": "words"
         },
         {
-            "droom": "dream"
+            "word": "droom",
+            "translation": "dream"
         },
         {
-            "begrijpen": "to understand"
+            "word": "begrijpen",
+            "translation": "to understand"
         },
         {
-            "eet": "eat"
+            "word": "eet",
+            "translation": "eat"
         },
         {
-            "bedoelt": "intended"
+            "word": "bedoelt",
+            "translation": "intended"
         },
         {
-            "onzin": "nonsense"
+            "word": "onzin",
+            "translation": "nonsense"
         },
         {
-            "serieus": "serious"
+            "word": "serieus",
+            "translation": "serious"
         },
         {
-            "konden": "alloy"
+            "word": "konden",
+            "translation": "alloy"
         },
         {
-            "nietwaar": "not true"
+            "word": "nietwaar",
+            "translation": "not true"
         },
         {
-            "verlaten": "to leave"
+            "word": "verlaten",
+            "translation": "to leave"
         },
         {
-            "pistool": "pistol"
+            "word": "pistool",
+            "translation": "pistol"
         },
         {
-            "gekregen": "got"
+            "word": "gekregen",
+            "translation": "got"
         },
         {
-            "men": "men"
+            "word": "men",
+            "translation": "men"
         },
         {
-            "brengt": "brings"
+            "word": "brengt",
+            "translation": "brings"
         },
         {
-            "fantastisch": "fantastic"
+            "word": "fantastisch",
+            "translation": "fantastic"
         },
         {
-            "trots": "pride"
+            "word": "trots",
+            "translation": "pride"
         },
         {
-            "ziens": "see"
+            "word": "ziens",
+            "translation": "see"
         },
         {
-            "ongeluk": "accident"
+            "word": "ongeluk",
+            "translation": "accident"
         },
         {
-            "geheim": "secret"
+            "word": "geheim",
+            "translation": "secret"
         },
         {
-            "vroeger": "earlier"
+            "word": "vroeger",
+            "translation": "earlier"
         },
         {
-            "veranderd": "changed"
+            "word": "veranderd",
+            "translation": "changed"
         },
         {
-            "eentje": "one"
+            "word": "eentje",
+            "translation": "one"
         },
         {
-            "werden": "be"
+            "word": "werden",
+            "translation": "be"
         },
         {
-            "begon": "began"
+            "word": "begon",
+            "translation": "began"
         },
         {
-            "verliezen": "to lose"
+            "word": "verliezen",
+            "translation": "to lose"
         },
         {
-            "probeert": "tries"
+            "word": "probeert",
+            "translation": "tries"
         },
         {
-            "vliegtuig": "aeroplane"
+            "word": "vliegtuig",
+            "translation": "aeroplane"
         },
         {
-            "let": "watchmanship"
+            "word": "let",
+            "translation": "watchmanship"
         },
         {
-            "slim": "smart"
+            "word": "slim",
+            "translation": "smart"
         },
         {
-            "juiste": "right one"
+            "word": "juiste",
+            "translation": "right one"
         },
         {
-            "langer": "longer"
+            "word": "langer",
+            "translation": "longer"
         },
         {
-            "slaap": "sleep"
+            "word": "slaap",
+            "translation": "sleep"
         },
         {
-            "lezen": "read"
+            "word": "lezen",
+            "translation": "read"
         },
         {
-            "ongeveer": "about"
+            "word": "ongeveer",
+            "translation": "about"
         },
         {
-            "behalve": "except"
+            "word": "behalve",
+            "translation": "except"
         },
         {
-            "meid": "girl"
+            "word": "meid",
+            "translation": "girl"
         },
         {
-            "oom": "uncle"
+            "word": "oom",
+            "translation": "uncle"
         },
         {
-            "gered": "saved"
+            "word": "gered",
+            "translation": "saved"
         },
         {
-            "bank": "Bank"
+            "word": "bank",
+            "translation": "Bank"
         },
         {
-            "generaal": "general"
+            "word": "generaal",
+            "translation": "general"
         },
         {
-            "dienst": "employ"
+            "word": "dienst",
+            "translation": "employ"
         },
         {
-            "tenminste": "at least"
+            "word": "tenminste",
+            "translation": "at least"
         },
         {
-            "lief": "sweet"
+            "word": "lief",
+            "translation": "sweet"
         },
         {
-            "noem": "call"
+            "word": "noem",
+            "translation": "call"
         },
         {
-            "gedood": "killed"
+            "word": "gedood",
+            "translation": "killed"
         },
         {
-            "vraagt": "requires"
+            "word": "vraagt",
+            "translation": "requires"
         },
         {
-            "boos": "angry"
+            "word": "boos",
+            "translation": "angry"
         },
         {
-            "spullen": "stuff"
+            "word": "spullen",
+            "translation": "stuff"
         },
         {
-            "volgen": "to follow"
+            "word": "volgen",
+            "translation": "to follow"
         },
         {
-            "sturen": "to steer"
+            "word": "sturen",
+            "translation": "to steer"
         },
         {
-            "hemel": "heaven"
+            "word": "hemel",
+            "translation": "heaven"
         },
         {
-            "makkelijk": "comfortable"
+            "word": "makkelijk",
+            "translation": "comfortable"
         },
         {
-            "ter": "ter"
+            "word": "ter",
+            "translation": "ter"
         },
         {
-            "genomen": "taken"
+            "word": "genomen",
+            "translation": "taken"
         },
         {
-            "grootste": "great"
+            "word": "grootste",
+            "translation": "great"
         },
         {
-            "gebeurde": "happened"
+            "word": "gebeurde",
+            "translation": "happened"
         },
         {
-            "kwamen": "arrive"
+            "word": "kwamen",
+            "translation": "arrive"
         },
         {
-            "excuseer": "excuse"
+            "word": "excuseer",
+            "translation": "excuse"
         },
         {
-            "meter": "meter"
+            "word": "meter",
+            "translation": "meter"
         },
         {
-            "weinig": "few"
+            "word": "weinig",
+            "translation": "few"
         },
         {
-            "iedere": "each"
+            "word": "iedere",
+            "translation": "each"
         },
         {
-            "moordenaar": "killer"
+            "word": "moordenaar",
+            "translation": "killer"
         },
         {
-            "luisteren": "listen"
+            "word": "luisteren",
+            "translation": "listen"
         },
         {
-            "begrijpt": "understand"
+            "word": "begrijpt",
+            "translation": "understand"
         },
         {
-            "gevaar": "danger"
+            "word": "gevaar",
+            "translation": "danger"
         },
         {
-            "ieder": "everyone"
+            "word": "ieder",
+            "translation": "everyone"
         },
         {
-            "sommige": "some"
+            "word": "sommige",
+            "translation": "some"
         },
         {
-            "via": "through"
+            "word": "via",
+            "translation": "through"
         },
         {
-            "succes": "good luck"
+            "word": "succes",
+            "translation": "good luck"
         },
         {
-            "vertrekken": "to leave"
+            "word": "vertrekken",
+            "translation": "to leave"
         },
         {
-            "muziek": "music"
+            "word": "muziek",
+            "translation": "music"
         },
         {
-            "gestolen": "stolen"
+            "word": "gestolen",
+            "translation": "stolen"
         },
         {
-            "meest": "most"
+            "word": "meest",
+            "translation": "most"
         },
         {
-            "hoef": "hoof"
+            "word": "hoef",
+            "translation": "hoof"
         },
         {
-            "advocaat": "lawyer"
+            "word": "advocaat",
+            "translation": "lawyer"
         },
         {
-            "kijkt": "looks"
+            "word": "kijkt",
+            "translation": "looks"
         },
         {
-            "helpt": "helps"
+            "word": "helpt",
+            "translation": "helps"
         },
         {
-            "afspraak": "appointment"
+            "word": "afspraak",
+            "translation": "appointment"
         },
         {
-            "maand": "month"
+            "word": "maand",
+            "translation": "month"
         },
         {
-            "zwarte": "black"
+            "word": "zwarte",
+            "translation": "black"
         },
         {
-            "seconden": "second"
+            "word": "seconden",
+            "translation": "second"
         },
         {
-            "sterk": "strong"
+            "word": "sterk",
+            "translation": "strong"
         },
         {
-            "foto's": "photos"
+            "word": "foto's",
+            "translation": "photos"
         },
         {
-            "lijken": "corpses"
+            "word": "lijken",
+            "translation": "corpses"
         },
         {
-            "geest": "spirit"
+            "word": "geest",
+            "translation": "spirit"
         },
         {
-            "gingen": "used to go"
+            "word": "gingen",
+            "translation": "used to go"
         },
         {
-            "straat": "street"
+            "word": "straat",
+            "translation": "street"
         },
         {
-            "slechts": "only"
+            "word": "slechts",
+            "translation": "only"
         },
         {
-            "verkeerde": "wrong"
+            "word": "verkeerde",
+            "translation": "wrong"
         },
         {
-            "slaan": "to beat"
+            "word": "slaan",
+            "translation": "to beat"
         },
         {
-            "FBI": "FBI"
+            "word": "FBI",
+            "translation": "FBI"
         },
         {
-            "afgelopen": "last"
+            "word": "afgelopen",
+            "translation": "last"
         },
         {
-            "hotel": "hotel"
+            "word": "hotel",
+            "translation": "hotel"
         },
         {
-            "bekend": "known"
+            "word": "bekend",
+            "translation": "known"
         },
         {
-            "ene": "one"
+            "word": "ene",
+            "translation": "one"
         },
         {
-            "ruimte": "room"
+            "word": "ruimte",
+            "translation": "room"
         },
         {
-            "lange": "long"
+            "word": "lange",
+            "translation": "long"
         },
         {
-            "trouwens": "Incidentally"
+            "word": "trouwens",
+            "translation": "Incidentally"
         },
         {
-            "feest": "party"
+            "word": "feest",
+            "translation": "party"
         },
         {
-            "vliegen": "to fly"
+            "word": "vliegen",
+            "translation": "to fly"
         },
         {
-            "boot": "boat"
+            "word": "boot",
+            "translation": "boat"
         },
         {
-            "meester": "master"
+            "word": "meester",
+            "translation": "master"
         },
         {
-            "doel": "goal"
+            "word": "doel",
+            "translation": "goal"
         },
         {
-            "zolang": "so long"
+            "word": "zolang",
+            "translation": "so long"
         },
         {
-            "regels": "lines"
+            "word": "regels",
+            "translation": "lines"
         },
         {
-            "stomme": "stupid"
+            "word": "stomme",
+            "translation": "stupid"
         },
         {
-            "begonnen": "started"
+            "word": "begonnen",
+            "translation": "started"
         },
         {
-            "zak": "bag"
+            "word": "zak",
+            "translation": "bag"
         },
         {
-            "absoluut": "absolute"
+            "word": "absoluut",
+            "translation": "absolute"
         },
         {
-            "spreek": "speak"
+            "word": "spreek",
+            "translation": "speak"
         },
         {
-            "stom": "stupid"
+            "word": "stom",
+            "translation": "stupid"
         },
         {
-            "bestaat": "consists"
+            "word": "bestaat",
+            "translation": "consists"
         },
         {
-            "welk": "which"
+            "word": "welk",
+            "translation": "which"
         },
         {
-            "gevaarlijk": "dangerous"
+            "word": "gevaarlijk",
+            "translation": "dangerous"
         },
         {
-            "jawel": "Yes"
+            "word": "jawel",
+            "translation": "Yes"
         },
         {
-            "mocht": "for"
+            "word": "mocht",
+            "translation": "for"
         },
         {
-            "goedemorgen": "Good morning"
+            "word": "goedemorgen",
+            "translation": "Good morning"
         },
         {
-            "wilden": "wild ones"
+            "word": "wilden",
+            "translation": "wild ones"
         },
         {
-            "erger": "worse"
+            "word": "erger",
+            "translation": "worse"
         },
         {
-            "vreselijk": "horrible"
+            "word": "vreselijk",
+            "translation": "horrible"
         },
         {
-            "zodra": "as soon"
+            "word": "zodra",
+            "translation": "as soon"
         },
         {
-            "geraakt": "touched"
+            "word": "geraakt",
+            "translation": "touched"
         },
         {
-            "nadat": "once"
+            "word": "nadat",
+            "translation": "once"
         },
         {
-            "vertrouw": "trust"
+            "word": "vertrouw",
+            "translation": "trust"
         },
         {
-            "kolonel": "colonel"
+            "word": "kolonel",
+            "translation": "colonel"
         },
         {
-            "voelde": "felt"
+            "word": "voelde",
+            "translation": "felt"
         },
         {
-            "kleren": "clothes"
+            "word": "kleren",
+            "translation": "clothes"
         },
         {
-            "rug": "back"
+            "word": "rug",
+            "translation": "back"
         },
         {
-            "naast": "next"
+            "word": "naast",
+            "translation": "next"
         },
         {
-            "totdat": "until"
+            "word": "totdat",
+            "translation": "until"
         },
         {
-            "verliefd": "in love"
+            "word": "verliefd",
+            "translation": "in love"
         },
         {
-            "lukt": "succeeds"
+            "word": "lukt",
+            "translation": "succeeds"
         },
         {
-            "wonen": "live"
+            "word": "wonen",
+            "translation": "live"
         },
         {
-            "lieve": "dear"
+            "word": "lieve",
+            "translation": "dear"
         },
         {
-            "gaten": "holes"
+            "word": "gaten",
+            "translation": "holes"
         },
         {
-            "raar": "weird"
+            "word": "raar",
+            "translation": "weird"
         },
         {
-            "geprobeerd": "tried"
+            "word": "geprobeerd",
+            "translation": "tried"
         },
         {
-            "geleerd": "learned"
+            "word": "geleerd",
+            "translation": "learned"
         },
         {
-            "erover": "over"
+            "word": "erover",
+            "translation": "over"
         },
         {
-            "raad": "council"
+            "word": "raad",
+            "translation": "council"
         },
         {
-            "volg": "follow"
+            "word": "volg",
+            "translation": "follow"
         },
         {
-            "verkopen": "to sell"
+            "word": "verkopen",
+            "translation": "to sell"
         },
         {
-            "geweldige": "great"
+            "word": "geweldige",
+            "translation": "great"
         },
         {
-            "zover": "as far"
+            "word": "zover",
+            "translation": "as far"
         },
         {
-            "red": "red"
+            "word": "red",
+            "translation": "red"
         },
         {
-            "woont": "lives"
+            "word": "woont",
+            "translation": "lives"
         },
         {
-            "Amerika": "America"
+            "word": "Amerika",
+            "translation": "America"
         },
         {
-            "lul": "dick"
+            "word": "lul",
+            "translation": "dick"
         },
         {
-            "gedacht": "thought"
+            "word": "gedacht",
+            "translation": "thought"
         },
         {
-            "bewijzen": "prove"
+            "word": "bewijzen",
+            "translation": "prove"
         },
         {
-            "prijs": "price"
+            "word": "prijs",
+            "translation": "price"
         },
         {
-            "www": "www"
+            "word": "www",
+            "translation": "www"
         },
         {
-            "raken": "touch"
+            "word": "raken",
+            "translation": "touch"
         },
         {
-            "voorstellen": "to suggest"
+            "word": "voorstellen",
+            "translation": "to suggest"
         },
         {
-            "vorige": "previous"
+            "word": "vorige",
+            "translation": "previous"
         },
         {
-            "regel": "rule"
+            "word": "regel",
+            "translation": "rule"
         },
         {
-            "schrijven": "to write"
+            "word": "schrijven",
+            "translation": "to write"
         },
         {
-            "rot": "rotten"
+            "word": "rot",
+            "translation": "rotten"
         },
         {
-            "gebouw": "building"
+            "word": "gebouw",
+            "translation": "building"
         },
         {
-            "trekken": "Pull"
+            "word": "trekken",
+            "translation": "Pull"
         },
         {
-            "herinneren": "to remind"
+            "word": "herinneren",
+            "translation": "to remind"
         },
         {
-            "dansen": "dancing"
+            "word": "dansen",
+            "translation": "dancing"
         },
         {
-            "gebracht": "brought"
+            "word": "gebracht",
+            "translation": "brought"
         },
         {
-            "meeste": "most of them"
+            "word": "meeste",
+            "translation": "most of them"
         },
         {
-            "koud": "cold"
+            "word": "koud",
+            "translation": "cold"
         },
         {
-            "jammer": "Shame"
+            "word": "jammer",
+            "translation": "Shame"
         },
         {
-            "wegwezen": "get out"
+            "word": "wegwezen",
+            "translation": "get out"
         },
         {
-            "macht": "power"
+            "word": "macht",
+            "translation": "power"
         },
         {
-            "drugs": "drug"
+            "word": "drugs",
+            "translation": "drug"
         },
         {
-            "geboren": "born"
+            "word": "geboren",
+            "translation": "born"
         },
         {
-            "dragen": "wear"
+            "word": "dragen",
+            "translation": "wear"
         },
         {
-            "keuze": "choice"
+            "word": "keuze",
+            "translation": "choice"
         },
         {
-            "gefeliciteerd": "congratulations"
+            "word": "gefeliciteerd",
+            "translation": "congratulations"
         },
         {
-            "situatie": "situation"
+            "word": "situatie",
+            "translation": "situation"
         },
         {
-            "missen": "to miss"
+            "word": "missen",
+            "translation": "to miss"
         },
         {
-            "honger": "hungry"
+            "word": "honger",
+            "translation": "hungry"
         },
         {
-            "betaald": "paid"
+            "word": "betaald",
+            "translation": "paid"
         },
         {
-            "liefje": "Darling"
+            "word": "liefje",
+            "translation": "Darling"
         },
         {
-            "duurt": "takes"
+            "word": "duurt",
+            "translation": "takes"
         },
         {
-            "schelen": "care"
+            "word": "schelen",
+            "translation": "care"
         },
         {
-            "kaart": "card"
+            "word": "kaart",
+            "translation": "card"
         },
         {
-            "rij": "queue"
+            "word": "rij",
+            "translation": "queue"
         },
         {
-            "bal": "ball"
+            "word": "bal",
+            "translation": "ball"
         },
         {
-            "werkte": "worked"
+            "word": "werkte",
+            "translation": "worked"
         },
         {
-            "gedachten": "thoughts"
+            "word": "gedachten",
+            "translation": "thoughts"
         },
         {
-            "derde": "third"
+            "word": "derde",
+            "translation": "third"
         },
         {
-            "rennen": "run"
+            "word": "rennen",
+            "translation": "run"
         },
         {
-            "namen": "take"
+            "word": "namen",
+            "translation": "take"
         },
         {
-            "teken": "sign"
+            "word": "teken",
+            "translation": "sign"
         },
         {
-            "speelt": "plays"
+            "word": "speelt",
+            "translation": "plays"
         },
         {
-            "stem": "voice"
+            "word": "stem",
+            "translation": "voice"
         },
         {
-            "bedrijf": "company"
+            "word": "bedrijf",
+            "translation": "company"
         },
         {
-            "moe": "tired"
+            "word": "moe",
+            "translation": "tired"
         },
         {
-            "tenzij": "unless"
+            "word": "tenzij",
+            "translation": "unless"
         },
         {
-            "dom": "stupid"
+            "word": "dom",
+            "translation": "stupid"
         },
         {
-            "vlucht": "flight"
+            "word": "vlucht",
+            "translation": "flight"
         },
         {
-            "raak": "striking"
+            "word": "raak",
+            "translation": "striking"
         },
         {
-            "relatie": "relation"
+            "word": "relatie",
+            "translation": "relation"
         },
         {
-            "lachen": "laugh"
+            "word": "lachen",
+            "translation": "laugh"
         },
         {
-            "leuke": "nice"
+            "word": "leuke",
+            "translation": "nice"
         },
         {
-            "schuldig": "guilty"
+            "word": "schuldig",
+            "translation": "guilty"
         },
         {
-            "negen": "nine"
+            "word": "negen",
+            "translation": "nine"
         },
         {
-            "tafel": "table"
+            "word": "tafel",
+            "translation": "table"
         },
         {
-            "sneller": "faster"
+            "word": "sneller",
+            "translation": "faster"
         },
         {
-            "James": "James"
+            "word": "James",
+            "translation": "James"
         },
         {
-            "jong": "young"
+            "word": "jong",
+            "translation": "young"
         },
         {
-            "vanwege": "because of"
+            "word": "vanwege",
+            "translation": "because of"
         },
         {
-            "beide": "both"
+            "word": "beide",
+            "translation": "both"
         },
         {
-            "viel": "fell"
+            "word": "viel",
+            "translation": "fell"
         },
         {
-            "oog": "eye"
+            "word": "oog",
+            "translation": "eye"
         },
         {
-            "leek": "seemed"
+            "word": "leek",
+            "translation": "seemed"
         },
         {
-            "gestuurd": "steered"
+            "word": "gestuurd",
+            "translation": "steered"
         },
         {
-            "lijn": "line"
+            "word": "lijn",
+            "translation": "line"
         },
         {
-            "grapje": "just kidding"
+            "word": "grapje",
+            "translation": "just kidding"
         },
         {
-            "komaan": "come on"
+            "word": "komaan",
+            "translation": "come on"
         },
         {
-            "moesten": "had to"
+            "word": "moesten",
+            "translation": "had to"
         },
         {
-            "daarvoor": "before that"
+            "word": "daarvoor",
+            "translation": "before that"
         },
         {
-            "onderweg": "en route"
+            "word": "onderweg",
+            "translation": "en route"
         },
         {
-            "lijst": "list"
+            "word": "lijst",
+            "translation": "list"
         },
         {
-            "vanuit": "from"
+            "word": "vanuit",
+            "translation": "from"
         },
         {
-            "band": "band"
+            "word": "band",
+            "translation": "band"
         },
         {
-            "gelooft": "believes"
+            "word": "gelooft",
+            "translation": "believes"
         },
         {
-            "gemist": "missed"
+            "word": "gemist",
+            "translation": "missed"
         },
         {
-            "sleutel": "key"
+            "word": "sleutel",
+            "translation": "key"
         },
         {
-            "lag": "lag"
+            "word": "lag",
+            "translation": "lag"
         },
         {
-            "kont": "ass"
+            "word": "kont",
+            "translation": "ass"
         },
         {
-            "reis": "trip"
+            "word": "reis",
+            "translation": "trip"
         },
         {
-            "arm": "arm"
+            "word": "arm",
+            "translation": "arm"
         },
         {
-            "show": "show"
+            "word": "show",
+            "translation": "show"
         },
         {
-            "vertelt": "tells"
+            "word": "vertelt",
+            "translation": "tells"
         },
         {
-            "groep": "group"
+            "word": "groep",
+            "translation": "group"
         },
         {
-            "belde": "call"
+            "word": "belde",
+            "translation": "call"
         },
         {
-            "zweer": "swear"
+            "word": "zweer",
+            "translation": "swear"
         },
         {
-            "agenten": "agents"
+            "word": "agenten",
+            "translation": "agents"
         },
         {
-            "eer": "honor"
+            "word": "eer",
+            "translation": "honor"
         },
         {
-            "onmogelijk": "impossible"
+            "word": "onmogelijk",
+            "translation": "impossible"
         },
         {
-            "steek": "lurch"
+            "word": "steek",
+            "translation": "lurch"
         },
         {
-            "hel": "hell"
+            "word": "hel",
+            "translation": "hell"
         },
         {
-            "zwaar": "heavy"
+            "word": "zwaar",
+            "translation": "heavy"
         },
         {
-            "tuurlijk": "sure"
+            "word": "tuurlijk",
+            "translation": "sure"
         },
         {
-            "bevel": "order"
+            "word": "bevel",
+            "translation": "order"
         },
         {
-            "jonge": "young"
+            "word": "jonge",
+            "translation": "young"
         },
         {
-            "kerk": "church"
+            "word": "kerk",
+            "translation": "church"
         },
         {
-            "huwelijk": "wedding"
+            "word": "huwelijk",
+            "translation": "wedding"
         },
         {
-            "delen": "to share"
+            "word": "delen",
+            "translation": "to share"
         },
         {
-            "sla": "salad"
+            "word": "sla",
+            "translation": "salad"
         },
         {
-            "Amerikaanse": "American"
+            "word": "Amerikaanse",
+            "translation": "American"
         },
         {
-            "wedstrijd": "contest"
+            "word": "wedstrijd",
+            "translation": "contest"
         },
         {
-            "maat": "mate"
+            "word": "maat",
+            "translation": "mate"
         },
         {
-            "allen": "all"
+            "word": "allen",
+            "translation": "all"
         },
         {
-            "gebroken": "broken"
+            "word": "gebroken",
+            "translation": "broken"
         },
         {
-            "dromen": "to dream"
+            "word": "dromen",
+            "translation": "to dream"
         },
         {
-            "direct": "straight away"
+            "word": "direct",
+            "translation": "straight away"
         },
         {
-            "luitenant": "lieutenant"
+            "word": "luitenant",
+            "translation": "lieutenant"
         },
         {
-            "planeet": "planet"
+            "word": "planeet",
+            "translation": "planet"
         },
         {
-            "vooral": "mainly"
+            "word": "vooral",
+            "translation": "mainly"
         },
         {
-            "missie": "mission"
+            "word": "missie",
+            "translation": "mission"
         },
         {
-            "midden": "middle"
+            "word": "midden",
+            "translation": "middle"
         },
         {
-            "gezin": "family"
+            "word": "gezin",
+            "translation": "family"
         },
         {
-            "gisteravond": "yesterday evening"
+            "word": "gisteravond",
+            "translation": "yesterday evening"
         },
         {
-            "leiden": "to lead"
+            "word": "leiden",
+            "translation": "to lead"
         },
         {
-            "dame": "Lady"
+            "word": "dame",
+            "translation": "Lady"
         },
         {
-            "bericht": "message"
+            "word": "bericht",
+            "translation": "message"
         },
         {
-            "angst": "fear"
+            "word": "angst",
+            "translation": "fear"
         },
         {
-            "stierf": "died"
+            "word": "stierf",
+            "translation": "died"
         },
         {
-            "wagen": "car"
+            "word": "wagen",
+            "translation": "car"
         },
         {
-            "blijkbaar": "evidently"
+            "word": "blijkbaar",
+            "translation": "evidently"
         },
         {
-            "kapot": "Broken"
+            "word": "kapot",
+            "translation": "Broken"
         },
         {
-            "zoekt": "searches"
+            "word": "zoekt",
+            "translation": "searches"
         },
         {
-            "ziel": "soul"
+            "word": "ziel",
+            "translation": "soul"
         },
         {
-            "positie": "position"
+            "word": "positie",
+            "translation": "position"
         },
         {
-            "waarvoor": "for which"
+            "word": "waarvoor",
+            "translation": "for which"
         },
         {
-            "respect": "respect"
+            "word": "respect",
+            "translation": "respect"
         },
         {
-            "wet": "law"
+            "word": "wet",
+            "translation": "law"
         },
         {
-            "gesprek": "conversation"
+            "word": "gesprek",
+            "translation": "conversation"
         },
         {
-            "verleden": "past"
+            "word": "verleden",
+            "translation": "past"
         },
         {
-            "kost": "cost"
+            "word": "kost",
+            "translation": "cost"
         },
         {
-            "links": "left"
+            "word": "links",
+            "translation": "left"
         },
         {
-            "witte": "white"
+            "word": "witte",
+            "translation": "white"
         },
         {
-            "ring": "ring"
+            "word": "ring",
+            "translation": "ring"
         },
         {
-            "da's": "that's"
+            "word": "da's",
+            "translation": "that's"
         },
         {
-            "regelen": "to arrange"
+            "word": "regelen",
+            "translation": "to arrange"
         },
         {
-            "computer": "computer"
+            "word": "computer",
+            "translation": "computer"
         }
     ]
 }

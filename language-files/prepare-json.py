@@ -3,8 +3,8 @@ import csv
 
 language = 'dutch'
 from_filename = "Dutch.csv"
-cleaned_filename = f'{language}-english.csv'
-final_filename = f'{language}-english.json'
+cleaned_filename = f'./language-files/{language}-english.csv'
+final_filename = f'./language-files/{language}-english.json'
 
 def prepare_file():
     words_str = ''
@@ -20,7 +20,8 @@ def prepare_dict():
     with open(cleaned_filename, encoding='utf-8', newline='') as data_file:
         for i, word in enumerate(data_file):
             word = word.split(',')
-            new_dict[language].append({word[0].strip():word[1].strip()})
+            new_dict[language].append({"word":word[0].strip(),
+                                       "translation":word[1].strip()})
     with open(final_filename, "w", encoding='utf-8') as data_file:
         json.dump(new_dict, data_file, indent=4, ensure_ascii=False)
         data_file.close()

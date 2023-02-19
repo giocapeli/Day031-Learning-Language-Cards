@@ -1,3004 +1,4004 @@
 {
     "italian": [
         {
-            "non": "Not"
+            "word": "non",
+            "translation": "Not"
         },
         {
-            "di": "Of"
+            "word": "di",
+            "translation": "Of"
         },
         {
-            "che": "That"
+            "word": "che",
+            "translation": "That"
         },
         {
-            "è": "And"
+            "word": "è",
+            "translation": "And"
         },
         {
-            "e": "And"
+            "word": "e",
+            "translation": "And"
         },
         {
-            "la": "there"
+            "word": "la",
+            "translation": "there"
         },
         {
-            "il": "The"
+            "word": "il",
+            "translation": "The"
         },
         {
-            "un": "a"
+            "word": "un",
+            "translation": "a"
         },
         {
-            "a": "to"
+            "word": "a",
+            "translation": "to"
         },
         {
-            "per": "For"
+            "word": "per",
+            "translation": "For"
         },
         {
-            "in": "in"
+            "word": "in",
+            "translation": "in"
         },
         {
-            "una": "a"
+            "word": "una",
+            "translation": "a"
         },
         {
-            "mi": "me"
+            "word": "mi",
+            "translation": "me"
         },
         {
-            "sono": "I am"
+            "word": "sono",
+            "translation": "I am"
         },
         {
-            "ho": "I have"
+            "word": "ho",
+            "translation": "I have"
         },
         {
-            "ma": "but"
+            "word": "ma",
+            "translation": "but"
         },
         {
-            "l'": "L'"
+            "word": "l'",
+            "translation": "L'"
         },
         {
-            "lo": "the"
+            "word": "lo",
+            "translation": "the"
         },
         {
-            "ha": "has"
+            "word": "ha",
+            "translation": "has"
         },
         {
-            "le": "the"
+            "word": "le",
+            "translation": "the"
         },
         {
-            "si": "Yes"
+            "word": "si",
+            "translation": "Yes"
         },
         {
-            "ti": "you"
+            "word": "ti",
+            "translation": "you"
         },
         {
-            "i": "the"
+            "word": "i",
+            "translation": "the"
         },
         {
-            "con": "with"
+            "word": "con",
+            "translation": "with"
         },
         {
-            "cosa": "What"
+            "word": "cosa",
+            "translation": "What"
         },
         {
-            "se": "self"
+            "word": "se",
+            "translation": "self"
         },
         {
-            "io": "I"
+            "word": "io",
+            "translation": "I"
         },
         {
-            "come": "as"
+            "word": "come",
+            "translation": "as"
         },
         {
-            "da": "from"
+            "word": "da",
+            "translation": "from"
         },
         {
-            "ci": "There"
+            "word": "ci",
+            "translation": "There"
         },
         {
-            "no": "no"
+            "word": "no",
+            "translation": "no"
         },
         {
-            "questo": "This"
+            "word": "questo",
+            "translation": "This"
         },
         {
-            "qui": "here"
+            "word": "qui",
+            "translation": "here"
         },
         {
-            "e'": "And'"
+            "word": "e'",
+            "translation": "And'"
         },
         {
-            "hai": "you have"
+            "word": "hai",
+            "translation": "you have"
         },
         {
-            "sei": "six"
+            "word": "sei",
+            "translation": "six"
         },
         {
-            "del": "of the"
+            "word": "del",
+            "translation": "of the"
         },
         {
-            "bene": "Well"
+            "word": "bene",
+            "translation": "Well"
         },
         {
-            "tu": "you"
+            "word": "tu",
+            "translation": "you"
         },
         {
-            "sì": "Yes"
+            "word": "sì",
+            "translation": "Yes"
         },
         {
-            "me": "myself"
+            "word": "me",
+            "translation": "myself"
         },
         {
-            "più": "more"
+            "word": "più",
+            "translation": "more"
         },
         {
-            "al": "to the"
+            "word": "al",
+            "translation": "to the"
         },
         {
-            "mio": "my"
+            "word": "mio",
+            "translation": "my"
         },
         {
-            "c'": "there"
+            "word": "c'",
+            "translation": "there"
         },
         {
-            "perché": "Why"
+            "word": "perché",
+            "translation": "Why"
         },
         {
-            "lei": "she"
+            "word": "lei",
+            "translation": "she"
         },
         {
-            "solo": "Alone"
+            "word": "solo",
+            "translation": "Alone"
         },
         {
-            "te": "you"
+            "word": "te",
+            "translation": "you"
         },
         {
-            "era": "era"
+            "word": "era",
+            "translation": "era"
         },
         {
-            "gli": "The"
+            "word": "gli",
+            "translation": "The"
         },
         {
-            "tutto": "All"
+            "word": "tutto",
+            "translation": "All"
         },
         {
-            "della": "from the"
+            "word": "della",
+            "translation": "from the"
         },
         {
-            "così": "Like this"
+            "word": "così",
+            "translation": "Like this"
         },
         {
-            "mia": "my"
+            "word": "mia",
+            "translation": "my"
         },
         {
-            "ne": "neither"
+            "word": "ne",
+            "translation": "neither"
         },
         {
-            "questa": "this"
+            "word": "questa",
+            "translation": "this"
         },
         {
-            "fare": "Do"
+            "word": "fare",
+            "translation": "Do"
         },
         {
-            "quando": "when"
+            "word": "quando",
+            "translation": "when"
         },
         {
-            "ora": "Now"
+            "word": "ora",
+            "translation": "Now"
         },
         {
-            "fatto": "Done"
+            "word": "fatto",
+            "translation": "Done"
         },
         {
-            "essere": "to be"
+            "word": "essere",
+            "translation": "to be"
         },
         {
-            "so": "I know"
+            "word": "so",
+            "translation": "I know"
         },
         {
-            "mai": "never"
+            "word": "mai",
+            "translation": "never"
         },
         {
-            "chi": "who"
+            "word": "chi",
+            "translation": "who"
         },
         {
-            "o": "or"
+            "word": "o",
+            "translation": "or"
         },
         {
-            "alla": "at the"
+            "word": "alla",
+            "translation": "at the"
         },
         {
-            "tutti": "everyone"
+            "word": "tutti",
+            "translation": "everyone"
         },
         {
-            "molto": "Very"
+            "word": "molto",
+            "translation": "Very"
         },
         {
-            "dei": "of the"
+            "word": "dei",
+            "translation": "of the"
         },
         {
-            "anche": "Also"
+            "word": "anche",
+            "translation": "Also"
         },
         {
-            "detto": "said"
+            "word": "detto",
+            "translation": "said"
         },
         {
-            "quello": "that"
+            "word": "quello",
+            "translation": "that"
         },
         {
-            "va": "it goes"
+            "word": "va",
+            "translation": "it goes"
         },
         {
-            "niente": "Nothing"
+            "word": "niente",
+            "translation": "Nothing"
         },
         {
-            "grazie": "Thank you"
+            "word": "grazie",
+            "translation": "Thank you"
         },
         {
-            "lui": "he"
+            "word": "lui",
+            "translation": "he"
         },
         {
-            "voglio": "I want"
+            "word": "voglio",
+            "translation": "I want"
         },
         {
-            "abbiamo": "we have"
+            "word": "abbiamo",
+            "translation": "we have"
         },
         {
-            "stato": "state"
+            "word": "stato",
+            "translation": "state"
         },
         {
-            "nel": "In the"
+            "word": "nel",
+            "translation": "In the"
         },
         {
-            "suo": "his"
+            "word": "suo",
+            "translation": "his"
         },
         {
-            "dove": "Where"
+            "word": "dove",
+            "translation": "Where"
         },
         {
-            "posso": "I can"
+            "word": "posso",
+            "translation": "I can"
         },
         {
-            "oh": "Oh"
+            "word": "oh",
+            "translation": "Oh"
         },
         {
-            "prima": "Before"
+            "word": "prima",
+            "translation": "Before"
         },
         {
-            "allora": "At that time"
+            "word": "allora",
+            "translation": "At that time"
         },
         {
-            "siamo": "we are"
+            "word": "siamo",
+            "translation": "we are"
         },
         {
-            "d'": "d '"
+            "word": "d'",
+            "translation": "d '"
         },
         {
-            "uno": "one"
+            "word": "uno",
+            "translation": "one"
         },
         {
-            "un'": "a"
+            "word": "un'",
+            "translation": "a"
         },
         {
-            "sua": "her"
+            "word": "sua",
+            "translation": "her"
         },
         {
-            "tuo": "your"
+            "word": "tuo",
+            "translation": "your"
         },
         {
-            "hanno": "they have"
+            "word": "hanno",
+            "translation": "they have"
         },
         {
-            "noi": "we"
+            "word": "noi",
+            "translation": "we"
         },
         {
-            "sta": "is"
+            "word": "sta",
+            "translation": "is"
         },
         {
-            "fa": "does"
+            "word": "fa",
+            "translation": "does"
         },
         {
-            "due": "two"
+            "word": "due",
+            "translation": "two"
         },
         {
-            "vuoi": "you want"
+            "word": "vuoi",
+            "translation": "you want"
         },
         {
-            "ancora": "Still"
+            "word": "ancora",
+            "translation": "Still"
         },
         {
-            "qualcosa": "something"
+            "word": "qualcosa",
+            "translation": "something"
         },
         {
-            "vero": "True"
+            "word": "vero",
+            "translation": "True"
         },
         {
-            "casa": "home"
+            "word": "casa",
+            "translation": "home"
         },
         {
-            "sia": "is"
+            "word": "sia",
+            "translation": "is"
         },
         {
-            "su": "on"
+            "word": "su",
+            "translation": "on"
         },
         {
-            "tua": "your"
+            "word": "tua",
+            "translation": "your"
         },
         {
-            "sempre": "Always"
+            "word": "sempre",
+            "translation": "Always"
         },
         {
-            "forse": "Perhaps"
+            "word": "forse",
+            "translation": "Perhaps"
         },
         {
-            "dire": "to say"
+            "word": "dire",
+            "translation": "to say"
         },
         {
-            "vi": "you"
+            "word": "vi",
+            "translation": "you"
         },
         {
-            "loro": "They"
+            "word": "loro",
+            "translation": "They"
         },
         {
-            "i'": "the'"
+            "word": "i'",
+            "translation": "the'"
         },
         {
-            "altro": "other"
+            "word": "altro",
+            "translation": "other"
         },
         {
-            "sai": "you know"
+            "word": "sai",
+            "translation": "you know"
         },
         {
-            "stai": "you are"
+            "word": "stai",
+            "translation": "you are"
         },
         {
-            "devo": "I have to"
+            "word": "devo",
+            "translation": "I have to"
         },
         {
-            "quella": "that"
+            "word": "quella",
+            "translation": "that"
         },
         {
-            "vita": "life"
+            "word": "vita",
+            "translation": "life"
         },
         {
-            "quel": "that"
+            "word": "quel",
+            "translation": "that"
         },
         {
-            "delle": "from the"
+            "word": "delle",
+            "translation": "from the"
         },
         {
-            "tempo": "time"
+            "word": "tempo",
+            "translation": "time"
         },
         {
-            "andare": "go"
+            "word": "andare",
+            "translation": "go"
         },
         {
-            "certo": "Certain"
+            "word": "certo",
+            "translation": "Certain"
         },
         {
-            "poi": "Then"
+            "word": "poi",
+            "translation": "Then"
         },
         {
-            "nella": "in the"
+            "word": "nella",
+            "translation": "in the"
         },
         {
-            "uomo": "man"
+            "word": "uomo",
+            "translation": "man"
         },
         {
-            "signore": "Gentleman"
+            "word": "signore",
+            "translation": "Gentleman"
         },
         {
-            "ad": "to"
+            "word": "ad",
+            "translation": "to"
         },
         {
-            "po'": "bit'"
+            "word": "po'",
+            "translation": "bit'"
         },
         {
-            "può": "can"
+            "word": "può",
+            "translation": "can"
         },
         {
-            "credo": "I believe"
+            "word": "credo",
+            "translation": "I believe"
         },
         {
-            "voi": "you"
+            "word": "voi",
+            "translation": "you"
         },
         {
-            "già": "Already"
+            "word": "già",
+            "translation": "Already"
         },
         {
-            "adesso": "Now"
+            "word": "adesso",
+            "translation": "Now"
         },
         {
-            "andiamo": "let's go"
+            "word": "andiamo",
+            "translation": "let's go"
         },
         {
-            "anni": "years"
+            "word": "anni",
+            "translation": "years"
         },
         {
-            "all'": "at"
+            "word": "all'",
+            "translation": "at"
         },
         {
-            "visto": "view"
+            "word": "visto",
+            "translation": "view"
         },
         {
-            "fuori": "out"
+            "word": "fuori",
+            "translation": "out"
         },
         {
-            "proprio": "own"
+            "word": "proprio",
+            "translation": "own"
         },
         {
-            "parte": "part"
+            "word": "parte",
+            "translation": "part"
         },
         {
-            "davvero": "Really"
+            "word": "davvero",
+            "translation": "Really"
         },
         {
-            "vuole": "wants"
+            "word": "vuole",
+            "translation": "wants"
         },
         {
-            "li": "there"
+            "word": "li",
+            "translation": "there"
         },
         {
-            "dell'": "of"
+            "word": "dell'",
+            "translation": "of"
         },
         {
-            "sto": "this"
+            "word": "sto",
+            "translation": "this"
         },
         {
-            "quanto": "How much"
+            "word": "quanto",
+            "translation": "How much"
         },
         {
-            "volta": "time"
+            "word": "volta",
+            "translation": "time"
         },
         {
-            "via": "Street"
+            "word": "via",
+            "translation": "Street"
         },
         {
-            "sul": "on the"
+            "word": "sul",
+            "translation": "on the"
         },
         {
-            "é": "And"
+            "word": "é",
+            "translation": "And"
         },
         {
-            "dio": "God"
+            "word": "dio",
+            "translation": "God"
         },
         {
-            "sarà": "will be"
+            "word": "sarà",
+            "translation": "will be"
         },
         {
-            "dopo": "After"
+            "word": "dopo",
+            "translation": "After"
         },
         {
-            "senza": "without"
+            "word": "senza",
+            "translation": "without"
         },
         {
-            "cose": "things"
+            "word": "cose",
+            "translation": "things"
         },
         {
-            "nessuno": "Nobody"
+            "word": "nessuno",
+            "translation": "Nobody"
         },
         {
-            "fai": "you do"
+            "word": "fai",
+            "translation": "you do"
         },
         {
-            "giorno": "day"
+            "word": "giorno",
+            "translation": "day"
         },
         {
-            "ed": "and"
+            "word": "ed",
+            "translation": "and"
         },
         {
-            "meglio": "Better"
+            "word": "meglio",
+            "translation": "Better"
         },
         {
-            "padre": "father"
+            "word": "padre",
+            "translation": "father"
         },
         {
-            "puoi": "you can"
+            "word": "puoi",
+            "translation": "you can"
         },
         {
-            "ciao": "HI"
+            "word": "ciao",
+            "translation": "HI"
         },
         {
-            "cos'": "so"
+            "word": "cos'",
+            "translation": "so"
         },
         {
-            "devi": "you have to"
+            "word": "devi",
+            "translation": "you have to"
         },
         {
-            "ecco": "Here you are"
+            "word": "ecco",
+            "translation": "Here you are"
         },
         {
-            "qualcuno": "someone"
+            "word": "qualcuno",
+            "translation": "someone"
         },
         {
-            "dal": "from the"
+            "word": "dal",
+            "translation": "from the"
         },
         {
-            "lavoro": "Work"
+            "word": "lavoro",
+            "translation": "Work"
         },
         {
-            "sa": "know"
+            "word": "sa",
+            "translation": "know"
         },
         {
-            "ai": "to the"
+            "word": "ai",
+            "translation": "to the"
         },
         {
-            "vedere": "see"
+            "word": "vedere",
+            "translation": "see"
         },
         {
-            "ogni": "Everything is fine"
+            "word": "ogni",
+            "translation": "Everything is fine"
         },
         {
-            "ii": "II"
+            "word": "ii",
+            "translation": "II"
         },
         {
-            "troppo": "too"
+            "word": "troppo",
+            "translation": "too"
         },
         {
-            "posto": "place"
+            "word": "posto",
+            "translation": "place"
         },
         {
-            "cui": "which"
+            "word": "cui",
+            "translation": "which"
         },
         {
-            "tanto": "much"
+            "word": "tanto",
+            "translation": "much"
         },
         {
-            "male": "bad"
+            "word": "male",
+            "translation": "bad"
         },
         {
-            "dai": "come on"
+            "word": "dai",
+            "translation": "come on"
         },
         {
-            "ce": "there is"
+            "word": "ce",
+            "translation": "there is"
         },
         {
-            "bisogno": "need"
+            "word": "bisogno",
+            "translation": "need"
         },
         {
-            "signor": "Mr"
+            "word": "signor",
+            "translation": "Mr"
         },
         {
-            "beh": "Well"
+            "word": "beh",
+            "translation": "Well"
         },
         {
-            "perchè": "Why"
+            "word": "perchè",
+            "translation": "Why"
         },
         {
-            "vieni": "You come"
+            "word": "vieni",
+            "translation": "You come"
         },
         {
-            "alle": "to"
+            "word": "alle",
+            "translation": "to"
         },
         {
-            "dalla": "from the"
+            "word": "dalla",
+            "translation": "from the"
         },
         {
-            "stata": "was"
+            "word": "stata",
+            "translation": "was"
         },
         {
-            "tra": "Between"
+            "word": "tra",
+            "translation": "Between"
         },
         {
-            "vai": "Go"
+            "word": "vai",
+            "translation": "Go"
         },
         {
-            "ehi": "Hey"
+            "word": "ehi",
+            "translation": "Hey"
         },
         {
-            "miei": "my"
+            "word": "miei",
+            "translation": "my"
         },
         {
-            "amico": "Friend"
+            "word": "amico",
+            "translation": "Friend"
         },
         {
-            "dice": "He says"
+            "word": "dice",
+            "translation": "He says"
         },
         {
-            "sarebbe": "would be"
+            "word": "sarebbe",
+            "translation": "would be"
         },
         {
-            "avete": "you have"
+            "word": "avete",
+            "translation": "you have"
         },
         {
-            "altra": "other"
+            "word": "altra",
+            "translation": "other"
         },
         {
-            "deve": "needs to"
+            "word": "deve",
+            "translation": "needs to"
         },
         {
-            "sulla": "on the"
+            "word": "sulla",
+            "translation": "on the"
         },
         {
-            "qualche": "some"
+            "word": "qualche",
+            "translation": "some"
         },
         {
-            "sembra": "it seems"
+            "word": "sembra",
+            "translation": "it seems"
         },
         {
-            "gente": "people"
+            "word": "gente",
+            "translation": "people"
         },
         {
-            "dobbiamo": "we have to"
+            "word": "dobbiamo",
+            "translation": "we have to"
         },
         {
-            "modo": "way"
+            "word": "modo",
+            "translation": "way"
         },
         {
-            "tre": "Three"
+            "word": "tre",
+            "translation": "Three"
         },
         {
-            "momento": "moment"
+            "word": "momento",
+            "translation": "moment"
         },
         {
-            "prego": "Please"
+            "word": "prego",
+            "translation": "Please"
         },
         {
-            "parlare": "speak"
+            "word": "parlare",
+            "translation": "speak"
         },
         {
-            "mamma": "mom"
+            "word": "mamma",
+            "translation": "mom"
         },
         {
-            "guarda": "Look"
+            "word": "guarda",
+            "translation": "Look"
         },
         {
-            "signora": "Lady"
+            "word": "signora",
+            "translation": "Lady"
         },
         {
-            "grande": "great"
+            "word": "grande",
+            "translation": "great"
         },
         {
-            "lì": "there"
+            "word": "lì",
+            "translation": "there"
         },
         {
-            "madre": "mother"
+            "word": "madre",
+            "translation": "mother"
         },
         {
-            "possiamo": "we can"
+            "word": "possiamo",
+            "translation": "we can"
         },
         {
-            "avanti": "after you"
+            "word": "avanti",
+            "translation": "after you"
         },
         {
-            "avere": "have"
+            "word": "avere",
+            "translation": "have"
         },
         {
-            "successo": "success"
+            "word": "successo",
+            "translation": "success"
         },
         {
-            "ero": "I was"
+            "word": "ero",
+            "translation": "I was"
         },
         {
-            "donna": "woman"
+            "word": "donna",
+            "translation": "woman"
         },
         {
-            "nuovo": "new"
+            "word": "nuovo",
+            "translation": "new"
         },
         {
-            "ah": "Ah"
+            "word": "ah",
+            "translation": "Ah"
         },
         {
-            "faccio": "I do"
+            "word": "faccio",
+            "translation": "I do"
         },
         {
-            "aveva": "I had"
+            "word": "aveva",
+            "translation": "I had"
         },
         {
-            "nostro": "our"
+            "word": "nostro",
+            "translation": "our"
         },
         {
-            "degli": "of the"
+            "word": "degli",
+            "translation": "of the"
         },
         {
-            "questi": "these"
+            "word": "questi",
+            "translation": "these"
         },
         {
-            "siete": "you are"
+            "word": "siete",
+            "translation": "you are"
         },
         {
-            "forza": "Force"
+            "word": "forza",
+            "translation": "Force"
         },
         {
-            "piace": "pleases"
+            "word": "piace",
+            "translation": "pleases"
         },
         {
-            "bella": "Pretty"
+            "word": "bella",
+            "translation": "Pretty"
         },
         {
-            "dov'": "where to"
+            "word": "dov'",
+            "translation": "where to"
         },
         {
-            "soldi": "money"
+            "word": "soldi",
+            "translation": "money"
         },
         {
-            "avevo": "I had"
+            "word": "avevo",
+            "translation": "I had"
         },
         {
-            "favore": "favor"
+            "word": "favore",
+            "translation": "favor"
         },
         {
-            "fosse": "is"
+            "word": "fosse",
+            "translation": "is"
         },
         {
-            "altri": "others"
+            "word": "altri",
+            "translation": "others"
         },
         {
-            "dispiace": "sorry"
+            "word": "dispiace",
+            "translation": "sorry"
         },
         {
-            "subito": "right away"
+            "word": "subito",
+            "translation": "right away"
         },
         {
-            "dentro": "inside"
+            "word": "dentro",
+            "translation": "inside"
         },
         {
-            "oggi": "Today"
+            "word": "oggi",
+            "translation": "Today"
         },
         {
-            "accordo": "agreement"
+            "word": "accordo",
+            "translation": "agreement"
         },
         {
-            "tutta": "all"
+            "word": "tutta",
+            "translation": "all"
         },
         {
-            "faccia": "face"
+            "word": "faccia",
+            "translation": "face"
         },
         {
-            "nome": "first name"
+            "word": "nome",
+            "translation": "first name"
         },
         {
-            "ok": "ok"
+            "word": "ok",
+            "translation": "ok"
         },
         {
-            "notte": "Night"
+            "word": "notte",
+            "translation": "Night"
         },
         {
-            "queste": "these"
+            "word": "queste",
+            "translation": "these"
         },
         {
-            "figlio": "son"
+            "word": "figlio",
+            "translation": "son"
         },
         {
-            "mondo": "world"
+            "word": "mondo",
+            "translation": "world"
         },
         {
-            "nostra": "our"
+            "word": "nostra",
+            "translation": "our"
         },
         {
-            "sapere": "know"
+            "word": "sapere",
+            "translation": "know"
         },
         {
-            "vado": "I go"
+            "word": "vado",
+            "translation": "I go"
         },
         {
-            "tutte": "all"
+            "word": "tutte",
+            "translation": "all"
         },
         {
-            "aspetta": "Wait"
+            "word": "aspetta",
+            "translation": "Wait"
         },
         {
-            "amore": "Love"
+            "word": "amore",
+            "translation": "Love"
         },
         {
-            "moglie": "wife"
+            "word": "moglie",
+            "translation": "wife"
         },
         {
-            "sicuro": "Safe"
+            "word": "sicuro",
+            "translation": "Safe"
         },
         {
-            "suoi": "his"
+            "word": "suoi",
+            "translation": "his"
         },
         {
-            "penso": "I think"
+            "word": "penso",
+            "translation": "I think"
         },
         {
-            "paura": "fear"
+            "word": "paura",
+            "translation": "fear"
         },
         {
-            "idea": "idea"
+            "word": "idea",
+            "translation": "idea"
         },
         {
-            "testa": "head"
+            "word": "testa",
+            "translation": "head"
         },
         {
-            "papà": "Pope"
+            "word": "papà",
+            "translation": "Pope"
         },
         {
-            "giusto": "Right"
+            "word": "giusto",
+            "translation": "Right"
         },
         {
-            "eh": "eh"
+            "word": "eh",
+            "translation": "eh"
         },
         {
-            "vorrei": "I would like"
+            "word": "vorrei",
+            "translation": "I would like"
         },
         {
-            "senti": "feel"
+            "word": "senti",
+            "translation": "feel"
         },
         {
-            "presto": "Soon"
+            "word": "presto",
+            "translation": "Soon"
         },
         {
-            "uomini": "men"
+            "word": "uomini",
+            "translation": "men"
         },
         {
-            "ll": "ll"
+            "word": "ll",
+            "translation": "ll"
         },
         {
-            "basta": "Enough"
+            "word": "basta",
+            "translation": "Enough"
         },
         {
-            "potrebbe": "could be"
+            "word": "potrebbe",
+            "translation": "could be"
         },
         {
-            "stesso": "same"
+            "word": "stesso",
+            "translation": "same"
         },
         {
-            "avuto": "had"
+            "word": "avuto",
+            "translation": "had"
         },
         {
-            "porta": "brings"
+            "word": "porta",
+            "translation": "brings"
         },
         {
-            "erano": "they were"
+            "word": "erano",
+            "translation": "they were"
         },
         {
-            "stare": "to stay"
+            "word": "stare",
+            "translation": "to stay"
         },
         {
-            "buona": "Good"
+            "word": "buona",
+            "translation": "Good"
         },
         {
-            "quindi": "Therefore"
+            "word": "quindi",
+            "translation": "Therefore"
         },
         {
-            "farlo": "to do it"
+            "word": "farlo",
+            "translation": "to do it"
         },
         {
-            "appena": "as soon as"
+            "word": "appena",
+            "translation": "as soon as"
         },
         {
-            "abbia": "have"
+            "word": "abbia",
+            "translation": "have"
         },
         {
-            "ragione": "reason"
+            "word": "ragione",
+            "translation": "reason"
         },
         {
-            "sentito": "sense"
+            "word": "sentito",
+            "translation": "sense"
         },
         {
-            "ragazzi": "Boys"
+            "word": "ragazzi",
+            "translation": "Boys"
         },
         {
-            "domani": "Tomorrow"
+            "word": "domani",
+            "translation": "Tomorrow"
         },
         {
-            "ragazza": "lass"
+            "word": "ragazza",
+            "translation": "lass"
         },
         {
-            "ragazzo": "lad"
+            "word": "ragazzo",
+            "translation": "lad"
         },
         {
-            "insieme": "Together"
+            "word": "insieme",
+            "translation": "Together"
         },
         {
-            "sotto": "under"
+            "word": "sotto",
+            "translation": "under"
         },
         {
-            "volevo": "I wanted"
+            "word": "volevo",
+            "translation": "I wanted"
         },
         {
-            "pronto": "ready"
+            "word": "pronto",
+            "translation": "ready"
         },
         {
-            "nei": "in the"
+            "word": "nei",
+            "translation": "in the"
         },
         {
-            "ciò": "that is"
+            "word": "ciò",
+            "translation": "that is"
         },
         {
-            "volte": "times"
+            "word": "volte",
+            "translation": "times"
         },
         {
-            "capito": "Understood"
+            "word": "capito",
+            "translation": "Understood"
         },
         {
-            "succede": "happens"
+            "word": "succede",
+            "translation": "happens"
         },
         {
-            "preso": "taken"
+            "word": "preso",
+            "translation": "taken"
         },
         {
-            "facendo": "doing"
+            "word": "facendo",
+            "translation": "doing"
         },
         {
-            "piacere": "Pleasure"
+            "word": "piacere",
+            "translation": "Pleasure"
         },
         {
-            "morto": "died"
+            "word": "morto",
+            "translation": "died"
         },
         {
-            "tuoi": "your"
+            "word": "tuoi",
+            "translation": "your"
         },
         {
-            "capitano": "captain"
+            "word": "capitano",
+            "translation": "captain"
         },
         {
-            "letto": "Bed"
+            "word": "letto",
+            "translation": "Bed"
         },
         {
-            "storia": "history"
+            "word": "storia",
+            "translation": "history"
         },
         {
-            "caso": "case"
+            "word": "caso",
+            "translation": "case"
         },
         {
-            "trovato": "found"
+            "word": "trovato",
+            "translation": "found"
         },
         {
-            "amici": "friends"
+            "word": "amici",
+            "translation": "friends"
         },
         {
-            "venire": "come"
+            "word": "venire",
+            "translation": "come"
         },
         {
-            "dico": "I say"
+            "word": "dico",
+            "translation": "I say"
         },
         {
-            "capisco": "I understand"
+            "word": "capisco",
+            "translation": "I understand"
         },
         {
-            "problema": "problem"
+            "word": "problema",
+            "translation": "problem"
         },
         {
-            "fino": "until"
+            "word": "fino",
+            "translation": "until"
         },
         {
-            "tipo": "guy"
+            "word": "tipo",
+            "translation": "guy"
         },
         {
-            "là": "there"
+            "word": "là",
+            "translation": "there"
         },
         {
-            "qua": "here"
+            "word": "qua",
+            "translation": "here"
         },
         {
-            "pensi": "think"
+            "word": "pensi",
+            "translation": "think"
         },
         {
-            "aver": "have"
+            "word": "aver",
+            "translation": "have"
         },
         {
-            "giorni": "days"
+            "word": "giorni",
+            "translation": "days"
         },
         {
-            "cazzo": "fuck"
+            "word": "cazzo",
+            "translation": "fuck"
         },
         {
-            "okay": "okay"
+            "word": "okay",
+            "translation": "okay"
         },
         {
-            "nulla": "Nothing"
+            "word": "nulla",
+            "translation": "Nothing"
         },
         {
-            "bello": "Handsome"
+            "word": "bello",
+            "translation": "Handsome"
         },
         {
-            "persone": "people"
+            "word": "persone",
+            "translation": "people"
         },
         {
-            "buon": "Good"
+            "word": "buon",
+            "translation": "Good"
         },
         {
-            "terra": "Earth"
+            "word": "terra",
+            "translation": "Earth"
         },
         {
-            "ia": "ia"
+            "word": "ia",
+            "translation": "ia"
         },
         {
-            "dato": "given"
+            "word": "dato",
+            "translation": "given"
         },
         {
-            "secondo": "second"
+            "word": "secondo",
+            "translation": "second"
         },
         {
-            "film": "movie"
+            "word": "film",
+            "translation": "movie"
         },
         {
-            "nell'": "in the'"
+            "word": "nell'",
+            "translation": "in the'"
         },
         {
-            "mano": "hand"
+            "word": "mano",
+            "translation": "hand"
         },
         {
-            "facciamo": "we do"
+            "word": "facciamo",
+            "translation": "we do"
         },
         {
-            "vediamo": "We see"
+            "word": "vediamo",
+            "translation": "We see"
         },
         {
-            "vedo": "I see"
+            "word": "vedo",
+            "translation": "I see"
         },
         {
-            "stanno": "they are"
+            "word": "stanno",
+            "translation": "they are"
         },
         {
-            "avrei": "I would have"
+            "word": "avrei",
+            "translation": "I would have"
         },
         {
-            "prendere": "take"
+            "word": "prendere",
+            "translation": "take"
         },
         {
-            "dici": "you say"
+            "word": "dici",
+            "translation": "you say"
         },
         {
-            "serve": "serve"
+            "word": "serve",
+            "translation": "serve"
         },
         {
-            "morte": "death"
+            "word": "morte",
+            "translation": "death"
         },
         {
-            "meno": "less"
+            "word": "meno",
+            "translation": "less"
         },
         {
-            "città": "city"
+            "word": "città",
+            "translation": "city"
         },
         {
-            "occhi": "eyes"
+            "word": "occhi",
+            "translation": "eyes"
         },
         {
-            "fine": "end"
+            "word": "fine",
+            "translation": "end"
         },
         {
-            "sig": "Mr"
+            "word": "sig",
+            "translation": "Mr"
         },
         {
-            "ê": "And"
+            "word": "ê",
+            "translation": "And"
         },
         {
-            "tesoro": "treasure"
+            "word": "tesoro",
+            "translation": "treasure"
         },
         {
-            "scusi": "Excuse me"
+            "word": "scusi",
+            "translation": "Excuse me"
         },
         {
-            "primo": "first"
+            "word": "primo",
+            "translation": "first"
         },
         {
-            "credi": "believe"
+            "word": "credi",
+            "translation": "believe"
         },
         {
-            "salve": "Greetings"
+            "word": "salve",
+            "translation": "Greetings"
         },
         {
-            "nave": "ship"
+            "word": "nave",
+            "translation": "ship"
         },
         {
-            "stiamo": "we are"
+            "word": "stiamo",
+            "translation": "we are"
         },
         {
-            "sera": "evening"
+            "word": "sera",
+            "translation": "evening"
         },
         {
-            "piano": "floor"
+            "word": "piano",
+            "translation": "floor"
         },
         {
-            "sento": "I feel"
+            "word": "sento",
+            "translation": "I feel"
         },
         {
-            "macchina": "machine"
+            "word": "macchina",
+            "translation": "machine"
         },
         {
-            "vostro": "your"
+            "word": "vostro",
+            "translation": "your"
         },
         {
-            "mani": "hands"
+            "word": "mani",
+            "translation": "hands"
         },
         {
-            "neanche": "not even"
+            "word": "neanche",
+            "translation": "not even"
         },
         {
-            "dall'": "from"
+            "word": "dall'",
+            "translation": "from"
         },
         {
-            "dottore": "doctor"
+            "word": "dottore",
+            "translation": "doctor"
         },
         {
-            "quale": "Which"
+            "word": "quale",
+            "translation": "Which"
         },
         {
-            "abbastanza": "Enough"
+            "word": "abbastanza",
+            "translation": "Enough"
         },
         {
-            "tardi": "late"
+            "word": "tardi",
+            "translation": "late"
         },
         {
-            "bel": "nice"
+            "word": "bel",
+            "translation": "nice"
         },
         {
-            "cuore": "Heart"
+            "word": "cuore",
+            "translation": "Heart"
         },
         {
-            "famiglia": "family"
+            "word": "famiglia",
+            "translation": "family"
         },
         {
-            "far": "do"
+            "word": "far",
+            "translation": "do"
         },
         {
-            "stati": "States"
+            "word": "stati",
+            "translation": "States"
         },
         {
-            "aiuto": "help"
+            "word": "aiuto",
+            "translation": "help"
         },
         {
-            "diavolo": "devil"
+            "word": "diavolo",
+            "translation": "devil"
         },
         {
-            "nostri": "our"
+            "word": "nostri",
+            "translation": "our"
         },
         {
-            "col": "with the"
+            "word": "col",
+            "translation": "with the"
         },
         {
-            "quasi": "Almost"
+            "word": "quasi",
+            "translation": "Almost"
         },
         {
-            "polizia": "police"
+            "word": "polizia",
+            "translation": "police"
         },
         {
-            "capo": "boss"
+            "word": "capo",
+            "translation": "boss"
         },
         {
-            "avrebbe": "it would have"
+            "word": "avrebbe",
+            "translation": "it would have"
         },
         {
-            "quei": "those"
+            "word": "quei",
+            "translation": "those"
         },
         {
-            "mie": "my"
+            "word": "mie",
+            "translation": "my"
         },
         {
-            "tornare": "return"
+            "word": "tornare",
+            "translation": "return"
         },
         {
-            "però": "However"
+            "word": "però",
+            "translation": "However"
         },
         {
-            "contro": "against"
+            "word": "contro",
+            "translation": "against"
         },
         {
-            "viene": "he comes"
+            "word": "viene",
+            "translation": "he comes"
         },
         {
-            "mentre": "While"
+            "word": "mentre",
+            "translation": "While"
         },
         {
-            "scusa": "Excuse me"
+            "word": "scusa",
+            "translation": "Excuse me"
         },
         {
-            "sola": "lonely"
+            "word": "sola",
+            "translation": "lonely"
         },
         {
-            "spero": "I hope"
+            "word": "spero",
+            "translation": "I hope"
         },
         {
-            "quelle": "those"
+            "word": "quelle",
+            "translation": "those"
         },
         {
-            "trovare": "find"
+            "word": "trovare",
+            "translation": "find"
         },
         {
-            "giro": "tour"
+            "word": "giro",
+            "translation": "tour"
         },
         {
-            "anch'": "too"
+            "word": "anch'",
+            "translation": "too"
         },
         {
-            "guerra": "war"
+            "word": "guerra",
+            "translation": "war"
         },
         {
-            "sue": "his"
+            "word": "sue",
+            "translation": "his"
         },
         {
-            "bambino": "child"
+            "word": "bambino",
+            "translation": "child"
         },
         {
-            "strada": "street"
+            "word": "strada",
+            "translation": "street"
         },
         {
-            "vecchio": "old"
+            "word": "vecchio",
+            "translation": "old"
         },
         {
-            "fratello": "Brother"
+            "word": "fratello",
+            "translation": "Brother"
         },
         {
-            "acqua": "waterfall"
+            "word": "acqua",
+            "translation": "waterfall"
         },
         {
-            "stasera": "this evening"
+            "word": "stasera",
+            "translation": "this evening"
         },
         {
-            "pensavo": "I thought"
+            "word": "pensavo",
+            "translation": "I thought"
         },
         {
-            "chiama": "who loves"
+            "word": "chiama",
+            "translation": "who loves"
         },
         {
-            "persona": "person"
+            "word": "persona",
+            "translation": "person"
         },
         {
-            "vedi": "you see"
+            "word": "vedi",
+            "translation": "you see"
         },
         {
-            "fu": "was"
+            "word": "fu",
+            "translation": "was"
         },
         {
-            "anno": "year"
+            "word": "anno",
+            "translation": "year"
         },
         {
-            "vostra": "your"
+            "word": "vostra",
+            "translation": "your"
         },
         {
-            "veramente": "Truly"
+            "word": "veramente",
+            "translation": "Truly"
         },
         {
-            "finito": "finished"
+            "word": "finito",
+            "translation": "finished"
         },
         {
-            "marito": "Husband"
+            "word": "marito",
+            "translation": "Husband"
         },
         {
-            "minuti": "minutes"
+            "word": "minuti",
+            "translation": "minutes"
         },
         {
-            "giù": "below"
+            "word": "giù",
+            "translation": "below"
         },
         {
-            "donne": "women"
+            "word": "donne",
+            "translation": "women"
         },
         {
-            "bravo": "good boy"
+            "word": "bravo",
+            "translation": "good boy"
         },
         {
-            "bambini": "children"
+            "word": "bambini",
+            "translation": "children"
         },
         {
-            "ricordi": "memories"
+            "word": "ricordi",
+            "translation": "memories"
         },
         {
-            "quelli": "those"
+            "word": "quelli",
+            "translation": "those"
         },
         {
-            "state": "state"
+            "word": "state",
+            "translation": "state"
         },
         {
-            "ore": "hours"
+            "word": "ore",
+            "translation": "hours"
         },
         {
-            "stavo": "I was"
+            "word": "stavo",
+            "translation": "I was"
         },
         {
-            "dovuto": "due"
+            "word": "dovuto",
+            "translation": "due"
         },
         {
-            "nemmeno": "neither"
+            "word": "nemmeno",
+            "translation": "neither"
         },
         {
-            "venuto": "coming"
+            "word": "venuto",
+            "translation": "coming"
         },
         {
-            "indietro": "backwards"
+            "word": "indietro",
+            "translation": "backwards"
         },
         {
-            "stessa": "same"
+            "word": "stessa",
+            "translation": "same"
         },
         {
-            "importa": "it matters"
+            "word": "importa",
+            "translation": "it matters"
         },
         {
-            "nessun": "no"
+            "word": "nessun",
+            "translation": "no"
         },
         {
-            "punto": "point"
+            "word": "punto",
+            "translation": "point"
         },
         {
-            "invece": "Instead"
+            "word": "invece",
+            "translation": "Instead"
         },
         {
-            "perso": "lost"
+            "word": "perso",
+            "translation": "lost"
         },
         {
-            "possibile": "possible"
+            "word": "possibile",
+            "translation": "possible"
         },
         {
-            "ucciso": "killed"
+            "word": "ucciso",
+            "translation": "killed"
         },
         {
-            "forte": "strong"
+            "word": "forte",
+            "translation": "strong"
         },
         {
-            "pensato": "thought"
+            "word": "pensato",
+            "translation": "thought"
         },
         {
-            "dovrebbe": "should"
+            "word": "dovrebbe",
+            "translation": "should"
         },
         {
-            "pensa": "thinks"
+            "word": "pensa",
+            "translation": "thinks"
         },
         {
-            "poco": "little"
+            "word": "poco",
+            "translation": "little"
         },
         {
-            "parla": "speaks"
+            "word": "parla",
+            "translation": "speaks"
         },
         {
-            "farò": "lighthouse"
+            "word": "farò",
+            "translation": "lighthouse"
         },
         {
-            "cercando": "looking for"
+            "word": "cercando",
+            "translation": "looking for"
         },
         {
-            "l": "L"
+            "word": "l",
+            "translation": "L"
         },
         {
-            "verità": "truth"
+            "word": "verità",
+            "translation": "truth"
         },
         {
-            "andato": "left"
+            "word": "andato",
+            "translation": "left"
         },
         {
-            "quell'": "that'"
+            "word": "quell'",
+            "translation": "that'"
         },
         {
-            "re": "king"
+            "word": "re",
+            "translation": "king"
         },
         {
-            "fanno": "they do"
+            "word": "fanno",
+            "translation": "they do"
         },
         {
-            "potrei": "I could"
+            "word": "potrei",
+            "translation": "I could"
         },
         {
-            "importante": "important"
+            "word": "importante",
+            "translation": "important"
         },
         {
-            "quest'": "this"
+            "word": "quest'",
+            "translation": "this"
         },
         {
-            "amo": "I love"
+            "word": "amo",
+            "translation": "I love"
         },
         {
-            "chiesto": "asked"
+            "word": "chiesto",
+            "translation": "asked"
         },
         {
-            "cosi": "Like this"
+            "word": "cosi",
+            "translation": "Like this"
         },
         {
-            "nelle": "in"
+            "word": "nelle",
+            "translation": "in"
         },
         {
-            "felice": "happy"
+            "word": "felice",
+            "translation": "happy"
         },
         {
-            "piedi": "feet"
+            "word": "piedi",
+            "translation": "feet"
         },
         {
-            "merda": "shit"
+            "word": "merda",
+            "translation": "shit"
         },
         {
-            "piccolo": "small"
+            "word": "piccolo",
+            "translation": "small"
         },
         {
-            "prendi": "you take"
+            "word": "prendi",
+            "translation": "you take"
         },
         {
-            "dietro": "behind"
+            "word": "dietro",
+            "translation": "behind"
         },
         {
-            "sapevo": "I knew"
+            "word": "sapevo",
+            "translation": "I knew"
         },
         {
-            "buongiorno": "Good morning"
+            "word": "buongiorno",
+            "translation": "Good morning"
         },
         {
-            "passato": "past"
+            "word": "passato",
+            "translation": "past"
         },
         {
-            "dollari": "dollars"
+            "word": "dollari",
+            "translation": "dollars"
         },
         {
-            "com'": "as"
+            "word": "com'",
+            "translation": "as"
         },
         {
-            "pure": "mashed potato"
+            "word": "pure",
+            "translation": "mashed potato"
         },
         {
-            "pensare": "think"
+            "word": "pensare",
+            "translation": "think"
         },
         {
-            "cinque": "five"
+            "word": "cinque",
+            "translation": "five"
         },
         {
-            "vicino": "Neighbor"
+            "word": "vicino",
+            "translation": "Neighbor"
         },
         {
-            "uscire": "go out"
+            "word": "uscire",
+            "translation": "go out"
         },
         {
-            "conosco": "I know"
+            "word": "conosco",
+            "translation": "I know"
         },
         {
-            "verso": "towards"
+            "word": "verso",
+            "translation": "towards"
         },
         {
-            "altre": "other"
+            "word": "altre",
+            "translation": "other"
         },
         {
-            "quattro": "four"
+            "word": "quattro",
+            "translation": "four"
         },
         {
-            "morire": "die"
+            "word": "morire",
+            "translation": "die"
         },
         {
-            "sangue": "blood"
+            "word": "sangue",
+            "translation": "blood"
         },
         {
-            "john": "John"
+            "word": "john",
+            "translation": "John"
         },
         {
-            "eri": "you was"
+            "word": "eri",
+            "translation": "you was"
         },
         {
-            "almeno": "at least"
+            "word": "almeno",
+            "translation": "at least"
         },
         {
-            "dica": "say"
+            "word": "dica",
+            "translation": "say"
         },
         {
-            "lascia": "leaves"
+            "word": "lascia",
+            "translation": "leaves"
         },
         {
-            "vivere": "live"
+            "word": "vivere",
+            "translation": "live"
         },
         {
-            "colpa": "guilt"
+            "word": "colpa",
+            "translation": "guilt"
         },
         {
-            "portato": "carried"
+            "word": "portato",
+            "translation": "carried"
         },
         {
-            "entrare": "enter"
+            "word": "entrare",
+            "translation": "enter"
         },
         {
-            "ricordo": "I remember"
+            "word": "ricordo",
+            "translation": "I remember"
         },
         {
-            "pace": "peace"
+            "word": "pace",
+            "translation": "peace"
         },
         {
-            "roba": "stuff"
+            "word": "roba",
+            "translation": "stuff"
         },
         {
-            "Jack": "Jack"
+            "word": "Jack",
+            "translation": "Jack"
         },
         {
-            "migliore": "improve"
+            "word": "migliore",
+            "translation": "improve"
         },
         {
-            "fate": "you do"
+            "word": "fate",
+            "translation": "you do"
         },
         {
-            "difficile": "difficult"
+            "word": "difficile",
+            "translation": "difficult"
         },
         {
-            "settimana": "week"
+            "word": "settimana",
+            "translation": "week"
         },
         {
-            "ultima": "last"
+            "word": "ultima",
+            "translation": "last"
         },
         {
-            "dovrei": "I should"
+            "word": "dovrei",
+            "translation": "I should"
         },
         {
-            "fatta": "made"
+            "word": "fatta",
+            "translation": "made"
         },
         {
-            "conto": "I count"
+            "word": "conto",
+            "translation": "I count"
         },
         {
-            "stanza": "room"
+            "word": "stanza",
+            "translation": "room"
         },
         {
-            "fra": "between"
+            "word": "fra",
+            "translation": "between"
         },
         {
-            "comunque": "Anyway"
+            "word": "comunque",
+            "translation": "Anyway"
         },
         {
-            "sentire": "feel"
+            "word": "sentire",
+            "translation": "feel"
         },
         {
-            "numero": "number"
+            "word": "numero",
+            "translation": "number"
         },
         {
-            "parlato": "spoke"
+            "word": "parlato",
+            "translation": "spoke"
         },
         {
-            "mente": "mind"
+            "word": "mente",
+            "translation": "mind"
         },
         {
-            "messo": "put in order"
+            "word": "messo",
+            "translation": "put in order"
         },
         {
-            "strano": "strange"
+            "word": "strano",
+            "translation": "strange"
         },
         {
-            "fortuna": "fortune"
+            "word": "fortuna",
+            "translation": "fortune"
         },
         {
-            "perdere": "LOSE"
+            "word": "perdere",
+            "translation": "LOSE"
         },
         {
-            "tue": "your"
+            "word": "tue",
+            "translation": "your"
         },
         {
-            "né": "neither"
+            "word": "né",
+            "translation": "neither"
         },
         {
-            "figlia": "Daughter"
+            "word": "figlia",
+            "translation": "Daughter"
         },
         {
-            "molti": "many"
+            "word": "molti",
+            "translation": "many"
         },
         {
-            "volete": "you want"
+            "word": "volete",
+            "translation": "you want"
         },
         {
-            "dottor": "Doctor"
+            "word": "dottor",
+            "translation": "Doctor"
         },
         {
-            "parola": "word"
+            "word": "parola",
+            "translation": "word"
         },
         {
-            "signori": "gentlemen"
+            "word": "signori",
+            "translation": "gentlemen"
         },
         {
-            "andata": "outward"
+            "word": "andata",
+            "translation": "outward"
         },
         {
-            "vista": "view"
+            "word": "vista",
+            "translation": "view"
         },
         {
-            "vede": "see"
+            "word": "vede",
+            "translation": "see"
         },
         {
-            "nessuna": "none"
+            "word": "nessuna",
+            "translation": "none"
         },
         {
-            "finché": "until"
+            "word": "finché",
+            "translation": "until"
         },
         {
-            "dare": "give"
+            "word": "dare",
+            "translation": "give"
         },
         {
-            "dammi": "give me"
+            "word": "dammi",
+            "translation": "give me"
         },
         {
-            "mr": "mr"
+            "word": "mr",
+            "translation": "mr"
         },
         {
-            "mesi": "months"
+            "word": "mesi",
+            "translation": "months"
         },
         {
-            "fuoco": "fire"
+            "word": "fuoco",
+            "translation": "fire"
         },
         {
-            "voleva": "he wanted"
+            "word": "voleva",
+            "translation": "he wanted"
         },
         {
-            "mangiare": "eat"
+            "word": "mangiare",
+            "translation": "eat"
         },
         {
-            "lasciato": "left"
+            "word": "lasciato",
+            "translation": "left"
         },
         {
-            "figli": "children"
+            "word": "figli",
+            "translation": "children"
         },
         {
-            "serio": "serious"
+            "word": "serio",
+            "translation": "serious"
         },
         {
-            "paese": "village"
+            "word": "paese",
+            "translation": "village"
         },
         {
-            "farà": "will make"
+            "word": "farà",
+            "translation": "will make"
         },
         {
-            "capire": "understand"
+            "word": "capire",
+            "translation": "understand"
         },
         {
-            "mezzo": "half"
+            "word": "mezzo",
+            "translation": "half"
         },
         {
-            "prova": "trial"
+            "word": "prova",
+            "translation": "trial"
         },
         {
-            "cara": "Dear"
+            "word": "cara",
+            "translation": "Dear"
         },
         {
-            "perche'": "Why'"
+            "word": "perche'",
+            "translation": "Why'"
         },
         {
-            "cane": "dog"
+            "word": "cane",
+            "translation": "dog"
         },
         {
-            "dimmi": "Tell me"
+            "word": "dimmi",
+            "translation": "Tell me"
         },
         {
-            "fossi": "dive"
+            "word": "fossi",
+            "translation": "dive"
         },
         {
-            "senso": "sense"
+            "word": "senso",
+            "translation": "sense"
         },
         {
-            "james": "james"
+            "word": "james",
+            "translation": "james"
         },
         {
-            "riesco": "I am able to"
+            "word": "riesco",
+            "translation": "I am able to"
         },
         {
-            "ieri": "Yesterday"
+            "word": "ieri",
+            "translation": "Yesterday"
         },
         {
-            "possa": "can"
+            "word": "possa",
+            "translation": "can"
         },
         {
-            "potuto": "could"
+            "word": "potuto",
+            "translation": "could"
         },
         {
-            "scuola": "school"
+            "word": "scuola",
+            "translation": "school"
         },
         {
-            "s": "s"
+            "word": "s",
+            "translation": "s"
         },
         {
-            "possono": "can"
+            "word": "possono",
+            "translation": "can"
         },
         {
-            "lavorare": "work"
+            "word": "lavorare",
+            "translation": "work"
         },
         {
-            "significa": "it means"
+            "word": "significa",
+            "translation": "it means"
         },
         {
-            "resto": "rest"
+            "word": "resto",
+            "translation": "rest"
         },
         {
-            "vada": "go"
+            "word": "vada",
+            "translation": "go"
         },
         {
-            "piccola": "small"
+            "word": "piccola",
+            "translation": "small"
         },
         {
-            "pare": "it seems"
+            "word": "pare",
+            "translation": "it seems"
         },
         {
-            "bere": "drinking"
+            "word": "bere",
+            "translation": "drinking"
         },
         {
-            "ben": "well"
+            "word": "ben",
+            "translation": "well"
         },
         {
-            "cena": "dinner"
+            "word": "cena",
+            "translation": "dinner"
         },
         {
-            "giovane": "young"
+            "word": "giovane",
+            "translation": "young"
         },
         {
-            "problemi": "problems"
+            "word": "problemi",
+            "translation": "problems"
         },
         {
-            "quanti": "how many"
+            "word": "quanti",
+            "translation": "how many"
         },
         {
-            "gran": "large"
+            "word": "gran",
+            "translation": "large"
         },
         {
-            "attimo": "moment"
+            "word": "attimo",
+            "translation": "moment"
         },
         {
-            "ascolta": "Listen"
+            "word": "ascolta",
+            "translation": "Listen"
         },
         {
-            "agli": "to"
+            "word": "agli",
+            "translation": "to"
         },
         {
-            "dovresti": "you should"
+            "word": "dovresti",
+            "translation": "you should"
         },
         {
-            "corpo": "body"
+            "word": "corpo",
+            "translation": "body"
         },
         {
-            "musica": "music"
+            "word": "musica",
+            "translation": "music"
         },
         {
-            "gioco": "game"
+            "word": "gioco",
+            "translation": "game"
         },
         {
-            "qual": "that"
+            "word": "qual",
+            "translation": "that"
         },
         {
-            "aria": "air"
+            "word": "aria",
+            "translation": "air"
         },
         {
-            "sarò": "I will be"
+            "word": "sarò",
+            "translation": "I will be"
         },
         {
-            "farmi": "make me"
+            "word": "farmi",
+            "translation": "make me"
         },
         {
-            "magari": "Perhaps"
+            "word": "magari",
+            "translation": "Perhaps"
         },
         {
-            "davanti": "in front of"
+            "word": "davanti",
+            "translation": "in front of"
         },
         {
-            "new": "new"
+            "word": "new",
+            "translation": "new"
         },
         {
-            "chiamo": "call"
+            "word": "chiamo",
+            "translation": "call"
         },
         {
-            "genere": "type"
+            "word": "genere",
+            "translation": "type"
         },
         {
-            "libro": "book"
+            "word": "libro",
+            "translation": "book"
         },
         {
-            "domanda": "request"
+            "word": "domanda",
+            "translation": "request"
         },
         {
-            "chiamato": "called"
+            "word": "chiamato",
+            "translation": "called"
         },
         {
-            "passare": "pass"
+            "word": "passare",
+            "translation": "pass"
         },
         {
-            "dalle": "give her"
+            "word": "dalle",
+            "translation": "give her"
         },
         {
-            "campo": "field"
+            "word": "campo",
+            "translation": "field"
         },
         {
-            "lungo": "long"
+            "word": "lungo",
+            "translation": "long"
         },
         {
-            "torna": "back"
+            "word": "torna",
+            "translation": "back"
         },
         {
-            "paio": "pair"
+            "word": "paio",
+            "translation": "pair"
         },
         {
-            "stava": "was"
+            "word": "stava",
+            "translation": "was"
         },
         {
-            "finita": "finite"
+            "word": "finita",
+            "translation": "finite"
         },
         {
-            "saranno": "they will be"
+            "word": "saranno",
+            "translation": "they will be"
         },
         {
-            "vogliono": "they want"
+            "word": "vogliono",
+            "translation": "they want"
         },
         {
-            "hey": "Hey"
+            "word": "hey",
+            "translation": "Hey"
         },
         {
-            "cielo": "sky"
+            "word": "cielo",
+            "translation": "sky"
         },
         {
-            "parole": "words"
+            "word": "parole",
+            "translation": "words"
         },
         {
-            "auto": "car"
+            "word": "auto",
+            "translation": "car"
         },
         {
-            "sorella": "sister"
+            "word": "sorella",
+            "translation": "sister"
         },
         {
-            "nuova": "new"
+            "word": "nuova",
+            "translation": "new"
         },
         {
-            "stia": "stia"
+            "word": "stia",
+            "translation": "stia"
         },
         {
-            "signorina": "Miss"
+            "word": "signorina",
+            "translation": "Miss"
         },
         {
-            "festa": "party"
+            "word": "festa",
+            "translation": "party"
         },
         {
-            "spiace": "unpleasant"
+            "word": "spiace",
+            "translation": "unpleasant"
         },
         {
-            "sopra": "above"
+            "word": "sopra",
+            "translation": "above"
         },
         {
-            "bisogna": "must"
+            "word": "bisogna",
+            "translation": "must"
         },
         {
-            "vuol": "vuol"
+            "word": "vuol",
+            "translation": "vuol"
         },
         {
-            "telefono": "telephone"
+            "word": "telefono",
+            "translation": "telephone"
         },
         {
-            "affari": "business"
+            "word": "affari",
+            "translation": "business"
         },
         {
-            "facile": "easy"
+            "word": "facile",
+            "translation": "easy"
         },
         {
-            "parlando": "speaking"
+            "word": "parlando",
+            "translation": "speaking"
         },
         {
-            "caro": "Dear"
+            "word": "caro",
+            "translation": "Dear"
         },
         {
-            "sui": "on"
+            "word": "sui",
+            "translation": "on"
         },
         {
-            "pronti": "ready"
+            "word": "pronti",
+            "translation": "ready"
         },
         {
-            "restare": "remain"
+            "word": "restare",
+            "translation": "remain"
         },
         {
-            "attenzione": "Attention"
+            "word": "attenzione",
+            "translation": "Attention"
         },
         {
-            "crede": "you think"
+            "word": "crede",
+            "translation": "you think"
         },
         {
-            "nostre": "our"
+            "word": "nostre",
+            "translation": "our"
         },
         {
-            "controllo": "check"
+            "word": "controllo",
+            "translation": "check"
         },
         {
-            "molte": "many"
+            "word": "molte",
+            "translation": "many"
         },
         {
-            "unica": "unique"
+            "word": "unica",
+            "translation": "unique"
         },
         {
-            "dovremmo": "we should"
+            "word": "dovremmo",
+            "translation": "we should"
         },
         {
-            "farti": "make you"
+            "word": "farti",
+            "translation": "make you"
         },
         {
-            "soltanto": "only"
+            "word": "soltanto",
+            "translation": "only"
         },
         {
-            "piu'": "more'"
+            "word": "piu'",
+            "translation": "more'"
         },
         {
-            "buono": "Good"
+            "word": "buono",
+            "translation": "Good"
         },
         {
-            "puttana": "whore"
+            "word": "puttana",
+            "translation": "whore"
         },
         {
-            "vivo": "I live"
+            "word": "vivo",
+            "translation": "I live"
         },
         {
-            "sappiamo": "we know"
+            "word": "sappiamo",
+            "translation": "we know"
         },
         {
-            "luce": "light"
+            "word": "luce",
+            "translation": "light"
         },
         {
-            "generale": "general"
+            "word": "generale",
+            "translation": "general"
         },
         {
-            "qualsiasi": "any"
+            "word": "qualsiasi",
+            "translation": "any"
         },
         {
-            "vogliamo": "we want"
+            "word": "vogliamo",
+            "translation": "we want"
         },
         {
-            "ultimo": "last"
+            "word": "ultimo",
+            "translation": "last"
         },
         {
-            "dicono": "they say"
+            "word": "dicono",
+            "translation": "they say"
         },
         {
-            "benissimo": "Very well"
+            "word": "benissimo",
+            "translation": "Very well"
         },
         {
-            "harry": "Harry"
+            "word": "harry",
+            "translation": "Harry"
         },
         {
-            "foto": "photo"
+            "word": "foto",
+            "translation": "photo"
         },
         {
-            "unico": "unique"
+            "word": "unico",
+            "translation": "unique"
         },
         {
-            "onore": "honor"
+            "word": "onore",
+            "translation": "honor"
         },
         {
-            "ragazze": "girls"
+            "word": "ragazze",
+            "translation": "girls"
         },
         {
-            "scritto": "written"
+            "word": "scritto",
+            "translation": "written"
         },
         {
-            "andate": "go"
+            "word": "andate",
+            "translation": "go"
         },
         {
-            "tieni": "keep"
+            "word": "tieni",
+            "translation": "keep"
         },
         {
-            "siano": "they are"
+            "word": "siano",
+            "translation": "they are"
         },
         {
-            "ufficio": "office"
+            "word": "ufficio",
+            "translation": "office"
         },
         {
-            "entra": "enter"
+            "word": "entra",
+            "translation": "enter"
         },
         {
-            "chiedo": "I ask"
+            "word": "chiedo",
+            "translation": "I ask"
         },
         {
-            "coraggio": "courage"
+            "word": "coraggio",
+            "translation": "courage"
         },
         {
-            "andando": "going"
+            "word": "andando",
+            "translation": "going"
         },
         {
-            "venga": "come"
+            "word": "venga",
+            "translation": "come"
         },
         {
-            "dieci": "ten"
+            "word": "dieci",
+            "translation": "ten"
         },
         {
-            "credevo": "I believed"
+            "word": "credevo",
+            "translation": "I believed"
         },
         {
-            "voglia": "wants"
+            "word": "voglia",
+            "translation": "wants"
         },
         {
-            "potremmo": "we could"
+            "word": "potremmo",
+            "translation": "we could"
         },
         {
-            "esatto": "Exactly"
+            "word": "esatto",
+            "translation": "Exactly"
         },
         {
-            "credere": "believe"
+            "word": "credere",
+            "translation": "believe"
         },
         {
-            "tratta": "deals with"
+            "word": "tratta",
+            "translation": "deals with"
         },
         {
-            "eravamo": "we were"
+            "word": "eravamo",
+            "translation": "we were"
         },
         {
-            "arrivato": "arrived"
+            "word": "arrivato",
+            "translation": "arrived"
         },
         {
-            "bambina": "girl"
+            "word": "bambina",
+            "translation": "girl"
         },
         {
-            "pistola": "pistol"
+            "word": "pistola",
+            "translation": "pistol"
         },
         {
-            "voce": "voice"
+            "word": "voce",
+            "translation": "voice"
         },
         {
-            "dormire": "sleep"
+            "word": "dormire",
+            "translation": "sleep"
         },
         {
-            "lasci": "leave"
+            "word": "lasci",
+            "translation": "leave"
         },
         {
-            "avessi": "had"
+            "word": "avessi",
+            "translation": "had"
         },
         {
-            "chiaro": "clear"
+            "word": "chiaro",
+            "translation": "clear"
         },
         {
-            "aspetto": "I wait"
+            "word": "aspetto",
+            "translation": "I wait"
         },
         {
-            "squadra": "squad"
+            "word": "squadra",
+            "translation": "squad"
         },
         {
-            "attento": "careful"
+            "word": "attento",
+            "translation": "careful"
         },
         {
-            "cerca": "near"
+            "word": "cerca",
+            "translation": "near"
         },
         {
-            "ordine": "order"
+            "word": "ordine",
+            "translation": "order"
         },
         {
-            "joey": "Joey"
+            "word": "joey",
+            "translation": "Joey"
         },
         {
-            "arrivederci": "Until we meet again"
+            "word": "arrivederci",
+            "translation": "Until we meet again"
         },
         {
-            "arriva": "he arrives"
+            "word": "arriva",
+            "translation": "he arrives"
         },
         {
-            "armi": "weapons"
+            "word": "armi",
+            "translation": "weapons"
         },
         {
-            "sulle": "on"
+            "word": "sulle",
+            "translation": "on"
         },
         {
-            "ormai": "at this point"
+            "word": "ormai",
+            "translation": "at this point"
         },
         {
-            "maggiore": "greater"
+            "word": "maggiore",
+            "translation": "greater"
         },
         {
-            "fretta": "rush"
+            "word": "fretta",
+            "translation": "rush"
         },
         {
-            "sarai": "you will be"
+            "word": "sarai",
+            "translation": "you will be"
         },
         {
-            "sacco": "sack"
+            "word": "sacco",
+            "translation": "sack"
         },
         {
-            "fatti": "facts"
+            "word": "fatti",
+            "translation": "facts"
         },
         {
-            "york": "York"
+            "word": "york",
+            "translation": "York"
         },
         {
-            "parli": "you speak"
+            "word": "parli",
+            "translation": "you speak"
         },
         {
-            "colpo": "hit"
+            "word": "colpo",
+            "translation": "hit"
         },
         {
-            "sarei": "I would be"
+            "word": "sarei",
+            "translation": "I would be"
         },
         {
-            "m'": "m '"
+            "word": "m'",
+            "translation": "m '"
         },
         {
-            "caffè": "coffee"
+            "word": "caffè",
+            "translation": "coffee"
         },
         {
-            "capisci": "you understand"
+            "word": "capisci",
+            "translation": "you understand"
         },
         {
-            "dicendo": "saying"
+            "word": "dicendo",
+            "translation": "saying"
         },
         {
-            "vostri": "your"
+            "word": "vostri",
+            "translation": "your"
         },
         {
-            "camera": "room"
+            "word": "camera",
+            "translation": "room"
         },
         {
-            "alcuni": "some"
+            "word": "alcuni",
+            "translation": "some"
         },
         {
-            "cercare": "look for"
+            "word": "cercare",
+            "translation": "look for"
         },
         {
-            "arrivo": "I arrive"
+            "word": "arrivo",
+            "translation": "I arrive"
         },
         {
-            "aspettare": "wait"
+            "word": "aspettare",
+            "translation": "wait"
         },
         {
-            "situazione": "situation"
+            "word": "situazione",
+            "translation": "situation"
         },
         {
-            "faremo": "we will do"
+            "word": "faremo",
+            "translation": "we will do"
         },
         {
-            "deciso": "decided"
+            "word": "deciso",
+            "translation": "decided"
         },
         {
-            "esattamente": "Exactly"
+            "word": "esattamente",
+            "translation": "Exactly"
         },
         {
-            "dev'": "DE"
+            "word": "dev'",
+            "translation": "DE"
         },
         {
-            "addio": "Goodbye"
+            "word": "addio",
+            "translation": "Goodbye"
         },
         {
-            "scena": "scene"
+            "word": "scena",
+            "translation": "scene"
         },
         {
-            "inglese": "English"
+            "word": "inglese",
+            "translation": "English"
         },
         {
-            "perfetto": "Perfect"
+            "word": "perfetto",
+            "translation": "Perfect"
         },
         {
-            "potete": "you can"
+            "word": "potete",
+            "translation": "you can"
         },
         {
-            "fammi": "do for me"
+            "word": "fammi",
+            "translation": "do for me"
         },
         {
-            "alto": "high"
+            "word": "alto",
+            "translation": "high"
         },
         {
-            "dello": "of the"
+            "word": "dello",
+            "translation": "of the"
         },
         {
-            "prendo": "I take"
+            "word": "prendo",
+            "translation": "I take"
         },
         {
-            "conosci": "you know"
+            "word": "conosci",
+            "translation": "you know"
         },
         {
-            "be'": "well"
+            "word": "be'",
+            "translation": "well"
         },
         {
-            "sapete": "you know"
+            "word": "sapete",
+            "translation": "you know"
         },
         {
-            "pazzo": "crazy"
+            "word": "pazzo",
+            "translation": "crazy"
         },
         {
-            "chiami": "who do you Love"
+            "word": "chiami",
+            "translation": "who do you Love"
         },
         {
-            "tornato": "got back"
+            "word": "tornato",
+            "translation": "got back"
         },
         {
-            "sicura": "safe"
+            "word": "sicura",
+            "translation": "safe"
         },
         {
-            "lasciare": "leave"
+            "word": "lasciare",
+            "translation": "leave"
         },
         {
-            "capelli": "hair"
+            "word": "capelli",
+            "translation": "hair"
         },
         {
-            "potere": "candies"
+            "word": "potere",
+            "translation": "candies"
         },
         {
-            "avevi": "you had"
+            "word": "avevi",
+            "translation": "you had"
         },
         {
-            "morti": "death"
+            "word": "morti",
+            "translation": "death"
         },
         {
-            "avrà": "will have"
+            "word": "avrà",
+            "translation": "will have"
         },
         {
-            "fantastico": "Fantastic"
+            "word": "fantastico",
+            "translation": "Fantastic"
         },
         {
-            "matrimonio": "marriage"
+            "word": "matrimonio",
+            "translation": "marriage"
         },
         {
-            "passo": "step"
+            "word": "passo",
+            "translation": "step"
         },
         {
-            "portare": "bring"
+            "word": "portare",
+            "translation": "bring"
         },
         {
-            "aspetti": "aspect"
+            "word": "aspetti",
+            "translation": "aspect"
         },
         {
-            "torno": "back"
+            "word": "torno",
+            "translation": "back"
         },
         {
-            "arrivare": "arrive"
+            "word": "arrivare",
+            "translation": "arrive"
         },
         {
-            "guai": "trouble"
+            "word": "guai",
+            "translation": "trouble"
         },
         {
-            "trova": "finds"
+            "word": "trova",
+            "translation": "finds"
         },
         {
-            "motivo": "reason"
+            "word": "motivo",
+            "translation": "reason"
         },
         {
-            "resta": "remain"
+            "word": "resta",
+            "translation": "remain"
         },
         {
-            "inizio": "start"
+            "word": "inizio",
+            "translation": "start"
         },
         {
-            "smettila": "stop that"
+            "word": "smettila",
+            "translation": "stop that"
         },
         {
-            "diventare": "become"
+            "word": "diventare",
+            "translation": "become"
         },
         {
-            "potresti": "you could"
+            "word": "potresti",
+            "translation": "you could"
         },
         {
-            "n'": "n '"
+            "word": "n'",
+            "translation": "n '"
         },
         {
-            "voluto": "wanted"
+            "word": "voluto",
+            "translation": "wanted"
         },
         {
-            "vanno": "they go"
+            "word": "vanno",
+            "translation": "they go"
         },
         {
-            "disse": "She said"
+            "word": "disse",
+            "translation": "She said"
         },
         {
-            "morta": "dead"
+            "word": "morta",
+            "translation": "dead"
         },
         {
-            "de": "de"
+            "word": "de",
+            "translation": "de"
         },
         {
-            "bagno": "bath"
+            "word": "bagno",
+            "translation": "bath"
         },
         {
-            "zio": "Uncle"
+            "word": "zio",
+            "translation": "Uncle"
         },
         {
-            "futuro": "future"
+            "word": "futuro",
+            "translation": "future"
         },
         {
-            "sbagliato": "wrong"
+            "word": "sbagliato",
+            "translation": "wrong"
         },
         {
-            "guardi": "look"
+            "word": "guardi",
+            "translation": "look"
         },
         {
-            "cosi'": "Like this'"
+            "word": "cosi'",
+            "translation": "Like this'"
         },
         {
-            "sicurezza": "safety"
+            "word": "sicurezza",
+            "translation": "safety"
         },
         {
-            "pezzo": "piece"
+            "word": "pezzo",
+            "translation": "piece"
         },
         {
-            "devono": "must"
+            "word": "devono",
+            "translation": "must"
         },
         {
-            "venuta": "coming"
+            "word": "venuta",
+            "translation": "coming"
         },
         {
-            "allo": "at the"
+            "word": "allo",
+            "translation": "at the"
         },
         {
-            "tenente": "lieutenant"
+            "word": "tenente",
+            "translation": "lieutenant"
         },
         {
-            "silenzio": "silence"
+            "word": "silenzio",
+            "translation": "silence"
         },
         {
-            "porto": "port"
+            "word": "porto",
+            "translation": "port"
         },
         {
-            "uccidere": "kill"
+            "word": "uccidere",
+            "translation": "kill"
         },
         {
-            "odio": "hate"
+            "word": "odio",
+            "translation": "hate"
         },
         {
-            "sull'": "on"
+            "word": "sull'",
+            "translation": "on"
         },
         {
-            "giocare": "play"
+            "word": "giocare",
+            "translation": "play"
         },
         {
-            "lontano": "distant"
+            "word": "lontano",
+            "translation": "distant"
         },
         {
-            "durante": "during"
+            "word": "durante",
+            "translation": "during"
         },
         {
-            "segreto": "secret"
+            "word": "segreto",
+            "translation": "secret"
         },
         {
-            "sole": "Sun"
+            "word": "sole",
+            "translation": "Sun"
         },
         {
-            "mettere": "put"
+            "word": "mettere",
+            "translation": "put"
         },
         {
-            "venite": "come"
+            "word": "venite",
+            "translation": "come"
         },
         {
-            "dirmi": "tell me"
+            "word": "dirmi",
+            "translation": "tell me"
         },
         {
-            "sistema": "system"
+            "word": "sistema",
+            "translation": "system"
         },
         {
-            "viaggio": "voyage"
+            "word": "viaggio",
+            "translation": "voyage"
         },
         {
-            "causa": "cause"
+            "word": "causa",
+            "translation": "cause"
         },
         {
-            "r": "r"
+            "word": "r",
+            "translation": "r"
         },
         {
-            "comandante": "commander"
+            "word": "comandante",
+            "translation": "commander"
         },
         {
-            "settimane": "weeks"
+            "word": "settimane",
+            "translation": "weeks"
         },
         {
-            "semplice": "simple"
+            "word": "semplice",
+            "translation": "simple"
         },
         {
-            "minuto": "minute"
+            "word": "minuto",
+            "translation": "minute"
         },
         {
-            "divertente": "fun"
+            "word": "divertente",
+            "translation": "fun"
         },
         {
-            "avresti": "you would have"
+            "word": "avresti",
+            "translation": "you would have"
         },
         {
-            "grandi": "big"
+            "word": "grandi",
+            "translation": "big"
         },
         {
-            "presidente": "president"
+            "word": "presidente",
+            "translation": "president"
         },
         {
-            "bocca": "mouth"
+            "word": "bocca",
+            "translation": "mouth"
         },
         {
-            "permesso": "permit"
+            "word": "permesso",
+            "translation": "permit"
         },
         {
-            "vecchia": "old"
+            "word": "vecchia",
+            "translation": "old"
         },
         {
-            "culo": "ass"
+            "word": "culo",
+            "translation": "ass"
         },
         {
-            "sogno": "dream"
+            "word": "sogno",
+            "translation": "dream"
         },
         {
-            "glielo": "it"
+            "word": "glielo",
+            "translation": "it"
         },
         {
-            "c": "c"
+            "word": "c",
+            "translation": "c"
         },
         {
-            "guardare": "watch"
+            "word": "guardare",
+            "translation": "watch"
         },
         {
-            "probabilmente": "probably"
+            "word": "probabilmente",
+            "translation": "probably"
         },
         {
-            "vengo": "I come"
+            "word": "vengo",
+            "translation": "I come"
         },
         {
-            "lasciami": "leave me"
+            "word": "lasciami",
+            "translation": "leave me"
         },
         {
-            "ie": "ie"
+            "word": "ie",
+            "translation": "ie"
         },
         {
-            "negli": "in"
+            "word": "negli",
+            "translation": "in"
         },
         {
-            "do": "do"
+            "word": "do",
+            "translation": "do"
         },
         {
-            "fermo": "stopped"
+            "word": "fermo",
+            "translation": "stopped"
         },
         {
-            "zitto": "Shut up"
+            "word": "zitto",
+            "translation": "Shut up"
         },
         {
-            "vera": "real"
+            "word": "vera",
+            "translation": "real"
         },
         {
-            "tante": "many"
+            "word": "tante",
+            "translation": "many"
         },
         {
-            "ln": "LN"
+            "word": "ln",
+            "translation": "LN"
         },
         {
-            "colonnello": "colonel"
+            "word": "colonnello",
+            "translation": "colonel"
         },
         {
-            "stupido": "stupid"
+            "word": "stupido",
+            "translation": "stupid"
         },
         {
-            "cristo": "Christ"
+            "word": "cristo",
+            "translation": "Christ"
         },
         {
-            "conosce": "know"
+            "word": "conosce",
+            "translation": "know"
         },
         {
-            "fame": "hunger"
+            "word": "fame",
+            "translation": "hunger"
         },
         {
-            "cura": "treatment"
+            "word": "cura",
+            "translation": "treatment"
         },
         {
-            "prigione": "prison"
+            "word": "prigione",
+            "translation": "prison"
         },
         {
-            "finire": "finish"
+            "word": "finire",
+            "translation": "finish"
         },
         {
-            "farai": "you will do"
+            "word": "farai",
+            "translation": "you will do"
         },
         {
-            "d": "d"
+            "word": "d",
+            "translation": "d"
         },
         {
-            "buonanotte": "Good night"
+            "word": "buonanotte",
+            "translation": "Good night"
         },
         {
-            "tom": "Tom"
+            "word": "tom",
+            "translation": "Tom"
         },
         {
-            "prossima": "next"
+            "word": "prossima",
+            "translation": "next"
         },
         {
-            "brava": "Good"
+            "word": "brava",
+            "translation": "Good"
         },
         {
-            "specie": "species"
+            "word": "specie",
+            "translation": "species"
         },
         {
-            "prende": "takes"
+            "word": "prende",
+            "translation": "takes"
         },
         {
-            "piacerebbe": "would like"
+            "word": "piacerebbe",
+            "translation": "would like"
         },
         {
-            "circa": "about"
+            "word": "circa",
+            "translation": "about"
         },
         {
-            "funziona": "works"
+            "word": "funziona",
+            "translation": "works"
         },
         {
-            "dovete": "you have to"
+            "word": "dovete",
+            "translation": "you have to"
         },
         {
-            "brutto": "ugly"
+            "word": "brutto",
+            "translation": "ugly"
         },
         {
-            "vattene": "get out"
+            "word": "vattene",
+            "translation": "get out"
         },
         {
-            "sente": "feel"
+            "word": "sente",
+            "translation": "feel"
         },
         {
-            "cavallo": "horse"
+            "word": "cavallo",
+            "translation": "horse"
         },
         {
-            "peccato": "Sin"
+            "word": "peccato",
+            "translation": "Sin"
         },
         {
-            "mattina": "morning"
+            "word": "mattina",
+            "translation": "morning"
         },
         {
-            "consiglio": "advise"
+            "word": "consiglio",
+            "translation": "advise"
         },
         {
-            "cambiare": "change"
+            "word": "cambiare",
+            "translation": "change"
         },
         {
-            "saperlo": "know it"
+            "word": "saperlo",
+            "translation": "know it"
         },
         {
-            "usare": "use"
+            "word": "usare",
+            "translation": "use"
         },
         {
-            "naturalmente": "naturally"
+            "word": "naturalmente",
+            "translation": "naturally"
         },
         {
-            "continua": "continues"
+            "word": "continua",
+            "translation": "continues"
         },
         {
-            "scelta": "choice"
+            "word": "scelta",
+            "translation": "choice"
         },
         {
-            "possibilità": "possibility"
+            "word": "possibilità",
+            "translation": "possibility"
         },
         {
-            "spesso": "Often"
+            "word": "spesso",
+            "translation": "Often"
         },
         {
-            "dà": "from"
+            "word": "dà",
+            "translation": "from"
         },
         {
-            "dirti": "tell you"
+            "word": "dirti",
+            "translation": "tell you"
         },
         {
-            "piuttosto": "rather"
+            "word": "piuttosto",
+            "translation": "rather"
         },
         {
-            "trovo": "I find"
+            "word": "trovo",
+            "translation": "I find"
         },
         {
-            "fondo": "background"
+            "word": "fondo",
+            "translation": "background"
         },
         {
-            "ricorda": "remember"
+            "word": "ricorda",
+            "translation": "remember"
         },
         {
-            "guardate": "watch"
+            "word": "guardate",
+            "translation": "watch"
         },
         {
-            "ospedale": "hospital"
+            "word": "ospedale",
+            "translation": "hospital"
         },
         {
-            "qualunque": "anyone"
+            "word": "qualunque",
+            "translation": "anyone"
         },
         {
-            "maria": "Maria"
+            "word": "maria",
+            "translation": "Maria"
         },
         {
-            "andrà": "will go"
+            "word": "andrà",
+            "translation": "will go"
         },
         {
-            "legge": "law"
+            "word": "legge",
+            "translation": "law"
         },
         {
-            "agente": "agent"
+            "word": "agente",
+            "translation": "agent"
         },
         {
-            "oltre": "beyond"
+            "word": "oltre",
+            "translation": "beyond"
         },
         {
-            "avesse": "had"
+            "word": "avesse",
+            "translation": "had"
         },
         {
-            "servizio": "service"
+            "word": "servizio",
+            "translation": "service"
         },
         {
-            "tanti": "many"
+            "word": "tanti",
+            "translation": "many"
         },
         {
-            "messaggio": "message"
+            "word": "messaggio",
+            "translation": "message"
         },
         {
-            "giornata": "day"
+            "word": "giornata",
+            "translation": "day"
         },
         {
-            "faceva": "he did"
+            "word": "faceva",
+            "translation": "he did"
         },
         {
-            "energia": "power"
+            "word": "energia",
+            "translation": "power"
         },
         {
-            "incredibile": "incredible"
+            "word": "incredibile",
+            "translation": "incredible"
         },
         {
-            "sala": "room"
+            "word": "sala",
+            "translation": "room"
         },
         {
-            "mandato": "mandate"
+            "word": "mandato",
+            "translation": "mandate"
         },
         {
-            "chiamare": "call"
+            "word": "chiamare",
+            "translation": "call"
         },
         {
-            "doveva": "where you go"
+            "word": "doveva",
+            "translation": "where you go"
         },
         {
-            "libero": "free"
+            "word": "libero",
+            "translation": "free"
         },
         {
-            "aereo": "airplane"
+            "word": "aereo",
+            "translation": "airplane"
         },
         {
-            "ricevuto": "received"
+            "word": "ricevuto",
+            "translation": "received"
         },
         {
-            "porti": "port"
+            "word": "porti",
+            "translation": "port"
         },
         {
-            "preoccuparti": "worry"
+            "word": "preoccuparti",
+            "translation": "worry"
         },
         {
-            "uh": "uh"
+            "word": "uh",
+            "translation": "uh"
         },
         {
-            "finalmente": "finally"
+            "word": "finalmente",
+            "translation": "finally"
         },
         {
-            "quali": "which"
+            "word": "quali",
+            "translation": "which"
         },
         {
-            "stronzo": "asshole"
+            "word": "stronzo",
+            "translation": "asshole"
         },
         {
-            "mostro": "monster"
+            "word": "mostro",
+            "translation": "monster"
         },
         {
-            "sette": "seven"
+            "word": "sette",
+            "translation": "seven"
         },
         {
-            "pronta": "ready"
+            "word": "pronta",
+            "translation": "ready"
         },
         {
-            "metti": "you put"
+            "word": "metti",
+            "translation": "you put"
         },
         {
-            "henry": "Henry"
+            "word": "henry",
+            "translation": "Henry"
         },
         {
-            "programma": "plan"
+            "word": "programma",
+            "translation": "plan"
         },
         {
-            "poteva": "he could"
+            "word": "poteva",
+            "translation": "he could"
         },
         {
-            "parti": "set off"
+            "word": "parti",
+            "translation": "set off"
         },
         {
-            "saputo": "known"
+            "word": "saputo",
+            "translation": "known"
         },
         {
-            "partita": "match"
+            "word": "partita",
+            "translation": "match"
         },
         {
-            "gentile": "Kind"
+            "word": "gentile",
+            "translation": "Kind"
         },
         {
-            "poter": "being able"
+            "word": "poter",
+            "translation": "being able"
         },
         {
-            "freddo": "Freddo"
+            "word": "freddo",
+            "translation": "Freddo"
         },
         {
-            "s'": "s'"
+            "word": "s'",
+            "translation": "s'"
         },
         {
-            "piacciono": "like"
+            "word": "piacciono",
+            "translation": "like"
         },
         {
-            "clark": "Clark"
+            "word": "clark",
+            "translation": "Clark"
         },
         {
-            "vederti": "see you"
+            "word": "vederti",
+            "translation": "see you"
         },
         {
-            "domande": "requests"
+            "word": "domande",
+            "translation": "requests"
         },
         {
-            "peggio": "worse"
+            "word": "peggio",
+            "translation": "worse"
         },
         {
-            "sanno": "they know"
+            "word": "sanno",
+            "translation": "they know"
         },
         {
-            "genitori": "parents"
+            "word": "genitori",
+            "translation": "parents"
         },
         {
-            "amica": "friend"
+            "word": "amica",
+            "translation": "friend"
         },
         {
-            "solito": "usual"
+            "word": "solito",
+            "translation": "usual"
         },
         {
-            "anima": "soul"
+            "word": "anima",
+            "translation": "soul"
         },
         {
-            "terribile": "terrible"
+            "word": "terribile",
+            "translation": "terrible"
         },
         {
-            "buonasera": "Good evening"
+            "word": "buonasera",
+            "translation": "Good evening"
         },
         {
-            "oro": "gold"
+            "word": "oro",
+            "translation": "gold"
         },
         {
-            "occhio": "eye"
+            "word": "occhio",
+            "translation": "eye"
         },
         {
-            "si'": "Yes'"
+            "word": "si'",
+            "translation": "Yes'"
         },
         {
-            "radio": "radio"
+            "word": "radio",
+            "translation": "radio"
         },
         {
-            "quante": "how much it is"
+            "word": "quante",
+            "translation": "how much it is"
         },
         {
-            "pieno": "full"
+            "word": "pieno",
+            "translation": "full"
         },
         {
-            "rapporto": "relationship"
+            "word": "rapporto",
+            "translation": "relationship"
         },
         {
-            "avrai": "you will have"
+            "word": "avrai",
+            "translation": "you will have"
         },
         {
-            "alcune": "someone"
+            "word": "alcune",
+            "translation": "someone"
         },
         {
-            "provare": "try"
+            "word": "provare",
+            "translation": "try"
         },
         {
-            "carino": "cute"
+            "word": "carino",
+            "translation": "cute"
         },
         {
-            "scoperto": "discovery"
+            "word": "scoperto",
+            "translation": "discovery"
         },
         {
-            "america": "America"
+            "word": "america",
+            "translation": "America"
         },
         {
-            "denaro": "money"
+            "word": "denaro",
+            "translation": "money"
         },
         {
-            "compagnia": "company"
+            "word": "compagnia",
+            "translation": "company"
         },
         {
-            "interessante": "Interesting"
+            "word": "interessante",
+            "translation": "Interesting"
         },
         {
-            "avvocato": "lawyer"
+            "word": "avvocato",
+            "translation": "lawyer"
         },
         {
-            "t'": "t '"
+            "word": "t'",
+            "translation": "t '"
         },
         {
-            "vestito": "dress"
+            "word": "vestito",
+            "translation": "dress"
         },
         {
-            "ottimo": "Optimal"
+            "word": "ottimo",
+            "translation": "Optimal"
         },
         {
-            "avevano": "they had"
+            "word": "avevano",
+            "translation": "they had"
         },
         {
-            "esercito": "army"
+            "word": "esercito",
+            "translation": "army"
         },
         {
-            "vestiti": "clothes"
+            "word": "vestiti",
+            "translation": "clothes"
         },
         {
-            "treno": "train"
+            "word": "treno",
+            "translation": "train"
         },
         {
-            "succedendo": "succeeding"
+            "word": "succedendo",
+            "translation": "succeeding"
         },
         {
-            "mese": "month"
+            "word": "mese",
+            "translation": "month"
         },
         {
-            "impossibile": "impossible"
+            "word": "impossibile",
+            "translation": "impossible"
         },
         {
-            "chiunque": "whoever"
+            "word": "chiunque",
+            "translation": "whoever"
         },
         {
-            "vale": "vale"
+            "word": "vale",
+            "translation": "vale"
         },
         {
-            "nello": "in"
+            "word": "nello",
+            "translation": "in"
         },
         {
-            "milioni": "millions"
+            "word": "milioni",
+            "translation": "millions"
         },
         {
-            "cibo": "food"
+            "word": "cibo",
+            "translation": "food"
         },
         {
-            "tempi": "time"
+            "word": "tempi",
+            "translation": "time"
         },
         {
-            "jim": "jim"
+            "word": "jim",
+            "translation": "jim"
         },
         {
-            "piu": "more"
+            "word": "piu",
+            "translation": "more"
         },
         {
-            "laggiù": "over there"
+            "word": "laggiù",
+            "translation": "over there"
         },
         {
-            "intorno": "environment"
+            "word": "intorno",
+            "translation": "environment"
         },
         {
-            "servono": "need"
+            "word": "servono",
+            "translation": "need"
         },
         {
-            "chiave": "key"
+            "word": "chiave",
+            "translation": "key"
         },
         {
-            "coi": "with"
+            "word": "coi",
+            "translation": "with"
         },
         {
-            "diritto": "right"
+            "word": "diritto",
+            "translation": "right"
         },
         {
-            "dimenticato": "forgotten"
+            "word": "dimenticato",
+            "translation": "forgotten"
         },
         {
-            "ve": "ve"
+            "word": "ve",
+            "translation": "ve"
         },
         {
-            "natale": "Christmas"
+            "word": "natale",
+            "translation": "Christmas"
         },
         {
-            "calma": "calm"
+            "word": "calma",
+            "translation": "calm"
         },
         {
-            "altrimenti": "otherwise"
+            "word": "altrimenti",
+            "translation": "otherwise"
         },
         {
-            "t": "t"
+            "word": "t",
+            "translation": "t"
         },
         {
-            "miss": "Miss"
+            "word": "miss",
+            "translation": "Miss"
         },
         {
-            "provato": "tried"
+            "word": "provato",
+            "translation": "tried"
         },
         {
-            "dirlo": "be"
+            "word": "dirlo",
+            "translation": "be"
         },
         {
-            "cinema": "cinema"
+            "word": "cinema",
+            "translation": "cinema"
         },
         {
-            "chiedere": "ask"
+            "word": "chiedere",
+            "translation": "ask"
         },
         {
-            "ritardo": "delay"
+            "word": "ritardo",
+            "translation": "delay"
         },
         {
-            "realtà": "reality"
+            "word": "realtà",
+            "translation": "reality"
         },
         {
-            "mare": "sea"
+            "word": "mare",
+            "translation": "sea"
         },
         {
-            "maestro": "master"
+            "word": "maestro",
+            "translation": "master"
         },
         {
-            "tv": "TV"
+            "word": "tv",
+            "translation": "TV"
         },
         {
-            "pagare": "pay"
+            "word": "pagare",
+            "translation": "pay"
         },
         {
-            "pianeta": "planet"
+            "word": "pianeta",
+            "translation": "planet"
         },
         {
-            "fronte": "forehead"
+            "word": "fronte",
+            "translation": "forehead"
         },
         {
-            "addosso": "on"
+            "word": "addosso",
+            "translation": "on"
         },
         {
-            "entrambi": "both"
+            "word": "entrambi",
+            "translation": "both"
         },
         {
-            "dia": "diamond"
+            "word": "dia",
+            "translation": "diamond"
         },
         {
-            "cambiato": "changed"
+            "word": "cambiato",
+            "translation": "changed"
         },
         {
-            "interessa": "interest"
+            "word": "interessa",
+            "translation": "interest"
         },
         {
-            "assolutamente": "absolutely"
+            "word": "assolutamente",
+            "translation": "absolutely"
         },
         {
-            "risposta": "answer"
+            "word": "risposta",
+            "translation": "answer"
         },
         {
-            "rispetto": "respect"
+            "word": "rispetto",
+            "translation": "respect"
         },
         {
-            "pena": "penalty"
+            "word": "pena",
+            "translation": "penalty"
         },
         {
-            "gesù": "Jesus"
+            "word": "gesù",
+            "translation": "Jesus"
         },
         {
-            "michael": "Michael"
+            "word": "michael",
+            "translation": "Michael"
         },
         {
-            "incontro": "encounter"
+            "word": "incontro",
+            "translation": "encounter"
         },
         {
-            "cercato": "looked for"
+            "word": "cercato",
+            "translation": "looked for"
         },
         {
-            "occhiata": "look"
+            "word": "occhiata",
+            "translation": "look"
         },
         {
-            "pensando": "think"
+            "word": "pensando",
+            "translation": "think"
         },
         {
-            "cioè": "Meaning what"
+            "word": "cioè",
+            "translation": "Meaning what"
         },
         {
-            "the": "tea"
+            "word": "the",
+            "translation": "tea"
         },
         {
-            "notizie": "news"
+            "word": "notizie",
+            "translation": "news"
         },
         {
-            "sorpresa": "surprise"
+            "word": "sorpresa",
+            "translation": "surprise"
         },
         {
-            "bastardo": "Bastard"
+            "word": "bastardo",
+            "translation": "Bastard"
         },
         {
-            "salute": "Health"
+            "word": "salute",
+            "translation": "Health"
         },
         {
-            "lettera": "letter"
+            "word": "lettera",
+            "translation": "letter"
         },
         {
-            "incidente": "accident"
+            "word": "incidente",
+            "translation": "accident"
         },
         {
-            "grosso": "big"
+            "word": "grosso",
+            "translation": "big"
         },
         {
-            "soli": "suns"
+            "word": "soli",
+            "translation": "suns"
         },
         {
-            "mica": "not"
+            "word": "mica",
+            "translation": "not"
         },
         {
-            "sembrava": "It seemed"
+            "word": "sembrava",
+            "translation": "It seemed"
         },
         {
-            "grado": "grade"
+            "word": "grado",
+            "translation": "grade"
         },
         {
-            "aiutare": "help"
+            "word": "aiutare",
+            "translation": "help"
         },
         {
-            "sinistra": "left"
+            "word": "sinistra",
+            "translation": "left"
         },
         {
-            "dovevo": "I had to"
+            "word": "dovevo",
+            "translation": "I had to"
         },
         {
-            "contento": "happy"
+            "word": "contento",
+            "translation": "happy"
         },
         {
-            "canzone": "song"
+            "word": "canzone",
+            "translation": "song"
         },
         {
-            "sapeva": "He knew"
+            "word": "sapeva",
+            "translation": "He knew"
         },
         {
-            "santo": "holy"
+            "word": "santo",
+            "translation": "holy"
         },
         {
-            "verrà": "it will come"
+            "word": "verrà",
+            "translation": "it will come"
         },
         {
-            "saremo": "we will be"
+            "word": "saremo",
+            "translation": "we will be"
         },
         {
-            "speciale": "special"
+            "word": "speciale",
+            "translation": "special"
         },
         {
-            "diceva": "he said"
+            "word": "diceva",
+            "translation": "he said"
         },
         {
-            "posizione": "position"
+            "word": "posizione",
+            "translation": "position"
         },
         {
-            "gruppo": "group"
+            "word": "gruppo",
+            "translation": "group"
         },
         {
-            "giuro": "I swear"
+            "word": "giuro",
+            "translation": "I swear"
         }
     ]
 }
