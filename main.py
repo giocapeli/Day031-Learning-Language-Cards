@@ -41,6 +41,10 @@ def save_word_false():
 def timer():
     global TIMER
     
+def save_progress():
+    print("SAVE")
+    window.destroy()
+    
 window = tkinter.Tk()
 window.title("Language Card Game")
 window.config(padx=50, pady=50, height=1000, width=1000, background=BACKGROUND_COLOR)
@@ -66,4 +70,5 @@ image_wrong = tkinter.PhotoImage(file='./images/wrong.png')
 button_incorrect = tkinter.Button(image=image_wrong, highlightthickness=0, command=save_word_false)
 
 # ---
+window.protocol("WM_DELETE_WINDOW", save_progress)
 window.mainloop()
